@@ -11,10 +11,14 @@
             "id": "46c9a78343a5b70b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Art/creativity.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "creativity"
             }
           }
         ]
@@ -244,8 +248,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "40feb7341e9b9707",
+  "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
+    "Art/aesthetics.md",
     "test.md",
     "Media/Frieren.md",
     "obsidian/README.md",
@@ -283,7 +288,6 @@
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md"
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md"
   ]
 }
