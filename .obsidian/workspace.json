@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/aesthetics.md",
+                "file": "Art/creativity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aesthetics"
+              "title": "creativity"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
-    "Art/creativity.md",
     "Art/aesthetics.md",
+    "Art/creativity.md",
     "Learning/Calculus.md",
     "Learning/CS50.md",
     "Learning/cs50 - 5.md",
