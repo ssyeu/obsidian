@@ -1,0 +1,11 @@
+showing people that they can improve is in itself a way to improve them, it shows people of lower cognitive level that the brain is a muscle that can be trained and improved on. Self improvement is possible and a big roadblock for a lot of people is just thinking that they can't improve when they can. Building a growth mindset isn't easy and it does take time but it is worth it.
+
+Being too focused on improving can lead to perfectionism though which does lead to bad outcomes. Having your self worth be dictated by these measurements you have set for yourself can be unhealthy, especially when these measurements are unrealistic but that's often what happens. Adults and young people could be more sensitive to perfectionism due to awareness that they are in a time period where striving for those goals matters a lot. Perfectionist striving had small but significant associations with anxiety and ocd in young people. 
+
+These perceptions by young people of the expectations around them and their strive for perfectionism is also increasing over time. Its a cycle where the previous students strives for high goals and parents want their kid to match or exceed that pushing them further and further. Parents are also responding to societal pressures with more anxious, controlling, and pressurized parenting. The paper mentions three possibilities for the rise in these things, the first being neoliberalism amplifying competitiveness and  irrational ideas of perfectibility as desirable and obtainable goals, the second, stressed the importance of meritocracy and the harmful messages that the hard work doctrine sends to young people about linking their performance to their self worth, and the third is with parents pushing their achievement anxieties onto their children passing it on to them. 
+
+sources:
+https://www.tandfonline.com/doi/full/10.1080/16506073.2023.2211736#d1e502
+https://www.apa.org/pubs/journals/releases/bul-bul0000347.pdf
+https://www.nature.com/articles/s41586-019-1466-y#Sec6
+https://pubmed.ncbi.nlm.nih.gov/37194469/
