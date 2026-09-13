@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ada2bebee7d0bf7",
+            "id": "46c9a78343a5b70b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -198,8 +202,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -225,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -244,27 +248,32 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3ada2bebee7d0bf7",
+  "active": "40feb7341e9b9707",
   "lastOpenFiles": [
-    "obsidian/Art/aesthetics.md",
+    "test.md",
+    "Media/Frieren.md",
     "obsidian/README.md",
+    "obsidian/Media/Frieren.md",
+    "obsidian/Media/A Lunch in Paris by Elizabeth Band.md",
+    "obsidian/Media",
+    "obsidian/Learning/cs50 - 5.md",
+    "obsidian/Learning/cs50 - 1.md",
+    "obsidian/Learning/cs50 - 0.md",
+    "obsidian/Learning/Self Improvement and Toxicity.md",
+    "obsidian/Learning/Population numbers going down is bad.md",
+    "obsidian/Learning/How watches work.md",
     "obsidian/Learning/Calculus.md",
-    "obsidian",
-    "obsidian/AGENTS.md",
     "obsidian/Learning/CS50.md",
+    "obsidian/Learning",
+    "obsidian/Art/creativity.md",
+    "obsidian/Art/aesthetics.md",
+    "obsidian/Art",
+    "obsidian/AGENTS.md",
+    "obsidian",
     "Attachments/Pasted image 20260913113851.png",
     "Attachments/Pasted image 20260913113546.png",
     "Attachments/Pasted image 20260913113540.png",
     "Attachments",
-    "obsidian/Learning/cs50 - 5.md",
-    "obsidian/Learning/cs50 - 0.md",
-    "obsidian/Learning/cs50 - 1.md",
-    "obsidian/Learning/Self Improvement and Toxicity.md",
-    "obsidian/Learning/Population numbers going down is bad.md",
-    "obsidian/Learning/How watches work.md",
-    "obsidian/Media/A Lunch in Paris by Elizabeth Band.md",
-    "obsidian/Media/Frieren.md",
-    "obsidian/Art/creativity.md",
     "copilot/skills/copilot-web-search/SKILL.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
@@ -275,15 +284,10 @@
     "copilot/skills/json-canvas/references",
     "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/openartifacts-publish/SKILL.md"
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md"
   ]
 }
