@@ -11,14 +11,10 @@
             "id": "3ada2bebee7d0bf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/Art/creativity.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "creativity"
+              "title": "New tab"
             }
           }
         ]
@@ -202,8 +198,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -216,11 +212,12 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789323908746-qpvzq45",
-                      "conversationId": "conv-1789323913546-nhxzscyu4"
+                      "tabId": "tab-1789324674409-xti2aew",
+                      "conversationId": null,
+                      "draftModel": "opus"
                     }
                   ],
-                  "activeTabId": "tab-1789323908746-qpvzq45"
+                  "activeTabId": "tab-1789324674409-xti2aew"
                 }
               },
               "icon": "bot",
