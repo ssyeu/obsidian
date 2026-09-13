@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789342156864-51fzf864g",
+  "providerId": "codex",
+  "title": "Take the daily learning quiz",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789342156867,
+  "lastActivityAt": 1789342176118,
+  "sessionId": "01a09d1a-89c7-7b93-846b-e57fa1acff2a",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a09d1a-89c7-7b93-846b-e57fa1acff2a",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/13/rollout-2026-09-13T18-29-17-01a09d1a-89c7-7b93-846b-e57fa1acff2a.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/Calculus.md",
+  "usage": {
+    "inputTokens": 13644,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12416,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 13644,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}

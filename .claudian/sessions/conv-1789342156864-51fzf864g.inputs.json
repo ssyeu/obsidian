@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789342156864-51fzf864g",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789342156901-dpylvao",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789342156856-rr9t84m",
+      "timestamp": 1789342156856,
+      "rawDisplayText": "give me my daily quiz",
+      "canonicalText": "give me my daily quiz",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/Calculus.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "2711553583c5c7b9ba82f5d3b896c6d5fd375b29d0afb47c6fe1d19276508cc2",
+      "providerUserMessageId": "01a09d1a-8e4c-75a1-a5f3-d45396d3a619",
+      "providerAssistantMessageId": "msg_0d45f4f82d41684f016aa731dfb80487d1ae134ec2e5e3dfdd"
+    }
+  ]
+}

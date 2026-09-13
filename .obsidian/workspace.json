@@ -217,8 +217,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1789324674409-xti2aew",
-                      "conversationId": null,
-                      "draftModel": "opus"
+                      "conversationId": "conv-1789342156864-51fzf864g"
                     }
                   ],
                   "activeTabId": "tab-1789324674409-xti2aew"
@@ -229,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -250,8 +249,9 @@
   },
   "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
-    "Learning/cs50 - 5.md",
+    "Learning/CS50.md",
     "Learning/Calculus.md",
+    "Learning/cs50 - 5.md",
     "Learning/cs50 - 0.md",
     "Learning/How watches work.md",
     "Learning/Population numbers going down is bad.md",
@@ -278,7 +278,6 @@
     "obsidian/Art/creativity.md",
     "obsidian/Art/aesthetics.md",
     "obsidian/Art",
-    "obsidian/AGENTS.md",
     "obsidian",
     "Attachments/Pasted image 20260913113851.png",
     "Attachments/Pasted image 20260913113546.png",
