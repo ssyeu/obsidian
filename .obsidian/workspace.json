@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Calculus.md",
+                "file": "Art/aesthetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus"
+              "title": "aesthetics"
             }
           }
         ]
@@ -232,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.8671875
+    "width": 393.8671875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,8 +250,10 @@
   },
   "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
-    "Learning/CS50.md",
+    "Art/creativity.md",
+    "Art/aesthetics.md",
     "Learning/Calculus.md",
+    "Learning/CS50.md",
     "Learning/cs50 - 5.md",
     "Learning/cs50 - 0.md",
     "Learning/How watches work.md",
@@ -259,8 +262,6 @@
     "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/Frieren.md",
     "README.md",
-    "Art/creativity.md",
-    "Art/aesthetics.md",
     "test.md",
     "obsidian/README.md",
     "obsidian/Media/Frieren.md",
