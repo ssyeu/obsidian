@@ -90,6 +90,20 @@
       "contentDigest": "6899b7a39f69918fef1226498fed1c3c47ca551a6a3b8831e7984808dbb6af4b",
       "providerUserMessageId": "01a09d1c-ae71-73a3-bbe1-a48b76d574f6",
       "providerAssistantMessageId": "msg_0d45f4f82d41684f016aa7325ee23887d1836cb474e624413a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789342325880-71rc4fq",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1789342325877-40d9eqs",
+      "timestamp": 1789342325877,
+      "rawDisplayText": "the escapement turns the movement into useful descreet motion instead of it letting the energy all escape at once",
+      "canonicalText": "the escapement turns the movement into useful descreet motion instead of it letting the energy all escape at once",
+      "images": [],
+      "contentDigest": "af7b754972c294c6b43c6ae30005ede504d6c8ac49d0a75d7611da0285c735d5",
+      "providerUserMessageId": "01a09d1d-1c8b-74a1-918f-b58180b0e6be",
+      "providerAssistantMessageId": "msg_0d45f4f82d41684f016aa73278a49087d1b0744f22c5a2f122"
     }
   ]
 }
