@@ -13,4 +13,4 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 8. Summarization: write summaries of things you have learned.
 9. Keyword mnemonic: using keywords and imagery to associate verbal materials
 10. Imagery for test: attempting to form mental images of text materials
-These strategies according to the article are sup
+These strategies according to the article are supposed to provide the maximum benefit while reducing the time spent in class on them allowing them to be weaved into classes. They are different in what kind of learning they promote, some with memory, others with core concepts, and others with comprehension.
