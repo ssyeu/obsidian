@@ -218,9 +218,14 @@
                     {
                       "tabId": "tab-1789347375376-mhk8ojc",
                       "conversationId": "conv-1789347397343-ks7zkqiec"
+                    },
+                    {
+                      "tabId": "tab-1789350739405-8y0xzv8",
+                      "conversationId": null,
+                      "draftModel": "gpt-6-astra"
                     }
                   ],
-                  "activeTabId": "tab-1789347375376-mhk8ojc"
+                  "activeTabId": "tab-1789350739405-8y0xzv8"
                 }
               },
               "icon": "bot",
@@ -232,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.8671875
+    "width": 393.8671875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
