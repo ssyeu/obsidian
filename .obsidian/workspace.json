@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/cs50 - 5.md",
+                "file": "Learning/How Learning Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cs50 - 5"
+              "title": "How Learning Works"
             }
           }
         ]
@@ -232,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.8671875
+    "width": 393.8671875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,20 +248,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d67ff53992dccb03",
+  "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
+    "README.md",
+    "Learning/How Learning Works.md",
+    "Learning/cs50 - 5.md",
     "Art/creativity.md",
     "Art/aesthetics.md",
     "Learning/Calculus.md",
     "Learning/CS50.md",
-    "Learning/cs50 - 5.md",
     "Learning/cs50 - 0.md",
     "Learning/How watches work.md",
     "Learning/Population numbers going down is bad.md",
     "Learning/Self Improvement and Toxicity.md",
     "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/Frieren.md",
-    "README.md",
     "test.md",
     "obsidian/README.md",
     "obsidian/Media/Frieren.md",
@@ -276,7 +278,6 @@
     "obsidian/Learning/CS50.md",
     "obsidian/Learning",
     "obsidian/Art/creativity.md",
-    "obsidian/Art/aesthetics.md",
     "obsidian/Art",
     "obsidian",
     "Attachments/Pasted image 20260913113851.png",
