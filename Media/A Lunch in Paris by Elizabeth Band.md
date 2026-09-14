@@ -1,1 +1,3 @@
 I feel like the story overly romanticizes Paris, I mean I've been and there are some bad parts, there's trash everywhere and there are people trying to scam you near every big attraction. Like its not this perfect utopia that is imagined in the book. I'm only three chapters in though so maybe it changes and she gets more critical. I think its cute though, it shows this young lady falling in love while getting through her life. I wonder how the book will progress, we're only getting introduced to our characters right now but if it stays like this the entire book I would imagine it being pretty boring.
+
+This book.... is very boring.... i quit!
