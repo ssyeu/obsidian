@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/How Learning Works.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Learning Works"
+              "title": "Untitled"
             }
           }
         ]
@@ -247,8 +247,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d67ff53992dccb03",
+  "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Learning/How Learning Works.md",
     "AGENTS.md",
     "Art/aesthetics.md",
@@ -275,7 +276,6 @@
     "obsidian/Learning/Population numbers going down is bad.md",
     "obsidian/Learning/How watches work.md",
     "obsidian/Learning/Calculus.md",
-    "obsidian/Learning/CS50.md",
     "obsidian/Learning",
     "obsidian/Art",
     "obsidian",
