@@ -4,7 +4,7 @@
   "title": "Find articles on effective and ineffective lear...",
   "titleGenerationStatus": "success",
   "createdAt": 1789347397347,
-  "lastActivityAt": 1789347397347,
+  "lastActivityAt": 1789347433618,
   "sessionId": "01a09d6a-8073-7722-b2ac-f2ab0505839d",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -14,5 +14,15 @@
     "transcriptRootPath": "/home/syeu/.codex/sessions",
     "workspaceDependencyToolVersion": 1
   },
-  "linkedContentPath": "Learning/cs50 - 5.md"
+  "linkedContentPath": "Learning/cs50 - 5.md",
+  "usage": {
+    "inputTokens": 28191,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19840,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 28191,
+    "percentage": 11,
+    "model": "gpt-6-astra"
+  }
 }
