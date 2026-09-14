@@ -1,0 +1,18 @@
+{
+  "id": "conv-1789347397343-ks7zkqiec",
+  "providerId": "codex",
+  "title": "Find articles on effective and ineffective lear...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789347397347,
+  "lastActivityAt": 1789347397347,
+  "sessionId": "01a09d6a-8073-7722-b2ac-f2ab0505839d",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a09d6a-8073-7722-b2ac-f2ab0505839d",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/13/rollout-2026-09-13T19-56-37-01a09d6a-8073-7722-b2ac-f2ab0505839d.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/cs50 - 5.md"
+}
