@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "A Lunch in Paris by Elizabeth Band"
             }
+          },
+          {
+            "id": "9bcd16bc5c077e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +263,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "46c9a78343a5b70b",
+  "active": "9bcd16bc5c077e37",
   "lastOpenFiles": [
+    "Media/A Lunch in Paris by Elizabeth Band.md",
+    "Untitled.md",
     "Art/About Hermes.md",
     "Learning/Population numbers going down is bad.md",
     "Art/Creativity.md",
@@ -263,7 +280,6 @@
     "Learning/cs50 - 0.md",
     "Learning/How watches work.md",
     "Learning/Self Improvement and Toxicity.md",
-    "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/Frieren.md",
     "test.md",
     "obsidian/README.md",
@@ -276,7 +292,6 @@
     "obsidian/Learning/Self Improvement and Toxicity.md",
     "obsidian/Learning/Population numbers going down is bad.md",
     "obsidian/Learning/How watches work.md",
-    "obsidian/Learning/Calculus.md",
     "obsidian/Learning",
     "obsidian/Art",
     "obsidian",
