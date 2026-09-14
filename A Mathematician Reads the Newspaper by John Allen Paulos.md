@@ -1,0 +1,1 @@
+he talks about the Bahnzhaf power index which talks about how power is distributed in a situa
