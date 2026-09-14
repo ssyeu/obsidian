@@ -7,4 +7,6 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 2. Distributed practice: spreading out learning to make sure it's not all crammed at once
 3. Interleaved practice: mixing different kinds of problems or different materials
 4. Elaborative interrogation: generating an explanation for why a concept is true, not just memorizing that it is true.
-5. 
+5. Self explanation: explaining how new information is related to known information or how things logically build on each other.
+6. Rereading: looking back on old material we have already learned.
+7. Marking: marking potentially impo
