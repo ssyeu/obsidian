@@ -3,7 +3,7 @@ Being confused is what makes things hard for your brain which is what makes you 
 
 https://www.aft.org/ae/fall2013/dunlosky
 Students are very rarely taught how to learn, just what to learn and to retain it long enough to pass a test. Some effective learning strategies.
-1. Practice testing: self testing on material you are learning
+1. Practice testing: self testing on material you are learning. Practice tests are the most effective way to learn. Low stakes tests allow students to test their skills in a low stress environment that lets them boost their learning and understand what they don't know 
 2. Distributed practice: spreading out learning to make sure it's not all crammed at once
 3. Interleaved practice: mixing different kinds of problems or different materials
 4. Elaborative interrogation: generating an explanation for why a concept is true, not just memorizing that it is true.
