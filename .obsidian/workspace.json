@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Mathematician Reads the Newspaper by John Allen Paulos"
+              "title": "Untitled"
             }
           }
         ],
@@ -273,8 +273,9 @@
   },
   "active": "9bcd16bc5c077e37",
   "lastOpenFiles": [
-    "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
+    "Untitled.md",
+    "Media/A Lunch in Paris by Elizabeth Band.md",
     "README.md",
     "AGENTS.md",
     "Media/Frieren.md",
@@ -299,7 +300,6 @@
     "obsidian/Learning/cs50 - 0.md",
     "obsidian/Learning/Self Improvement and Toxicity.md",
     "obsidian/Learning/Population numbers going down is bad.md",
-    "obsidian/Learning/How watches work.md",
     "obsidian/Learning",
     "obsidian/Art",
     "obsidian",
