@@ -9,11 +9,11 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 
 3. Interleaved practice: mixing different kinds of problems or different materials. It can be mixing up the order of materials across different topics, creating the most change in learning sessions will create the most mental incongruence which would lead to better learning once you work through them and try to figure it out. It can be solving a batch of previous problems every time you move onto a new topic. It also helps you practice identifying problems, being able to separate when you should do one thing over another, rather than solving problems in the same way over and over again.
 
-4. Elaborative interrogation: generating an explanation for why a concept is true, not just memorizing that it is true. Asking yourself why things are true can benefit understanding and retention even if you come up with the wrong answer, as long as you put effort towards that learning it is what is needed. Wondering how new information is connected with old ones also builds a deeper understanding of the material. The success rate of solving problems that are studied seems to be no different between students who self explain and those who don't but when you need to transfer skills that you have learned then self explanation benefits them a lot. Limitations are that it could be very difficult for students with no prior knowledge on the subjects in question.
-5. Self explanation: explaining how new information is related to known information or how things logically build on each other.
-6. Rereading: looking back on old material we have already learned.
-7. Marking: marking potentially important portions to learn.
-8. Summarization: write summaries of things you have learned.
-9. Keyword mnemonic: using keywords and imagery to associate verbal materials
-10. Imagery for test: attempting to form mental images of text materials
+4. Elaborative interrogation and self explanation: generating an explanation for why a concept is true, not just memorizing that it is true. Asking yourself why things are true can benefit understanding and retention even if you come up with the wrong answer, as long as you put effort towards that learning it is what is needed. Wondering how new information is connected with old ones also builds a deeper understanding of the material. The success rate of solving problems that are studied seems to be no different between students who self explain and those who don't but when you need to transfer skills that you have learned then self explanation benefits them a lot. Limitations are that it could be very difficult for students with no prior knowledge on the subjects in question.
+
+5. Rereading and marking: looking back on old material we have already learned. This is a popular strategy with students but it doent seem to be very effective. There are 
+
+6. Summarization: write summaries of things you have learned.
+7. Keyword mnemonic: using keywords and imagery to associate verbal materials
+8. Imagery for test: attempting to form mental images of text materials
 These strategies according to the article are supposed to provide the maximum benefit while reducing the time spent in class on them allowing them to be weaved into classes. They are different in what kind of learning they promote, some with memory, others with core concepts, and others with comprehension.
