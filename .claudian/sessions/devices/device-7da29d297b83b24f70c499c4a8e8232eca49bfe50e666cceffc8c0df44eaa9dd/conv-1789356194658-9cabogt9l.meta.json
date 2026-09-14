@@ -4,7 +4,7 @@
   "title": "Find sources to learn about Hermès",
   "titleGenerationStatus": "success",
   "createdAt": 1789356194662,
-  "lastActivityAt": 1789356194662,
+  "lastActivityAt": 1789356219370,
   "sessionId": "01a09df0-bd0c-7871-9763-27a257fd3a00",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -14,5 +14,15 @@
     "transcriptRootPath": "/home/syeu/.codex/sessions",
     "workspaceDependencyToolVersion": 1
   },
-  "linkedContentPath": "Learning/How Learning Works.md"
+  "linkedContentPath": "Learning/How Learning Works.md",
+  "usage": {
+    "inputTokens": 25445,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21120,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 25445,
+    "percentage": 10,
+    "model": "gpt-6-astra"
+  }
 }
