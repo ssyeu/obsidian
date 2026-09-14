@@ -11,3 +11,4 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 6. Rereading: looking back on old material we have already learned.
 7. Marking: marking potentially important portions to learn.
 8. Summarization: write summaries of things you have learned.
+9. Keyword mnemonic: using keywords and imagery to associate verbal materials
