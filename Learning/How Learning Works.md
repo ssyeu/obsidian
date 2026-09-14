@@ -13,7 +13,7 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 
 5. Rereading and marking: looking back on old material we have already learned. This is a popular strategy with students but it doesn't seem to be very effective. It does not always enhance student's understanding of what they read and they are not long lasting, there are better ways to spend your time studying. Highlighting might even make you worse if its the only thing you do without thinking about what you're highlighting. It makes you pass through the reading or information without even thinking about it while giving you the confidence that you are doing something. Highlighting might be a tool that lets you see what information you think is important to do more with later but is not a strategy on its own.
 
-6. Summarization: write summaries of things you have learned.
+6. Summarization: write summaries of things you have learned. It seems to work better the better you are at writing summaries that are in depth and let you reflect on what you learned. If you do do this make sure its done with intention and that you practice summarizing on its own. Low quality summaries will do nothing while high quality summa
 7. Keyword mnemonic: using keywords and imagery to associate verbal materials
 8. Imagery for test: attempting to form mental images of text materials
 These strategies according to the article are supposed to provide the maximum benefit while reducing the time spent in class on them allowing them to be weaved into classes. They are different in what kind of learning they promote, some with memory, others with core concepts, and others with comprehension.
