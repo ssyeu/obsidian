@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/CS50.md",
+                "file": "Learning/How Learning Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50"
+              "title": "How Learning Works"
             }
           }
         ],
@@ -273,8 +273,8 @@
   },
   "active": "9bcd16bc5c077e37",
   "lastOpenFiles": [
-    "Learning/cs50 - 5.md",
     "Learning/CS50.md",
+    "Learning/cs50 - 5.md",
     "Learning/cs50 - 1.md",
     "Learning/cs50 - 0.md",
     "Learning/cs50 - 6.md",
