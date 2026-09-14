@@ -3,6 +3,7 @@ Being confused is what makes things hard for your brain which is what makes you 
 
 https://www.aft.org/ae/fall2013/dunlosky
 Students are very rarely taught how to learn, just what to learn and to retain it long enough to pass a test. Some learning strategies.
+
 1. Practice testing: self testing on material you are learning. Practice tests are the most effective way to learn. Low stakes tests allow students to test their skills in a low stress environment that lets them boost their learning and understand what they don't know quickly. Letting them adapt their learning to the topics that need their attention the most. It also boost long term memory. Students should be encouraged to make and take tests for themselves, creating flash cards while reading a text book for example.
 
 2. Distributed practice: spreading out learning to make sure it's not all crammed at once. Its better distribute practice even in a single session. For example, someone learning 10 topics, they can go through each topic 5 times then move onto the next one, or they could go through all of them one at a time 5 times. The second one is more distributed and the first is more massed. Students will retain more knowledge for longer time when they distribute their practice. Massed learning can appear to do more in the moment as it seems you learn more but its harder to recall that information later. Massed practice can also be overwhelming.
@@ -15,5 +16,6 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 
 6. Summarization: write summaries of things you have learned. It seems to work better the better you are at writing summaries that are in depth and let you reflect on what you learned. If you do do this make sure its done with intention and that you practice summarizing on its own. Low quality summaries will do nothing while high quality summaries will help you learn a little, it may not be as effective as other strategies but it might be a tool in the toolbox. 
 
-7. Keyword mnemonic and imagery: using keywords and imagery to associate verbal materials. Research shows that the benefits of this strategy are short lived and 
-These strategies according to the article are supposed to provide the maximum benefit while reducing the time spent in class on them allowing them to be weaved into classes. They are different in what kind of learning they promote, some with memory, others with core concepts, and others with comprehension.
+7. Keyword mnemonic and imagery: using keywords and imagery to associate verbal materials. Research shows that the benefits of this strategy are short lived and a lot of content is not friendly to this strategy. If something is hard to imagine than it is basically worthless but its not useless.
+
+These strategies according to the article are supposed to provide the maximum benefit while reducing the time spent in class on them allowing them to be weaved into classes. They are different in what kind of learning they promote, some with memory, others with core concepts, and others with comprehension. I think a lot of this article i mostly knew from intuition and previous experience trying to learn things. I feel like the biggest thing is trying to learn with [[]]
