@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789359059858-vin3e7akm",
+  "providerId": "codex",
+  "title": "Check Banzhaf Power Index description accuracy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789359059861,
+  "lastActivityAt": 1789359085175,
+  "sessionId": "01a09e1c-74d5-7572-839f-404a4f54ea41",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a09e1c-74d5-7572-839f-404a4f54ea41",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/13/rollout-2026-09-13T23-11-00-01a09e1c-74d5-7572-839f-404a4f54ea41.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "A Mathematician Reads the Newspaper by John Allen Paulos.md",
+  "usage": {
+    "inputTokens": 16521,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12288,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16521,
+    "percentage": 6,
+    "model": "gpt-6-astra"
+  }
+}

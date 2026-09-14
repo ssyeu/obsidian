@@ -233,9 +233,13 @@
                     {
                       "tabId": "tab-1789350739405-8y0xzv8",
                       "conversationId": "conv-1789356194658-9cabogt9l"
+                    },
+                    {
+                      "tabId": "tab-1789359036873-79ccng1",
+                      "conversationId": "conv-1789359059858-vin3e7akm"
                     }
                   ],
-                  "activeTabId": "tab-1789350739405-8y0xzv8"
+                  "activeTabId": "tab-1789359036873-79ccng1"
                 }
               },
               "icon": "bot",
@@ -247,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.8671875,
-    "collapsed": true
+    "width": 393.8671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,7 +266,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9bcd16bc5c077e37",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Media/A Lunch in Paris by Elizabeth Band.md",
     "A Mathematician Reads the Newspaper by John Allen Paulos.md",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789359059858-vin3e7akm",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789359059895-ebbqfcr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789359059856-2mqdpir",
+      "timestamp": 1789359059856,
+      "rawDisplayText": "is my description of the Banzhaf Power Index accurate here",
+      "canonicalText": "is my description of the Banzhaf Power Index accurate here",
+      "context": {
+        "linkedContent": {
+          "path": "A Mathematician Reads the Newspaper by John Allen Paulos.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5261f962508a1c0dc52632c0dc82ce61f6762354d6c77ea29c81eac4fbc62cbe",
+      "providerUserMessageId": "01a09e1c-8d08-7d92-9175-93925d0f16af",
+      "providerAssistantMessageId": "msg_02dcc57c8c9cc2ca016aa773e3af6087d1a6bfb267517ae8a8"
+    }
+  ]
+}
