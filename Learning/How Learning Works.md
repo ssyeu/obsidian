@@ -20,8 +20,11 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 
 These strategies according to the article are supposed to provide the maximum benefit while reducing the time spent in class on them allowing them to be weaved into classes. They are different in what kind of learning they promote, some with memory, others with core concepts, and others with comprehension. I think a lot of this article i mostly knew from intuition and previous experience trying to learn things. I feel like the biggest thing is trying to learn with [[intention]] instead of blindly summarizing or highlighting or doing something that doesn't require as much thinking.
 
+
+https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf
+
+
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01134/full
-https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf
