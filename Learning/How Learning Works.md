@@ -9,4 +9,5 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 4. Elaborative interrogation: generating an explanation for why a concept is true, not just memorizing that it is true.
 5. Self explanation: explaining how new information is related to known information or how things logically build on each other.
 6. Rereading: looking back on old material we have already learned.
-7. Marking: marking potentially impo
+7. Marking: marking potentially important portions to learn.
+8. Summarization: write summaries of things you have learned.
