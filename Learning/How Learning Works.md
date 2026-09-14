@@ -22,7 +22,7 @@ These strategies according to the article are supposed to provide the maximum be
 
 
 https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf
-studying hard =/= good performance
+studying hard =/= good performance. Induced forgetting often nhances subsequent learning. Desirable difficulties
 
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
