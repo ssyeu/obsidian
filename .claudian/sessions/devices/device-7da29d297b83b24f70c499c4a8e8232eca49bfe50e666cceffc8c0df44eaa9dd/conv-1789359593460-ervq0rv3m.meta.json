@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789359593460-ervq0rv3m",
+  "providerId": "codex",
+  "title": "Add media themes to the daily learning quiz",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789359593462,
+  "lastActivityAt": 1789359618294,
+  "sessionId": "01a09e24-99af-76a2-8e41-8c8a9c69b261",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a09e24-99af-76a2-8e41-8c8a9c69b261",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/13/rollout-2026-09-13T23-19-53-01a09e24-99af-76a2-8e41-8c8a9c69b261.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
+  "usage": {
+    "inputTokens": 13151,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12800,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 13151,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}

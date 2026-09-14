@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789359593460-ervq0rv3m",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789359593495-tvim1d9",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789359593458-ghmnplt",
+      "timestamp": 1789359593458,
+      "rawDisplayText": "can you add the media folder to the daily learning quiz too, but dont just ask about what happened in the plot, ask about big picture ideas like concepts that seem important",
+      "canonicalText": "can you add the media folder to the daily learning quiz too, but dont just ask about what happened in the plot, ask about big picture ideas like concepts that seem important",
+      "context": {
+        "linkedContent": {
+          "path": "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "fa01414afa53d12d741903f1c2e760ea29e97e0cd719394c8d6c075190a9a3f9",
+      "providerUserMessageId": "01a09e24-a05f-7e82-8317-775b3116ab63",
+      "providerAssistantMessageId": "msg_0fc8e16defd103b5016aa77600d0b087d18e7f4e6730453901"
+    }
+  ]
+}
