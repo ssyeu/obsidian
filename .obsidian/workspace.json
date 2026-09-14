@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/How Learning Works.md",
+                "file": "Art/aesthetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Learning Works"
+              "title": "aesthetics"
             }
           }
         ]
@@ -250,10 +250,10 @@
   },
   "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
-    "README.md",
-    "Learning/How Learning Works.md",
-    "Learning/cs50 - 5.md",
     "Art/creativity.md",
+    "Learning/How Learning Works.md",
+    "README.md",
+    "Learning/cs50 - 5.md",
     "Art/aesthetics.md",
     "Learning/Calculus.md",
     "Learning/CS50.md",
