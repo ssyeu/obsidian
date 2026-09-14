@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Population numbers going down is bad.md",
+                "file": "Art/About Hermes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Population numbers going down is bad"
+              "title": "About Hermes"
             }
           }
         ]
@@ -250,6 +250,7 @@
   },
   "active": "46c9a78343a5b70b",
   "lastOpenFiles": [
+    "Learning/Population numbers going down is bad.md",
     "Art/About Hermes.md",
     "Art/Creativity.md",
     "Art/Aesthetics.md",
@@ -261,7 +262,6 @@
     "Learning/CS50.md",
     "Learning/cs50 - 0.md",
     "Learning/How watches work.md",
-    "Learning/Population numbers going down is bad.md",
     "Learning/Self Improvement and Toxicity.md",
     "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/Frieren.md",
