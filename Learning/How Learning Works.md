@@ -11,7 +11,7 @@ Students are very rarely taught how to learn, just what to learn and to retain i
 
 4. Elaborative interrogation and self explanation: generating an explanation for why a concept is true, not just memorizing that it is true. Asking yourself why things are true can benefit understanding and retention even if you come up with the wrong answer, as long as you put effort towards that learning it is what is needed. Wondering how new information is connected with old ones also builds a deeper understanding of the material. The success rate of solving problems that are studied seems to be no different between students who self explain and those who don't but when you need to transfer skills that you have learned then self explanation benefits them a lot. Limitations are that it could be very difficult for students with no prior knowledge on the subjects in question.
 
-5. Rereading and marking: looking back on old material we have already learned. This is a popular strategy with students but it doent seem to be very effective. There are 
+5. Rereading and marking: looking back on old material we have already learned. This is a popular strategy with students but it doent seem to be very effective. It does not always enhance student's understanding of what they read and they are not long lasting, there are better ways to spend your time studying. Highlighting might even make you worse if its the only thing you do without thinking about what you're highlighting. It makes you pass through the reading or information withou
 
 6. Summarization: write summaries of things you have learned.
 7. Keyword mnemonic: using keywords and imagery to associate verbal materials
