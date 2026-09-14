@@ -216,13 +216,8 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789347375376-mhk8ojc",
-                      "conversationId": "conv-1789347397343-ks7zkqiec"
-                    },
-                    {
                       "tabId": "tab-1789350739405-8y0xzv8",
-                      "conversationId": null,
-                      "draftModel": "gpt-6-astra"
+                      "conversationId": "conv-1789356194658-9cabogt9l"
                     }
                   ],
                   "activeTabId": "tab-1789350739405-8y0xzv8"
@@ -237,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.8671875,
-    "collapsed": true
+    "width": 393.8671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +247,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "46c9a78343a5b70b",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "AGENTS.md",
     "Learning/How Learning Works.md",

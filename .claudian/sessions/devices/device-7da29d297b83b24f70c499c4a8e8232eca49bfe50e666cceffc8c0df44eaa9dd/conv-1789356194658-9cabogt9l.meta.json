@@ -1,0 +1,18 @@
+{
+  "id": "conv-1789356194658-9cabogt9l",
+  "providerId": "codex",
+  "title": "Find sources to learn about Hermès",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789356194662,
+  "lastActivityAt": 1789356194662,
+  "sessionId": "01a09df0-bd0c-7871-9763-27a257fd3a00",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a09df0-bd0c-7871-9763-27a257fd3a00",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/13/rollout-2026-09-13T22-23-15-01a09df0-bd0c-7871-9763-27a257fd3a00.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/How Learning Works.md"
+}

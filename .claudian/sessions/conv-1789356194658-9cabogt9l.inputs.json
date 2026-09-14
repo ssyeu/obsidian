@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789356194658-9cabogt9l",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789356194693-t2gvgcd",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789356194657-7mb2vdt",
+      "timestamp": 1789356194657,
+      "rawDisplayText": "give me some sources to learn more about the fashion brand Hermes",
+      "canonicalText": "give me some sources to learn more about the fashion brand Hermes",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/How Learning Works.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9d0cc19e993b1c848883083f56346d08024f965634344c1679a451979fb38571",
+      "providerUserMessageId": "01a09df0-c2b8-7f33-8b68-397940f7085b"
+    }
+  ]
+}
