@@ -31,6 +31,7 @@ Theorists were forced to distinguish between the two because experiments reveale
 Storage strength versus retrieval strength. Storage strength is how entrenched and inter associated a memory is with related knowledge  and retrieval is how strong those connections are and how easily you can bring it up in situations. The things needed to increase storage strength are different from the ones that increase retrieval strength. 
 
 
+
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
