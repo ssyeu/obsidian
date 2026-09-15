@@ -231,19 +231,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789350739405-8y0xzv8",
-                      "conversationId": "conv-1789356194658-9cabogt9l"
-                    },
-                    {
-                      "tabId": "tab-1789359036873-79ccng1",
-                      "conversationId": "conv-1789359059858-vin3e7akm"
-                    },
-                    {
-                      "tabId": "tab-1789359529222-bsk7wfr",
-                      "conversationId": "conv-1789359593460-ervq0rv3m"
+                      "tabId": "tab-1789450958210-s9i9tyc",
+                      "conversationId": "conv-1789450963260-iw7016pml"
                     }
                   ],
-                  "activeTabId": "tab-1789359529222-bsk7wfr"
+                  "activeTabId": "tab-1789450958210-s9i9tyc"
                 }
               },
               "icon": "bot",
@@ -255,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.8671875,
-    "collapsed": true
+    "width": 393.8671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,7 +262,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9bcd16bc5c077e37",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Learning/CS50.md",
     "Learning/cs50 - 5.md",

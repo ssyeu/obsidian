@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789450963260-iw7016pml",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789450963293-8cc7cdx",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789450963258-hzfhj78",
+      "timestamp": 1789450963258,
+      "rawDisplayText": "give me my daily quiz",
+      "canonicalText": "give me my daily quiz",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/How Learning Works.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "2711553583c5c7b9ba82f5d3b896c6d5fd375b29d0afb47c6fe1d19276508cc2",
+      "providerUserMessageId": "01a0a396-d19b-7ec2-b99e-1bb5cf672483"
+    }
+  ]
+}
