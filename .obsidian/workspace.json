@@ -80,7 +80,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d99deb74c062cda7",
@@ -256,6 +257,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -275,7 +277,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5e827f9a0fb486cc",
+  "active": "d3125c11ca8cf0f0",
   "lastOpenFiles": [
     "TaskNotes/Start Here.md",
     "TaskNotes/Views/mini-calendar-default.base",
