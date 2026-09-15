@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2039ff561027825",
+        "id": "3205da4793e1f020",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7e240d4fa3c24f",
+            "id": "459087b08891c0dd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -243,8 +243,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d67ff53992dccb03",
+  "active": "459087b08891c0dd",
   "lastOpenFiles": [
+    "Learning/How Learning Works.md",
     "Learning/CS50.md",
     "Learning/cs50 - 5.md",
     "Learning/cs50 - 1.md",
@@ -259,7 +260,6 @@
     "Learning/Population numbers going down is bad.md",
     "Art/Creativity.md",
     "Art/Aesthetics.md",
-    "Learning/How Learning Works.md",
     "Learning/Calculus.md",
     "Learning/How watches work.md",
     "Learning/Self Improvement and Toxicity.md",

@@ -228,7 +228,8 @@
       "canonicalText": "could you explain storage and retrieval strength to me presicely",
       "images": [],
       "contentDigest": "459ccac6c75545a33a285b26e59e8e5b8c6645a07e3060c3d5cb27dce013f9e1",
-      "providerUserMessageId": "01a0a3a1-e454-7c13-9c6c-e3c27e179426"
+      "providerUserMessageId": "01a0a3a1-e454-7c13-9c6c-e3c27e179426",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8ddb7f1dc87d1be908f9ef81d42bd"
     }
   ]
 }
