@@ -104,6 +104,20 @@
       "contentDigest": "4eca58e1d08d0f2ad6c7ad7908a3e91027ed791e1757d8297f57df0537e47283",
       "providerUserMessageId": "01a0a39b-3eaf-72e0-812d-dc983e5be264",
       "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dbf9799c87d1b27ad6f163a27411"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451288525-bnyapu1",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1789451288522-puiooux",
+      "timestamp": 1789451288522,
+      "rawDisplayText": "no, every voter needs one other voter to win the vote so they all have equal power, none of them need more people than the other and none of them  can win on their own",
+      "canonicalText": "no, every voter needs one other voter to win the vote so they all have equal power, none of them need more people than the other and none of them  can win on their own",
+      "images": [],
+      "contentDigest": "f63e7a9bf0e9653ae6f9f737edaad2a241b746454bb631340e5423709e513dcc",
+      "providerUserMessageId": "01a0a39b-bfe1-7910-bd0c-d3d0a744b6fd",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dc1a533487d1a2df1a271549fbf1"
     }
   ]
 }
