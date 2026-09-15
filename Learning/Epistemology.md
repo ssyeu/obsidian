@@ -6,4 +6,4 @@ Knowledge is different from belief. Belief has the option of being false while k
 
 https://youtu.be/PqjdRAERWLc?si=zBtbz2rLktH1Ia7l
 
-Skepticism is questioning if knowledge is even possible. There are two branches of thought talked about in this video. One, that true knowledge is impossible to obtain, and two, that even knowing if knowledge is possible to obtain is not possible to obtain. It also presents global skepticism and local skepticism. Global being that we cant tell if anythi
+Skepticism is questioning if knowledge is even possible. There are two branches of thought talked about in this video. One, that true knowledge is impossible to obtain, and two, that even knowing if knowledge is possible to obtain is not possible to obtain. It also presents global skepticism and local skepticism. Global being that we cant tell if anything is real. It presents the dream, the brain in the vat, and the evil genius. For the dream, it asks if its possible to tell if we are in a dream or this is reality. For the brain in the vat, it asks if we can tell if we are a brain in a vat being given sensory information, or if this is reality. For t
