@@ -20,6 +20,29 @@
       "contentDigest": "a4ac43a461e8d9361b324d8b159f8f6fcf606eb7b8edbc718d30bb66ee7eee68",
       "providerUserMessageId": "01a0a4a2-0825-7ab3-a44d-f9eeb89d12b5",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa91f4e135087d19fa0468ccf713959"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789470141094-2uo7fc9",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789470141091-xdpnxt7",
+      "timestamp": 1789470141091,
+      "rawDisplayText": "The theorem is the percent chance that what you assume is true over the percent chance of all true statements? is this a correct way to verbalize bayes theorem",
+      "canonicalText": "The theorem is the percent chance that what you assume is true over the percent chance of all true statements? is this a correct way to verbalize bayes theorem",
+      "context": {
+        "editorSelection": {
+          "notePath": "Bayes Theorem.md",
+          "mode": "selection",
+          "selectedText": "The theorem is the percent chance that what you assume is true over the percent chance of all true statements?",
+          "lineCount": 1,
+          "startLine": 7
+        }
+      },
+      "images": [],
+      "contentDigest": "9cdafedd0353659cf557ec07a1a06352d3e145bd7e93b1139f35f15216260435",
+      "providerUserMessageId": "01a0a4bb-6b01-7a83-965d-397d568c37ab",
+      "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa925c38f0487d1b662357e4c8eb9a2"
     }
   ]
 }

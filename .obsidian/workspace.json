@@ -276,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "left-ribbon": {
     "hiddenItems": {
