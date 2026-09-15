@@ -30,7 +30,7 @@ Theorists were forced to distinguish between the two because experiments reveale
 
 Storage strength versus retrieval strength. Storage strength is how entrenched and inter associated a memory is with related knowledge  and retrieval is how strong those connections are and how easily you can bring it up in situations. The things needed to increase storage strength are different from the ones that increase retrieval strength. 
 
-
+Varying conditions of practice are important, even changing the room that you are practicing in while doing everything else the same can increase your learning in tat material. I think that's crazy, something as little as reading that material in a different room every day can increase your level of learning. 
 
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
