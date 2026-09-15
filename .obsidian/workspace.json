@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian Theorem.md",
+                "file": "Bayes Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayesian Theorem"
+              "title": "Bayes Theorem"
             }
           }
         ],
@@ -303,7 +303,7 @@
   "active": "9da93e7dadf5f5ea",
   "lastOpenFiles": [
     "Learning/Calculus.md",
-    "Bayesian Theorem.md",
+    "Bayes Theorem.md",
     "Learning/Epistemology.md",
     "TaskNotes/Start Here.md",
     "TaskNotes/Views/pomodoro-stats.base",
