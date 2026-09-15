@@ -238,9 +238,13 @@
                     {
                       "tabId": "tab-1789457256878-y3a9bx3",
                       "conversationId": "conv-1789457280305-xje74sxhh"
+                    },
+                    {
+                      "tabId": "tab-1789468268861-bj66r37",
+                      "conversationId": "conv-1789468310120-9ihj3xdhl"
                     }
                   ],
-                  "activeTabId": "tab-1789457256878-y3a9bx3"
+                  "activeTabId": "tab-1789468268861-bj66r37"
                 }
               },
               "icon": "bot",
@@ -252,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,7 +279,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "a55ad33462d1c38b",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Learning/Epistemology.md",
     "TaskNotes/Start Here.md",
