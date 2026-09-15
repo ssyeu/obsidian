@@ -34,6 +34,20 @@
       "contentDigest": "8051cb30063318ee266bca1e09ab27246e724d80d1d230ee9e30c32e2f7070c2",
       "providerUserMessageId": "01a0a3f7-f879-7951-8551-b2f5ab6d9bd8",
       "providerAssistantMessageId": "msg_070fe897f2e12d6c016aa8f3bb1f2c87d1af7f3f636ab8d34b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789457455635-sygxlrs",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789457455632-8y9nj1a",
+      "timestamp": 1789457455632,
+      "rawDisplayText": "is just knowing that the solid things around me are real a good answer?",
+      "canonicalText": "is just knowing that the solid things around me are real a good answer?",
+      "images": [],
+      "contentDigest": "af1a1f02350b3ba3e0525e4799f978642bfa014ee8763f4b6e3afb83fe624396",
+      "providerUserMessageId": "01a0a3f9-da2b-78e1-83fb-193ac29c91c1",
+      "providerAssistantMessageId": "msg_070fe897f2e12d6c016aa8f435031887d18d5afb763f99a502"
     }
   ]
 }
