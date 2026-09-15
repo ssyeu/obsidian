@@ -490,8 +490,20 @@
   "enableDebugLogging": false,
   "lastSeenVersion": "4.13.0",
   "pomodoroState": {
-    "isRunning": false,
-    "timeRemaining": 1500
+    "isRunning": true,
+    "timeRemaining": 1500,
+    "currentSession": {
+      "id": "1789468762916",
+      "startTime": "2026-09-15T05:39:22.916-05:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-15T05:39:22.916-05:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-09-15",
   "pomodoroHistory": [
