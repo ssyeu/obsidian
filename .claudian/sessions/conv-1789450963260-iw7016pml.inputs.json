@@ -48,6 +48,33 @@
       "contentDigest": "d470bc642db395e3263d71cf7068a6741dcb286449aed2f22d22055a32c446cf",
       "providerUserMessageId": "01a0a398-aa0e-72b1-98ed-c9bfa100799d",
       "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8db4ff42487d1b336809ab781aea6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451118780-da61glo",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789451118777-cjfyiw8",
+      "timestamp": 1789451118777,
+      "rawDisplayText": "its 4, its because x is approaching 4 while never actually reaching it, so f(2) is still undefined",
+      "canonicalText": "its 4, its because x is approaching 4 while never actually reaching it, so f(2) is still undefined",
+      "images": [],
+      "contentDigest": "ef19a6565892d75bc124cba87da665a31bd565c147ac1f828b0e6c3bc7f1d19a",
+      "providerUserMessageId": "01a0a399-28d2-7592-9583-8c3798ac2f7e",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8db7226f487d18a19bebb238fa866"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451154988-57crfix",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789451154986-fey9s7b",
+      "timestamp": 1789451154986,
+      "rawDisplayText": "f(x) will be approaching 4, and no it doesnt",
+      "canonicalText": "f(x) will be approaching 4, and no it doesnt",
+      "images": [],
+      "contentDigest": "d2bb9f5c4881de9bc3fc5bf75ccf42a41f6b2a294fcc1bf340a99220dc364494",
+      "providerUserMessageId": "01a0a399-b63f-7021-a4dc-10cc185741b8"
     }
   ]
 }
