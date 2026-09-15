@@ -268,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404
+    "width": 404,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,7 +292,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "6442896d7bcdee40",
+  "active": "e4369796318d0499",
   "lastOpenFiles": [
     "Learning/Epistemology.md",
     "TaskNotes/Start Here.md",
