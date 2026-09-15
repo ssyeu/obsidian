@@ -1,3 +1,4 @@
 [[math]]
 
-1/x %
+x + y = z 
+1/a times x / 1/a times x +
