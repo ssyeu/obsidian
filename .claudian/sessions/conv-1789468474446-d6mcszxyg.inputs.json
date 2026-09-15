@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789468474446-d6mcszxyg",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789468474477-onr41fh",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789468474444-fuli4hw",
+      "timestamp": 1789468474444,
+      "rawDisplayText": "what is something you think i would be interested in learning based on what i've been trying to learn so far",
+      "canonicalText": "what is something you think i would be interested in learning based on what i've been trying to learn so far",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/Calculus.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a4ac43a461e8d9361b324d8b159f8f6fcf606eb7b8edbc718d30bb66ee7eee68",
+      "providerUserMessageId": "01a0a4a2-0825-7ab3-a44d-f9eeb89d12b5"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv-1789468474446-d6mcszxyg",
+  "providerId": "codex",
+  "title": "Suggest a topic based on my learning interests",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789468474448,
+  "lastActivityAt": 1789468474448,
+  "sessionId": "01a0a4a1-fd77-7370-b418-09342f947843",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0a4a1-fd77-7370-b418-09342f947843",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/15/rollout-2026-09-15T05-34-34-01a0a4a1-fd77-7370-b418-09342f947843.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/Calculus.md"
+}
