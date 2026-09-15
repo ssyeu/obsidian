@@ -80,6 +80,29 @@
       "contentDigest": "a333d77e9894aa181371e9533b7df5233a9fc1b4e79f8e97bfb5bee9f230bfbd",
       "providerUserMessageId": "01a0a4c1-9351-7722-ac3b-67e30030c3e2",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa927537d7487d1ae909452823f900d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789470667057-gb6957m",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789470667054-vljizc4",
+      "timestamp": 1789470667054,
+      "rawDisplayText": "So it would be the ratio of things that fit our description in group a times the ratio of group a to the total number in all groups. divided by the ratio of things that fit our description to total things. in general terms",
+      "canonicalText": "So it would be the ratio of things that fit our description in group a times the ratio of group a to the total number in all groups. divided by the ratio of things that fit our description to total things. in general terms",
+      "context": {
+        "editorSelection": {
+          "notePath": "Bayes Theorem.md",
+          "mode": "selection",
+          "selectedText": "So it would be the ratio of things that fit our description in group a times the ratio of group a to the total number in all groups. divided by the ratio of things that fit our description to total things",
+          "lineCount": 1,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "0c0c4b717a9047b3ed2746fed3e09f6ac40c76805097fa6b948a7a5fa15497b7",
+      "providerUserMessageId": "01a0a4c3-7148-7392-acb2-13c977c6f619",
+      "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa927cd14e087d19e0c563eafc7ca6e"
     }
   ]
 }

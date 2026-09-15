@@ -8,4 +8,6 @@ Okay a big part about Bayes Theorem is probability, but bringing the size of a s
 
 So if the ratio of a librarian being quiet was 40%, and the ratio of a farmer being quiet was 10%, and there were 20 librarians and 80 farmers. We would fill out first the ratio of librarians that were quiet times the ratio of librarians to total people, divided by the ratio of quiet people to total people. 
 
-So it would be the ratio of things that fit our description in group a times the ratio of group a to the total number in all groups. divided by the ratio of people who fit our description
+So it would be the ratio of things that fit our description in group a times the ratio of group a to the total number in all groups. divided by the ratio of things that fit our description to total things
+
+The fraction of group A that fits our description, times the fraction of the whole population belonging to group A, divided by the fraction of the whole population that fits our description.
