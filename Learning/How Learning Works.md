@@ -25,6 +25,8 @@ https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjor
 studying hard =/= good performance. Induced forgetting often enhances subsequent learning. Application of desirable difficulties. optimizing learning and instruction often requires going against one's intuitions, deviating from standard instructional practices, and managing one's own learning activities in new ways. We are often misled as to the level of learning we actually achieved. Our brain can trick us into thinking we learned something when in reality we will retain almost nothing of it, or we may just only have a low level understanding of it. The conditions of learning that make us learn quick fail to make us retain that information for a long time. 
 
 There is a difference between learning and performance. Performance is what we can measure and observe during training or instruction while learning is a permanent change in our knowledge and understanding. Right now its hard to measure whether learning has actually occurred, mostly performance is measured.
+
+Theorists were forced to distinguish between the two because experiments revealed that learning could happen across a period when no change was apparent in performance. 
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
