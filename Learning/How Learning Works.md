@@ -22,7 +22,7 @@ These strategies according to the article are supposed to provide the maximum be
 
 
 https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf
-studying hard =/= good performance. Induced forgetting often enhances subsequent learning. Application of desirable difficulties. optimizing learning and instruction often requires going against one's intuitions, deviating from standard instructional practices, and managing one's own learning activities in new ways. We are often misled as to the level of learning we actually achieved. Our brain can trick us into thinking we learned something when in reality we will retain almost nothing of it.
+studying hard =/= good performance. Induced forgetting often enhances subsequent learning. Application of desirable difficulties. optimizing learning and instruction often requires going against one's intuitions, deviating from standard instructional practices, and managing one's own learning activities in new ways. We are often misled as to the level of learning we actually achieved. Our brain can trick us into thinking we learned something when in reality we will retain almost nothing of it, or we may just only have a low level understanding of it. The conditions of learning that make us learn quick fail to make us retain that information for a long time.
 
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
