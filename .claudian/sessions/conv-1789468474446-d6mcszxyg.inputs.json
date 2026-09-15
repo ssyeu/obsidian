@@ -18,7 +18,7 @@
       },
       "images": [],
       "contentDigest": "a4ac43a461e8d9361b324d8b159f8f6fcf606eb7b8edbc718d30bb66ee7eee68",
-      "providerUserMessageId": "01a0a4a2-0825-7ab3-a44d-f9eeb89d12b5",
+      "providerUserMessageId": "01a0a4a1-fd9f-73d1-b643-04d5f51f2b08",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa91f4e135087d19fa0468ccf713959"
     },
     {
@@ -41,7 +41,7 @@
       },
       "images": [],
       "contentDigest": "9cdafedd0353659cf557ec07a1a06352d3e145bd7e93b1139f35f15216260435",
-      "providerUserMessageId": "01a0a4bb-6b01-7a83-965d-397d568c37ab",
+      "providerUserMessageId": "01a0a4bb-6ab6-71a1-a11a-59bd0a174356",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa925c38f0487d1b662357e4c8eb9a2"
     },
     {
@@ -55,7 +55,7 @@
       "canonicalText": "fill in the equation with the librarian example, im still having trouble understanding it",
       "images": [],
       "contentDigest": "2c95c8abef110c58ecf3facb2c67b5b7bb7e8a032cd846030eb5a9664d0ea12c",
-      "providerUserMessageId": "01a0a4bd-3a75-7a33-ac7a-fec8e9506da5",
+      "providerUserMessageId": "01a0a4bd-3a65-7562-99f5-fadca16beccf",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa9263f022487d1911ea8a37ff8155d"
     },
     {
@@ -78,7 +78,7 @@
       },
       "images": [],
       "contentDigest": "a333d77e9894aa181371e9533b7df5233a9fc1b4e79f8e97bfb5bee9f230bfbd",
-      "providerUserMessageId": "01a0a4c1-9351-7722-ac3b-67e30030c3e2",
+      "providerUserMessageId": "01a0a4c1-9342-7ac3-80ca-54149e5703fa",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa927537d7487d1ae909452823f900d"
     },
     {
@@ -101,7 +101,7 @@
       },
       "images": [],
       "contentDigest": "0c0c4b717a9047b3ed2746fed3e09f6ac40c76805097fa6b948a7a5fa15497b7",
-      "providerUserMessageId": "01a0a4c3-7148-7392-acb2-13c977c6f619",
+      "providerUserMessageId": "01a0a4c3-713a-7393-906d-171859ac19c0",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa927cd14e087d19e0c563eafc7ca6e"
     },
     {
@@ -115,7 +115,7 @@
       "canonicalText": "this was a great topic, i found it very interesting and will do mroe reading to understand and add it to my permanent knowledge, can you give me a few other topics you might reccomend",
       "images": [],
       "contentDigest": "ad85b3c76abfdd759ea8c2c9cb5a1db48bd815f00fb4e153d47a01ddbd3a623b",
-      "providerUserMessageId": "01a0a4c6-500a-7480-8075-772898871bc4",
+      "providerUserMessageId": "01a0a4c6-4ffb-7921-8617-35b6f12fb2c5",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa9289052a487d1a8abd0331b0b4df3"
     }
   ]
