@@ -174,6 +174,20 @@
       "contentDigest": "cbf5bfd4d92d6fe057d3ea8cb24199e7636667587a2b6baab6d3da7f207ae4fa",
       "providerUserMessageId": "01a0a39f-14ee-7a42-965f-f1a0d00b6677",
       "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dcf8e1b487d1a28165ccf7f48e4d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451568324-pv9gm1n",
+      "userTurnOrdinal": 13,
+      "state": "accepted",
+      "localMessageId": "msg-1789451568321-w6ib2nu",
+      "timestamp": 1789451568321,
+      "rawDisplayText": "it would make them always feel inadequate, their heroes would always be beyond reach and it may make the feel like they could never do anything good or like their heroes, its important to know these people are human because it lets people know that its okay not to be flawless",
+      "canonicalText": "it would make them always feel inadequate, their heroes would always be beyond reach and it may make the feel like they could never do anything good or like their heroes, its important to know these people are human because it lets people know that its okay not to be flawless",
+      "images": [],
+      "contentDigest": "c536328e7f20315670eeef496118c9f0cef273feb70cb2515c8fbb759f8bff55",
+      "providerUserMessageId": "01a0a3a0-04dd-7841-833d-f5e001bb72e3",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dd33072887d18f19c617d6c7a325"
     }
   ]
 }
