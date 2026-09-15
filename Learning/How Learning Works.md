@@ -28,7 +28,7 @@ There is a difference between learning and performance. Performance is what we c
 
 Theorists were forced to distinguish between the two because experiments revealed that learning could happen across a period when no change was apparent in performance. In latent-learning experiments with animals, giving animals periods of free exploration, they seemed to walk aimlessly around but when a reward was introduced they seemed to have learned the maze. The opposite can also happen where significant performance increases can happen while no learning occurred, this can lead to people misassessing whether they learned or not.
 
-Storage strength versus retrivel st
+Storage strength versus retrieval strength. Storage strength is how much info you can store and retrieval is how strong those connections are and how easily you can bring it up in situations. The things needed to increase storage strength are different from the ones that increase retrieval strength
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
