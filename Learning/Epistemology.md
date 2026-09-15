@@ -1,0 +1,1 @@
+What is something I think I know, and what makes it knowledge rather than just a belief? Something I think I know is that the solid things around me are real. That is knowledge in that ev
