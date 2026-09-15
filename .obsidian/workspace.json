@@ -113,8 +113,8 @@
             "state": {
               "type": "tasknotes-pomodoro-stats-view",
               "state": {},
-              "icon": "bar-chart",
-              "title": "Pomodoro stats"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
             }
           }
         ],
@@ -257,7 +257,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
