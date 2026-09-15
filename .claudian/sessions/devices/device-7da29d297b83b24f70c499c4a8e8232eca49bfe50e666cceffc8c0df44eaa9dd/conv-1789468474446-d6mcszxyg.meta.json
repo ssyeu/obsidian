@@ -4,7 +4,7 @@
   "title": "Suggest a topic based on my learning interests",
   "titleGenerationStatus": "success",
   "createdAt": 1789468474448,
-  "lastActivityAt": 1789470154044,
+  "lastActivityAt": 1789470279480,
   "sessionId": "01a0a4a1-fd77-7370-b418-09342f947843",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,12 +16,12 @@
   },
   "linkedContentPath": "Learning/Calculus.md",
   "usage": {
-    "inputTokens": 21031,
+    "inputTokens": 21257,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 20480,
+    "cacheReadInputTokens": 20864,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 21031,
+    "contextTokens": 21257,
     "percentage": 8,
     "model": "gpt-6-astra"
   }

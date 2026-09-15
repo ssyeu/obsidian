@@ -43,6 +43,20 @@
       "contentDigest": "9cdafedd0353659cf557ec07a1a06352d3e145bd7e93b1139f35f15216260435",
       "providerUserMessageId": "01a0a4bb-6b01-7a83-965d-397d568c37ab",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa925c38f0487d1b662357e4c8eb9a2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789470259808-5udmrdh",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789470259805-kkvxc3y",
+      "timestamp": 1789470259805,
+      "rawDisplayText": "fill in the equation with the librarian example, im still having trouble understanding it",
+      "canonicalText": "fill in the equation with the librarian example, im still having trouble understanding it",
+      "images": [],
+      "contentDigest": "2c95c8abef110c58ecf3facb2c67b5b7bb7e8a032cd846030eb5a9664d0ea12c",
+      "providerUserMessageId": "01a0a4bd-3a75-7a33-ac7a-fec8e9506da5",
+      "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa9263f022487d1911ea8a37ff8155d"
     }
   ]
 }
