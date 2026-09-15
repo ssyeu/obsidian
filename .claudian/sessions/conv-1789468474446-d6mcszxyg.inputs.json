@@ -57,6 +57,29 @@
       "contentDigest": "2c95c8abef110c58ecf3facb2c67b5b7bb7e8a032cd846030eb5a9664d0ea12c",
       "providerUserMessageId": "01a0a4bd-3a75-7a33-ac7a-fec8e9506da5",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa9263f022487d1911ea8a37ff8155d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789470544698-ginbn7u",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789470544695-dg23ts9",
+      "timestamp": 1789470544695,
+      "rawDisplayText": "We would fill out first the ratio of librarians that were quiet times the ratio of librarians to farmers, divided by the ratio of quiet people to total people.",
+      "canonicalText": "We would fill out first the ratio of librarians that were quiet times the ratio of librarians to farmers, divided by the ratio of quiet people to total people.",
+      "context": {
+        "editorSelection": {
+          "notePath": "Bayes Theorem.md",
+          "mode": "selection",
+          "selectedText": "We would fill out first the ratio of librarians that were quiet times the ratio of librarians to farmers, divided by the ratio of quiet people to total people. ",
+          "lineCount": 1,
+          "startLine": 9
+        }
+      },
+      "images": [],
+      "contentDigest": "a333d77e9894aa181371e9533b7df5233a9fc1b4e79f8e97bfb5bee9f230bfbd",
+      "providerUserMessageId": "01a0a4c1-9351-7722-ac3b-67e30030c3e2",
+      "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa927537d7487d1ae909452823f900d"
     }
   ]
 }
