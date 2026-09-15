@@ -6,4 +6,4 @@ Knowledge is different from belief. Belief has the option of being false while k
 
 https://youtu.be/PqjdRAERWLc?si=zBtbz2rLktH1Ia7l
 
-Skepticism is questioning if knowledge is even possible. The
+Skepticism is questioning if knowledge is even possible. There are two branches of thought talked about in this video. One, that true knowledge is impossible to obtain, and two, that even knowing if knowledge is possible to obtain is not possible to obtain. It also presents global skepticism and local skepticism. Global being that we cant tell if anythi
