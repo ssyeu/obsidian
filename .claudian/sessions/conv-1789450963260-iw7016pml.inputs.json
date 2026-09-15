@@ -200,7 +200,35 @@
       "canonicalText": "it would mean your storage strength was low since you didnt remember it on the spot but your retrieval strength was strong because you cuold connect it to other ideas, you learned the material its just hard for you to retrieve it when needed",
       "images": [],
       "contentDigest": "2a706d47a6fc38dddc0b40532a25e0a96bdad882daf07bb9cf33a4c585377118",
-      "providerUserMessageId": "01a0a3a1-42c8-7080-bb8c-61eb228aa497"
+      "providerUserMessageId": "01a0a3a1-42c8-7080-bb8c-61eb228aa497",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dd8382fc87d1bef79be0de385cdf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451674879-deelza4",
+      "userTurnOrdinal": 15,
+      "state": "accepted",
+      "localMessageId": "msg-1789451674876-it65972",
+      "timestamp": 1789451674876,
+      "rawDisplayText": "the retrieval strength was low while the storage strength was high, the material was stored but you cant retrieve it",
+      "canonicalText": "the retrieval strength was low while the storage strength was high, the material was stored but you cant retrieve it",
+      "images": [],
+      "contentDigest": "ac297ba5578838d0fcb4db67e752794e9f0f1a13de47429f416336cbb09a2d02",
+      "providerUserMessageId": "01a0a3a1-a514-7621-943d-5f6d6545afd2",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dd9ca70c87d1b27ed4487d0a78de"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451691072-u4ihlfx",
+      "userTurnOrdinal": 16,
+      "state": "accepted",
+      "localMessageId": "msg-1789451691069-hl3owmx",
+      "timestamp": 1789451691069,
+      "rawDisplayText": "could you explain storage and retrieval strength to me presicely",
+      "canonicalText": "could you explain storage and retrieval strength to me presicely",
+      "images": [],
+      "contentDigest": "459ccac6c75545a33a285b26e59e8e5b8c6645a07e3060c3d5cb27dce013f9e1",
+      "providerUserMessageId": "01a0a3a1-e454-7c13-9c6c-e3c27e179426"
     }
   ]
 }
