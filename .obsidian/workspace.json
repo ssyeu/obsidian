@@ -132,8 +132,7 @@
               "title": "tasknotes-pomodoro-stats-view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,12 +298,12 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e4369796318d0499",
+  "active": "5e827f9a0fb486cc",
   "lastOpenFiles": [
-    "Learning/Calculus.md",
-    "Learning/Bayes Theorem.md",
-    "Learning/Epistemology.md",
     "TaskNotes/Start Here.md",
+    "Learning/Bayes Theorem.md",
+    "Learning/Calculus.md",
+    "Learning/Epistemology.md",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
