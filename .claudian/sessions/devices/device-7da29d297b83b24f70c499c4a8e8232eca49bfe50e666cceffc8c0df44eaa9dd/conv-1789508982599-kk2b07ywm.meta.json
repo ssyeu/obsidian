@@ -4,7 +4,7 @@
   "title": "Find a study on motivation, interest, and learning",
   "titleGenerationStatus": "success",
   "createdAt": 1789508982612,
-  "lastActivityAt": 1789508982612,
+  "lastActivityAt": 1789509039698,
   "sessionId": "01a0a70c-187b-76d1-b178-48ada43b28fe",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -14,5 +14,15 @@
     "transcriptRootPath": "/home/syeu/.codex/sessions",
     "workspaceDependencyToolVersion": 1
   },
-  "linkedContentPath": "Learning/How Learning Works.md"
+  "linkedContentPath": "Learning/How Learning Works.md",
+  "usage": {
+    "inputTokens": 17972,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 11904,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17972,
+    "percentage": 7,
+    "model": "gpt-6-astra"
+  }
 }
