@@ -90,6 +90,20 @@
       "contentDigest": "06ba8b56c0068fed8bf902984eaed132705c9b84247f651e385dbdd2429e6de2",
       "providerUserMessageId": "01a0a39a-6c92-74e0-90ab-3db8e69cf9c5",
       "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dbc3293887d191ff4d3c077c0cf0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451255453-mgce2iv",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1789451255449-numopy2",
+      "timestamp": 1789451255449,
+      "rawDisplayText": "because we care less about the characters, they might as well be random people that are doing things on the screen, moment where characters do things only hit hard when we care about said characters, otherwise we are just admiring pretty colors on a screen",
+      "canonicalText": "because we care less about the characters, they might as well be random people that are doing things on the screen, moment where characters do things only hit hard when we care about said characters, otherwise we are just admiring pretty colors on a screen",
+      "images": [],
+      "contentDigest": "4eca58e1d08d0f2ad6c7ad7908a3e91027ed791e1757d8297f57df0537e47283",
+      "providerUserMessageId": "01a0a39b-3eaf-72e0-812d-dc983e5be264",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dbf9799c87d1b27ad6f163a27411"
     }
   ]
 }
