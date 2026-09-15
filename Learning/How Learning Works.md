@@ -30,7 +30,7 @@ Theorists were forced to distinguish between the two because experiments reveale
 
 Storage strength versus retrieval strength. Storage strength is how entrenched and inter associated a memory is with related knowledge  and retrieval is how strong those connections are and how easily you can bring it up in situations. The things needed to increase storage strength are different from the ones that increase retrieval strength. 
 
-Varying conditions of practice are important, even changing the room that you are practicing in while doing everything else the same can increase your learning in tat material. I think that's crazy, something as little as reading that material in a different room every day can increase your level of learning. 
+Varying conditions of practice are important, even changing the room that you are practicing in while doing everything else the same can increase your learning in tat material. I think that's crazy, something as little as reading that material in a different room every day can increase your level of learning. Spacing study or practice sessions also does good. Not blocking all your learning at one time like cramming for a test but learning it through time. It makes you recall things more than once which strengthens the neural connection. Blocking may seem more effective in the short term but in long term or delayed tests it lacks real learning whi
 
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
