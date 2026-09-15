@@ -26,7 +26,7 @@ studying hard =/= good performance. Induced forgetting often enhances subsequent
 
 There is a difference between learning and performance. Performance is what we can measure and observe during training or instruction while learning is a permanent change in our knowledge and understanding. Right now its hard to measure whether learning has actually occurred, mostly performance is measured.
 
-Theorists were forced to distinguish between the two because experiments revealed that learning could happen across a period when no change was apparent in performance. In latent-learning experiments with animals, giving animals periods of free exploration, they seemed to walk aimlessly around but when a reward was introduced they seemed to have learned the maze.
+Theorists were forced to distinguish between the two because experiments revealed that learning could happen across a period when no change was apparent in performance. In latent-learning experiments with animals, giving animals periods of free exploration, they seemed to walk aimlessly around but when a reward was introduced they seemed to have learned the maze. The opposite can also happen where significant performance increases can happen while no learning occurred, this can lead to people misassessing whether they learned or not.
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
