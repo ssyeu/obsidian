@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Start Here"
             }
+          },
+          {
+            "id": "a55ad33462d1c38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +252,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789450958210-s9i9tyc",
-                      "conversationId": "conv-1789450963260-iw7016pml"
+                      "tabId": "tab-1789457256878-y3a9bx3",
+                      "conversationId": "conv-1789457280305-xje74sxhh"
                     }
                   ],
-                  "activeTabId": "tab-1789450958210-s9i9tyc"
+                  "activeTabId": "tab-1789457256878-y3a9bx3"
                 }
               },
               "icon": "bot",
@@ -276,15 +291,16 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "459087b08891c0dd",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
+    "TaskNotes/Start Here.md",
+    "Untitled.md",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Start Here.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
     "TaskNotes",

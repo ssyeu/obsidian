@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789457280305-xje74sxhh",
+  "providerId": "codex",
+  "title": "Start learning philosophy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789457280308,
+  "lastActivityAt": 1789457303308,
+  "sessionId": "01a0a3f7-2e6f-7262-b226-58316ca7c31d",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0a3f7-2e6f-7262-b226-58316ca7c31d",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/15/rollout-2026-09-15T02-28-00-01a0a3f7-2e6f-7262-b226-58316ca7c31d.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Untitled.md",
+  "usage": {
+    "inputTokens": 16175,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 11904,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16175,
+    "percentage": 6,
+    "model": "gpt-6-astra"
+  }
+}

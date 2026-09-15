@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789457280305-xje74sxhh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789457280340-ahhaa3k",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789457280303-neudtny",
+      "timestamp": 1789457280303,
+      "rawDisplayText": "i want to start learning about philosophy, where should i start",
+      "canonicalText": "i want to start learning about philosophy, where should i start",
+      "context": {
+        "linkedContent": {
+          "path": "Untitled.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "b9ed209d76af52a5a0883abb328af6886b45da9634124321e7fc1c0ebe070bc8",
+      "providerUserMessageId": "01a0a3f7-3725-7cc2-b2b3-c56e2c48bb69",
+      "providerAssistantMessageId": "msg_070fe897f2e12d6c016aa8f38d7ad087d19dde2bf6524de071"
+    }
+  ]
+}
