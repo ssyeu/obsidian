@@ -74,7 +74,22 @@
       "canonicalText": "f(x) will be approaching 4, and no it doesnt",
       "images": [],
       "contentDigest": "d2bb9f5c4881de9bc3fc5bf75ccf42a41f6b2a294fcc1bf340a99220dc364494",
-      "providerUserMessageId": "01a0a399-b63f-7021-a4dc-10cc185741b8"
+      "providerUserMessageId": "01a0a399-b63f-7021-a4dc-10cc185741b8",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8db94975c87d1a7dcaa2378c60700"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451201665-usykjei",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789451201662-zxgh4xw",
+      "timestamp": 1789451201662,
+      "rawDisplayText": "a dictionary and a stack, it lets you look up their score which is assigned to their name and it lets you pop off the last score",
+      "canonicalText": "a dictionary and a stack, it lets you look up their score which is assigned to their name and it lets you pop off the last score",
+      "images": [],
+      "contentDigest": "06ba8b56c0068fed8bf902984eaed132705c9b84247f651e385dbdd2429e6de2",
+      "providerUserMessageId": "01a0a39a-6c92-74e0-90ab-3db8e69cf9c5",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8dbc3293887d191ff4d3c077c0cf0"
     }
   ]
 }

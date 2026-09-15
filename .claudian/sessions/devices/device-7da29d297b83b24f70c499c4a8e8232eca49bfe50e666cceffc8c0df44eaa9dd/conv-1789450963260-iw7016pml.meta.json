@@ -4,7 +4,7 @@
   "title": "Take the daily learning quiz",
   "titleGenerationStatus": "success",
   "createdAt": 1789450963272,
-  "lastActivityAt": 1789451154986,
+  "lastActivityAt": 1789451205532,
   "sessionId": "01a0a396-ca67-7962-a839-c6ab64edfee8",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,12 +16,12 @@
   },
   "linkedContentPath": "Learning/How Learning Works.md",
   "usage": {
-    "inputTokens": 16572,
+    "inputTokens": 16750,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 16256,
+    "cacheReadInputTokens": 16384,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 16572,
+    "contextTokens": 16750,
     "percentage": 6,
     "model": "gpt-6-astra"
   }
