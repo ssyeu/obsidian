@@ -48,7 +48,7 @@
       {
         "id": "1e9066e18acc4251",
         "type": "tabs",
-        "dimension": 63.673057517658926,
+        "dimension": 46.41775983854692,
         "children": [
           {
             "id": "e4369796318d0499",
@@ -100,7 +100,7 @@
       {
         "id": "d99deb74c062cda7",
         "type": "tabs",
-        "dimension": 36.32694248234107,
+        "dimension": 53.58224016145308,
         "children": [
           {
             "id": "5e827f9a0fb486cc",
@@ -292,10 +292,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "a55ad33462d1c38b",
+  "active": "6442896d7bcdee40",
   "lastOpenFiles": [
-    "TaskNotes/Start Here.md",
     "Learning/Epistemology.md",
+    "TaskNotes/Start Here.md",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
