@@ -48,6 +48,20 @@
       "contentDigest": "af1a1f02350b3ba3e0525e4799f978642bfa014ee8763f4b6e3afb83fe624396",
       "providerUserMessageId": "01a0a3f9-da2b-78e1-83fb-193ac29c91c1",
       "providerAssistantMessageId": "msg_070fe897f2e12d6c016aa8f435031887d18d5afb763f99a502"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789457544556-z5057us",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789457544553-0gjz21c",
+      "timestamp": 1789457544553,
+      "rawDisplayText": "i have to have the assumption that the solid things around me are real otherwise i have nothing to even get started to believe about. its like a prerequisite to anything else. if i cant believe my senses about the things around me i cant believe in anything outside of my mind, but my senses are in my mind so i suppose i cant believe it either",
+      "canonicalText": "i have to have the assumption that the solid things around me are real otherwise i have nothing to even get started to believe about. its like a prerequisite to anything else. if i cant believe my senses about the things around me i cant believe in anything outside of my mind, but my senses are in my mind so i suppose i cant believe it either",
+      "images": [],
+      "contentDigest": "1c2b700cc6d84e2c80f77b3b742487917a88f20e21bd7e82f3b1901516958556",
+      "providerUserMessageId": "01a0a3fb-357f-7581-b162-ca1c912aacec",
+      "providerAssistantMessageId": "msg_070fe897f2e12d6c016aa8f4903dbc87d1b989760c635e5e30"
     }
   ]
 }
