@@ -11,3 +11,6 @@ So if the ratio of a librarian being quiet was 40%, and the ratio of a farmer be
 So it would be the ratio of things that fit our description in group a times the ratio of group a to the total number in all groups. divided by the ratio of things that fit our description to total things
 
 The fraction of group A that fits our description, times the fraction of the whole population belonging to group A, divided by the fraction of the whole population that fits our description.
+
+further reading:
+https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_class12-prep-a_pdf/
