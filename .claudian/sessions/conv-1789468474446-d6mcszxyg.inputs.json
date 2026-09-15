@@ -103,6 +103,20 @@
       "contentDigest": "0c0c4b717a9047b3ed2746fed3e09f6ac40c76805097fa6b948a7a5fa15497b7",
       "providerUserMessageId": "01a0a4c3-7148-7392-acb2-13c977c6f619",
       "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa927cd14e087d19e0c563eafc7ca6e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789470855157-7y9h4s6",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789470855154-z0ic6zd",
+      "timestamp": 1789470855154,
+      "rawDisplayText": "this was a great topic, i found it very interesting and will do mroe reading to understand and add it to my permanent knowledge, can you give me a few other topics you might reccomend",
+      "canonicalText": "this was a great topic, i found it very interesting and will do mroe reading to understand and add it to my permanent knowledge, can you give me a few other topics you might reccomend",
+      "images": [],
+      "contentDigest": "ad85b3c76abfdd759ea8c2c9cb5a1db48bd815f00fb4e153d47a01ddbd3a623b",
+      "providerUserMessageId": "01a0a4c6-500a-7480-8075-772898871bc4",
+      "providerAssistantMessageId": "msg_0e1c74736488ed1e016aa9289052a487d1a8abd0331b0b4df3"
     }
   ]
 }
