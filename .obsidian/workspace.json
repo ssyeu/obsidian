@@ -80,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d99deb74c062cda7",
@@ -118,7 +117,8 @@
               "title": "Pomodoro stats"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,16 +277,16 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "d3125c11ca8cf0f0",
+  "active": "459087b08891c0dd",
   "lastOpenFiles": [
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Start Here.md",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views",
     "TaskNotes",
     "Learning/How Learning Works.md",
