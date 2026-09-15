@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=r_Y3utIeTPg&list=PLtKNX4SfKpzUxuye9OdaRfL5fbpGa3
 Knowledge is different from belief. Belief has the option of being false while knowledge doesn't. Belief only requires one to believe in something while knowledge requires more. It requires the belief, confidence, truth, and a good basis. Does it count as knowing something if its true but you don't have a good basis for that thought? And what counts as a good basis? You might think that one would know it's raining if they are standing in the rain, but what if it's just a dream or a simulation. How can you be sure that you know things that seem obvious at first glance. To know is one of the about 100 words that every language has.
 
 https://youtu.be/PqjdRAERWLc?si=zBtbz2rLktH1Ia7l
+
+Skepticism is questioning if knowledge is even possible. The
