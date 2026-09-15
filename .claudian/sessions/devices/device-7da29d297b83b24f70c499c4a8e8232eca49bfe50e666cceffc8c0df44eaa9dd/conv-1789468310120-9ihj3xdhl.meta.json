@@ -1,10 +1,10 @@
 {
   "id": "conv-1789468310120-9ihj3xdhl",
   "providerId": "codex",
-  "title": "what is some math i could learn that i could apply...",
-  "titleGenerationStatus": "pending",
+  "title": "Find math topics with broad applications",
+  "titleGenerationStatus": "success",
   "createdAt": 1789468310134,
-  "lastActivityAt": 1789468310134,
+  "lastActivityAt": 1789468346691,
   "sessionId": "01a0a49f-7b93-7b03-a593-14c227d386af",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -14,5 +14,15 @@
     "transcriptRootPath": "/home/syeu/.codex/sessions",
     "workspaceDependencyToolVersion": 1
   },
-  "linkedContentPath": "Learning/Calculus.md"
+  "linkedContentPath": "Learning/Calculus.md",
+  "usage": {
+    "inputTokens": 16435,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12160,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16435,
+    "percentage": 6,
+    "model": "gpt-6-astra"
+  }
 }
