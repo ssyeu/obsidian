@@ -565,5 +565,6 @@
         }
       ]
     }
-  ]
+  ],
+  "lastNotifiedReleaseVersion": "4.13.1"
 }

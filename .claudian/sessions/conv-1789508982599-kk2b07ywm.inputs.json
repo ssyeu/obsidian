@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789508982599-kk2b07ywm",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789508982635-557ehq4",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789508982597-qv5cav5",
+      "timestamp": 1789508982597,
+      "rawDisplayText": "can you give me a study about motivation and interest and how that ties to learning",
+      "canonicalText": "can you give me a study about motivation and interest and how that ties to learning",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/How Learning Works.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "e92a4c3a54a187972ecff52f9fa7c174b367928a36b5aeeb45f1e6ce38a6f789",
+      "providerUserMessageId": "01a0a70c-1da7-7e40-a516-e99283f0bb39"
+    }
+  ]
+}

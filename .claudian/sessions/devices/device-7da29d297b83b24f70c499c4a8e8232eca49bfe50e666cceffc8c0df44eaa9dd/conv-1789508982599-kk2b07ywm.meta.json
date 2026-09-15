@@ -1,0 +1,18 @@
+{
+  "id": "conv-1789508982599-kk2b07ywm",
+  "providerId": "codex",
+  "title": "Find a study on motivation, interest, and learning",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789508982612,
+  "lastActivityAt": 1789508982612,
+  "sessionId": "01a0a70c-187b-76d1-b178-48ada43b28fe",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0a70c-187b-76d1-b178-48ada43b28fe",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/15/rollout-2026-09-15T16-49-42-01a0a70c-187b-76d1-b178-48ada43b28fe.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/How Learning Works.md"
+}
