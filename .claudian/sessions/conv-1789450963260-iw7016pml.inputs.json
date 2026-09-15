@@ -20,6 +20,34 @@
       "contentDigest": "2711553583c5c7b9ba82f5d3b896c6d5fd375b29d0afb47c6fe1d19276508cc2",
       "providerUserMessageId": "01a0a396-d19b-7ec2-b99e-1bb5cf672483",
       "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8daeabd1c87d187f86d8c4017188c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451037147-i6x109c",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789451037144-a1ko63m",
+      "timestamp": 1789451037144,
+      "rawDisplayText": "their performance increased in the moment because they performed better instantly, but their learning suffered which was a more lasting difference in their knowledge of the subject",
+      "canonicalText": "their performance increased in the moment because they performed better instantly, but their learning suffered which was a more lasting difference in their knowledge of the subject",
+      "images": [],
+      "contentDigest": "2ed9e4e4e3e01fd781f76c1684448ccbd2299476ef1a2d53fa6098cacc0bdd82",
+      "providerUserMessageId": "01a0a397-e9f2-7e62-9f02-c1312eb2afcb",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8db20897087d1ba714a9c874ecb73"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789451086330-sewrf1t",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789451086327-lazz42a",
+      "timestamp": 1789451086327,
+      "rawDisplayText": "i would try to get them to explain the chapter to me instead of just rereading it, this would get them to work through it on their own and strengthen neural connections and get them to double check after to see what they need to work on",
+      "canonicalText": "i would try to get them to explain the chapter to me instead of just rereading it, this would get them to work through it on their own and strengthen neural connections and get them to double check after to see what they need to work on",
+      "images": [],
+      "contentDigest": "d470bc642db395e3263d71cf7068a6741dcb286449aed2f22d22055a32c446cf",
+      "providerUserMessageId": "01a0a398-aa0e-72b1-98ed-c9bfa100799d",
+      "providerAssistantMessageId": "msg_0c03b92ddf0edb86016aa8db4ff42487d1b336809ab781aea6"
     }
   ]
 }
