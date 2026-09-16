@@ -15,7 +15,7 @@ When the user asks for their daily quiz:
 - Never reveal an answer unless the user explicitly asks for it, including in feedback, explanations, or a final recap.
 - If the user makes a mistake or gives an incomplete answer, provide a hint without revealing the answer and let them try again.
 - Keep feedback brief. After ten questions, end the quiz rather than automatically starting another round.
-- Increase question complexity each day, using prior quiz performance when available. Progress from basic recall to application, explanation, comparisons, and multi-step reasoning rather than repeatedly testing the same facts at the same level. Keep questions grounded in the user's notes and use simple numbers when possible; increase conceptual difficulty rather than arithmetic difficulty. Revisit weak areas with support while advancing topics the user has mastered.
+- Increase question complexity each day by explicitly consulting `Daily Quiz Log.md` for prior questions, reasoning tasks, and recorded performance. Use that history to choose the next level of difficulty for each topic; do not assume mastery where the log shows hints, incomplete explanations, skipped questions, or no assessment. Progress from basic recall to application, explanation, comparisons, and multi-step reasoning rather than repeatedly testing the same facts at the same level. Keep questions grounded in the user's notes and use simple numbers when possible; increase conceptual difficulty rather than arithmetic difficulty. Revisit weak areas with support while advancing topics the user has mastered.
 
 ### Quiz history and avoiding repetition
 
