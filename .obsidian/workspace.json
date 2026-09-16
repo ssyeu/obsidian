@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Creativity.md",
+                "file": "TaskNotes/Start Here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creativity"
+              "title": "Start Here"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hidden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d99deb74c062cda7",
@@ -286,13 +287,13 @@
   },
   "active": "5e827f9a0fb486cc",
   "lastOpenFiles": [
+    "TaskNotes/Start Here.md",
     "Art/Creativity.md",
     "Learning/Dieter Rams.md",
     "Learning/About Hermes.md",
     "Art/Aesthetics.md",
     "Learning/Epistemology.md",
     "Learning/How Learning Works.md",
-    "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
     "Learning/Calculus.md",
     "TaskNotes/Views/pomodoro-stats.base",

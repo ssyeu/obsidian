@@ -1,5 +1,5 @@
 # Start Here with TaskNotes
-
+#hidden
 This note is a small tour of TaskNotes inside your own vault. Work through it in place, then keep it as a reference or delete it when you no longer need it.
 
 TaskNotes works best when three things feel connected:
