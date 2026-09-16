@@ -188,6 +188,33 @@
       "contentDigest": "68b94565071ab292552f21f3f3aa73b0a1f0599f598ff4b7be60c073569c26bc",
       "providerUserMessageId": "01a0a91f-8aec-7350-aa4f-9bea1c43dc37",
       "providerAssistantMessageId": "msg_0adad63f819215ea016aaa45853b4487d19e2491c2c63aaf7e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543861077-omd7xwn",
+      "userTurnOrdinal": 14,
+      "state": "accepted",
+      "localMessageId": "msg-1789543861074-zpmosj8",
+      "timestamp": 1789543861074,
+      "rawDisplayText": "Making sure every detail has multiple meanings and that they dont overlap. Maximizing info while having it be simple",
+      "canonicalText": "Making sure every detail has multiple meanings and that they dont overlap. Maximizing info while having it be simple",
+      "images": [],
+      "contentDigest": "b52a8d5171cab647bdf5a59d57013958ad70d4bde5b3a720e6fdae8ab4a958a6",
+      "providerUserMessageId": "01a0a920-4b6a-7a02-a1ac-cd87e195cf17",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa45bd5ac087d1a5942a7d572754aa"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543890806-2tiag9o",
+      "userTurnOrdinal": 15,
+      "state": "accepted",
+      "localMessageId": "msg-1789543890803-qxre4yn",
+      "timestamp": 1789543890803,
+      "rawDisplayText": "is there any way we make the quiz not repeat questions from one day to antoher",
+      "canonicalText": "is there any way we make the quiz not repeat questions from one day to antoher",
+      "images": [],
+      "contentDigest": "0ce35fe0264add0ddfde955d3fa7a5e2cce35889e99161092df6a7a910f597f9",
+      "providerUserMessageId": "01a0a920-bf8a-7752-9561-02a3e3c884cf"
     }
   ]
 }
