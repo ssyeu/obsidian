@@ -20,6 +20,34 @@
       "contentDigest": "2711553583c5c7b9ba82f5d3b896c6d5fd375b29d0afb47c6fe1d19276508cc2",
       "providerUserMessageId": "01a0a918-3be8-7a00-8a3d-574141abe844",
       "providerAssistantMessageId": "msg_0adad63f819215ea016aaa43b51f1887d18b463f4c486f876d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543399858-7rx0hec",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789543399855-11h1sjk",
+      "timestamp": 1789543399855,
+      "rawDisplayText": "your performance incrased but you didnt learn anything, i would practice with interleaved practice and spread it out a bit more and it also depends how you studied",
+      "canonicalText": "your performance incrased but you didnt learn anything, i would practice with interleaved practice and spread it out a bit more and it also depends how you studied",
+      "images": [],
+      "contentDigest": "0d44674177eaf6b058404c321008f870d1e9d11eb8ecfddf637ed93e22d0c283",
+      "providerUserMessageId": "01a0a919-41cc-73c0-ab54-2520dca7a8ba",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa43ecfebc87d1aa70b236cf4e30a9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543454825-kt7gox3",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789543454822-orbysx4",
+      "timestamp": 1789543454822,
+      "rawDisplayText": "It's not true because there are far more farmers than libraries, so there would be 8 quiet libraries and 8 quiet farmers, so the odds are 50/50",
+      "canonicalText": "It's not true because there are far more farmers than libraries, so there would be 8 quiet libraries and 8 quiet farmers, so the odds are 50/50",
+      "images": [],
+      "contentDigest": "acf8bd69737e66cb86ea24f11ae6001562592d3f73399c67dbb804df3b95caad",
+      "providerUserMessageId": "01a0a91a-187c-74f2-ada5-ff84bac4f5db",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa442068a887d18e6b3eea8c3c94c9"
     }
   ]
 }
