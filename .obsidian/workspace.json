@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/How Learning Works.md",
+                "file": "Art/Aesthetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Learning Works"
+              "title": "Aesthetics"
             }
           }
         ],
@@ -298,6 +298,7 @@
   },
   "active": "9da93e7dadf5f5ea",
   "lastOpenFiles": [
+    "Learning/How Learning Works.md",
     "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
     "Learning/Calculus.md",
@@ -311,7 +312,6 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
     "TaskNotes",
-    "Learning/How Learning Works.md",
     "Learning/CS50.md",
     "Learning/cs50 - 5.md",
     "Learning/cs50 - 1.md",

@@ -4,3 +4,5 @@ clean and simple, a genius values simplicity while an idiot values complexity. I
 I like when things are busy too, but it still has to feel like everything works together, maybe i don't have these separate things where i like things simple but have depth or busy but work well, i feel like there's this sweet spot in between that blends the two together that i like the most. My room right now is a bit more on the busy end but i really like it, it also admire these simpler rooms that are clean as well but not too minimal. Create something with [[intention]]. Not just randomly placing things on a canvas.
 
 the environment you work in, defines the quality of your work. 
+
+Why did old things look better? They were more often created by single creators or a small team with a vision. They are less often creat
