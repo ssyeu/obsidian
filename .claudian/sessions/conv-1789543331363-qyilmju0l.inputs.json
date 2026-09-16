@@ -48,6 +48,20 @@
       "contentDigest": "acf8bd69737e66cb86ea24f11ae6001562592d3f73399c67dbb804df3b95caad",
       "providerUserMessageId": "01a0a91a-187c-74f2-ada5-ff84bac4f5db",
       "providerAssistantMessageId": "msg_0adad63f819215ea016aaa442068a887d18e6b3eea8c3c94c9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543473724-mw7mnj0",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789543473721-fegmcwe",
+      "timestamp": 1789543473721,
+      "rawDisplayText": "I feel like a lot of these questions are repeated from yesterday",
+      "canonicalText": "I feel like a lot of these questions are repeated from yesterday",
+      "images": [],
+      "contentDigest": "7a16df09aaa1634e3696f616947d247967bea5b21427895f2cc397281be502da",
+      "providerUserMessageId": "01a0a91a-6252-7f83-996f-2f59f44b504c",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa4437590087d1a8293948a20070ff"
     }
   ]
 }
