@@ -244,6 +244,20 @@
       "contentDigest": "4a0dddfbe14c1aa92bde22c8e3b4ef654e71e2af9efde3a92e5da51ce71b7ea2",
       "providerUserMessageId": "01a0a923-3e51-7882-b569-aa06017ca530",
       "providerAssistantMessageId": "msg_0adad63f819215ea016aaa4687456487d1a7c899eff25a0b68"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789544217428-mpl3e4t",
+      "userTurnOrdinal": 18,
+      "state": "accepted",
+      "localMessageId": "msg-1789544217424-zotewcn",
+      "timestamp": 1789544217424,
+      "rawDisplayText": "If i move tasknotes folder, agents and read me to a tools folder would that cause problems?",
+      "canonicalText": "If i move tasknotes folder, agents and read me to a tools folder would that cause problems?",
+      "images": [],
+      "contentDigest": "47e2ce1ff42c9bd8c09ab96b555b9f9d4affa12c775af7bf8d592f810a911e38",
+      "providerUserMessageId": "01a0a925-bb69-7e13-9ada-1c86da904bed",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa474053a487d1aa08bfebc29575f0"
     }
   ]
 }
