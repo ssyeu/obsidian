@@ -88,7 +88,22 @@
       "canonicalText": "no, the 40 and 35 have equal power while the 25% is basically a spectator,  the 40 and 35 just need the other to vote with them to win while the 25 needs all 3 to win a vote",
       "images": [],
       "contentDigest": "48f134de08bc05a9404e443af51de7441383d7e11a8f179c11f95619f1161f6b",
-      "providerUserMessageId": "01a0a91c-0852-7e50-8e18-2043af836a80"
+      "providerUserMessageId": "01a0a91c-0852-7e50-8e18-2043af836a80",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa44a02ea487d18566bdedcc336f93"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543631238-xvws2nn",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1789543631235-jiqct5m",
+      "timestamp": 1789543631235,
+      "rawDisplayText": "No, we dont know if the clock is broken or the time is set wrong. You have a good basis for believing the time but that doesnt mean that belief is true",
+      "canonicalText": "No, we dont know if the clock is broken or the time is set wrong. You have a good basis for believing the time but that doesnt mean that belief is true",
+      "images": [],
+      "contentDigest": "6f4f96e42d9104be6213a2d50d2cf9a24da4fca951987c9c2511232ee4c26fe6",
+      "providerUserMessageId": "01a0a91c-c999-7b01-9e6a-a549eefa582d",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa44d1d6e487d18f6b139385f03171"
     }
   ]
 }
