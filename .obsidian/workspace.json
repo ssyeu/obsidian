@@ -263,7 +263,7 @@
                       "conversationId": "conv-1789524074382-pw67rdo7c"
                     }
                   ],
-                  "activeTabId": "tab-1789524068699-wp8oru4"
+                  "activeTabId": "tab-1789508965178-i0rxbyh"
                 }
               },
               "icon": "bot",
@@ -275,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419,
-    "collapsed": true
+    "width": 419
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +298,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5e827f9a0fb486cc",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Learning/How Learning Works.md",
     "Art/Aesthetics.md",
