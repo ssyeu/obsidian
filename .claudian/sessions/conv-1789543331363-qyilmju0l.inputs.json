@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789543331363-qyilmju0l",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543331406-cbv6hkr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789543331361-cilaz7p",
+      "timestamp": 1789543331361,
+      "rawDisplayText": "give me my daily quiz",
+      "canonicalText": "give me my daily quiz",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/Dieter Rams.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "2711553583c5c7b9ba82f5d3b896c6d5fd375b29d0afb47c6fe1d19276508cc2",
+      "providerUserMessageId": "01a0a918-3be8-7a00-8a3d-574141abe844"
+    }
+  ]
+}

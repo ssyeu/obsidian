@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Manga in Theory and Practice by Hirohiko Araki.md",
+                "file": "Learning/Dieter Rams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manga in Theory and Practice by Hirohiko Araki"
+              "title": "Dieter Rams"
             }
           }
         ],
@@ -255,15 +255,15 @@
                       "conversationId": "conv-1789468474446-d6mcszxyg"
                     },
                     {
-                      "tabId": "tab-1789508965178-i0rxbyh",
-                      "conversationId": "conv-1789508982599-kk2b07ywm"
-                    },
-                    {
                       "tabId": "tab-1789524068699-wp8oru4",
                       "conversationId": "conv-1789524074382-pw67rdo7c"
+                    },
+                    {
+                      "tabId": "tab-1789543327052-4ckl9zq",
+                      "conversationId": "conv-1789543331363-qyilmju0l"
                     }
                   ],
-                  "activeTabId": "tab-1789524068699-wp8oru4"
+                  "activeTabId": "tab-1789543327052-4ckl9zq"
                 }
               },
               "icon": "bot",
@@ -275,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419,
-    "collapsed": true
+    "width": 419
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,10 +298,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e4369796318d0499",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
-    "TaskNotes/Start Here.md",
     "Media/Manga in Theory and Practice by Hirohiko Araki.md",
+    "TaskNotes/Start Here.md",
     "Final Draft",
     "Final Version",
     "Learning/Creativity.md",

@@ -1,0 +1,18 @@
+{
+  "id": "conv-1789543331363-qyilmju0l",
+  "providerId": "codex",
+  "title": "Take the daily learning quiz",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789543331367,
+  "lastActivityAt": 1789543331367,
+  "sessionId": "01a0a918-3747-7bb3-a12c-620783f71b86",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0a918-3747-7bb3-a12c-620783f71b86",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/16/rollout-2026-09-16T02-22-11-01a0a918-3747-7bb3-a12c-620783f71b86.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/Dieter Rams.md"
+}
