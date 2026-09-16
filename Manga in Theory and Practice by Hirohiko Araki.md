@@ -1,0 +1,1 @@
+Araki talks about how he believes in the golden road of manga, and that all good manga follow this road or deliberately subvert it to create their narrative. 
