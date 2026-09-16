@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Creativity.md",
+                "file": "Learning/Dieter Rams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creativity"
+              "title": "Dieter Rams"
             }
           }
         ],
@@ -315,8 +315,8 @@
   },
   "active": "bb1b2f86e8bedfff",
   "lastOpenFiles": [
-    "Art/About Hermes.md",
-    "Art/Dieter Rams.md",
+    "Learning/About Hermes.md",
+    "Learning/Dieter Rams.md",
     "Art/Creativity.md",
     "Art/Aesthetics.md",
     "Learning/Epistemology.md",
