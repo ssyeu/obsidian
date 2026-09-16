@@ -103,8 +103,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
@@ -113,8 +113,8 @@
             "state": {
               "type": "tasknotes-pomodoro-stats-view",
               "state": {},
-              "icon": "bar-chart",
-              "title": "Pomodoro stats"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
             }
           }
         ]
@@ -284,13 +284,14 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5e827f9a0fb486cc",
+  "active": "e4369796318d0499",
   "lastOpenFiles": [
+    "Final Version",
     "TaskNotes/Start Here.md",
-    "Art/Creativity.md",
+    "Learning/Creativity.md",
     "Learning/Dieter Rams.md",
     "Learning/About Hermes.md",
-    "Art/Aesthetics.md",
+    "Learning/Aesthetics.md",
     "Learning/Epistemology.md",
     "Learning/How Learning Works.md",
     "Learning/Bayes Theorem.md",
@@ -320,7 +321,6 @@
     "test.md",
     "obsidian/README.md",
     "obsidian/Media/Frieren.md",
-    "obsidian/Media/A Lunch in Paris by Elizabeth Band.md",
     "obsidian/Media",
     "Attachments/Pasted image 20260913113851.png",
     "Attachments/Pasted image 20260913113546.png",
