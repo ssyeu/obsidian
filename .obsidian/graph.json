@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file:",
+  "search": "-file: start here",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.20809835898999124,
-  "close": false
+  "close": true
 }

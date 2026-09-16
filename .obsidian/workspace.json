@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hidden",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d99deb74c062cda7",
@@ -285,7 +284,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5e827f9a0fb486cc",
+  "active": "e4369796318d0499",
   "lastOpenFiles": [
     "TaskNotes/Start Here.md",
     "Art/Creativity.md",
