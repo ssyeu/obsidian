@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789524074382-pw67rdo7c",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789524074425-0b2yhnr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789524074380-ftt0ozd",
+      "timestamp": 1789524074380,
+      "rawDisplayText": "where can i learn about deiter rams",
+      "canonicalText": "where can i learn about deiter rams",
+      "context": {
+        "linkedContent": {
+          "path": "Art/Aesthetics.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "96cecfd301ca87abf1e245804da86b7871393d3504a6ff27b2d533a0476fdd7e",
+      "providerUserMessageId": "01a0a7f2-6b3b-75e2-a427-7331a5e74342",
+      "providerAssistantMessageId": "msg_089e73a4aa86168e016aa9f87776f487d19e70aa677825f4f0"
+    }
+  ]
+}

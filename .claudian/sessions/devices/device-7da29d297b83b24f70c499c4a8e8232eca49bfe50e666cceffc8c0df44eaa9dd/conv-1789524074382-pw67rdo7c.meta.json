@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789524074382-pw67rdo7c",
+  "providerId": "codex",
+  "title": "Find resources to learn about Dieter Rams",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789524074385,
+  "lastActivityAt": 1789524094053,
+  "sessionId": "01a0a7f2-60d5-77d0-9667-82dd13344950",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0a7f2-60d5-77d0-9667-82dd13344950",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/15/rollout-2026-09-15T21-01-14-01a0a7f2-60d5-77d0-9667-82dd13344950.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Art/Aesthetics.md",
+  "usage": {
+    "inputTokens": 20412,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 11904,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 20412,
+    "percentage": 8,
+    "model": "gpt-6-astra"
+  }
+}

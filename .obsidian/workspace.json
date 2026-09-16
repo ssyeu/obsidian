@@ -258,9 +258,13 @@
                     {
                       "tabId": "tab-1789508965178-i0rxbyh",
                       "conversationId": "conv-1789508982599-kk2b07ywm"
+                    },
+                    {
+                      "tabId": "tab-1789524068699-wp8oru4",
+                      "conversationId": "conv-1789524074382-pw67rdo7c"
                     }
                   ],
-                  "activeTabId": "tab-1789508965178-i0rxbyh"
+                  "activeTabId": "tab-1789524068699-wp8oru4"
                 }
               },
               "icon": "bot",
@@ -295,7 +299,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "9da93e7dadf5f5ea",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Learning/How Learning Works.md",
     "TaskNotes/Start Here.md",
