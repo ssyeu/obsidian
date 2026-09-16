@@ -104,6 +104,48 @@
       "contentDigest": "6f4f96e42d9104be6213a2d50d2cf9a24da4fca951987c9c2511232ee4c26fe6",
       "providerUserMessageId": "01a0a91c-c999-7b01-9e6a-a549eefa582d",
       "providerAssistantMessageId": "msg_0adad63f819215ea016aaa44d1d6e487d18f6b139385f03171"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543663256-saoyk0y",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1789543663253-g4ky0q2",
+      "timestamp": 1789543663253,
+      "rawDisplayText": "it wouldn't so maybe theres not a good basis for believing it?",
+      "canonicalText": "it wouldn't so maybe theres not a good basis for believing it?",
+      "images": [],
+      "contentDigest": "6ff46d5ce3c4b11cfccf5cae605dca68ccefa069d6caff7e3ee062b4c908760e",
+      "providerUserMessageId": "01a0a91d-46ae-7771-8bb6-5f2f563c7fb8",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa44f153c087d1b475572d4571bdd1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543690653-g6s52xb",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1789543690650-kg0rqis",
+      "timestamp": 1789543690650,
+      "rawDisplayText": "4",
+      "canonicalText": "4",
+      "images": [],
+      "contentDigest": "f9a59c31b71949a427133fdad4266898b725168f0f9d7b6580fc5aa14cb104de",
+      "providerUserMessageId": "01a0a91d-b1ae-7de3-8f8b-4ba7fb735bcc",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa4511391887d1b29b9e27f4ae23c8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543705040-fpme4pn",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1789543705038-dq5fqec",
+      "timestamp": 1789543705038,
+      "rawDisplayText": "next question",
+      "canonicalText": "next question",
+      "images": [],
+      "contentDigest": "5e6b6c84b6d114a5e5b1e05e9c3ee7f251c7109829ad484e1a301a32c8650ebc",
+      "providerUserMessageId": "01a0a91d-e9e3-7230-a7f0-8bb2b3143af1",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa451af39c87d1bb9df594907696f9"
     }
   ]
 }
