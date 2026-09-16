@@ -214,7 +214,21 @@
       "canonicalText": "is there any way we make the quiz not repeat questions from one day to antoher",
       "images": [],
       "contentDigest": "0ce35fe0264add0ddfde955d3fa7a5e2cce35889e99161092df6a7a910f597f9",
-      "providerUserMessageId": "01a0a920-bf8a-7752-9561-02a3e3c884cf"
+      "providerUserMessageId": "01a0a920-bf8a-7752-9561-02a3e3c884cf",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa45e10b4887d183c94422e8a63ba8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543915428-xzfqjml",
+      "userTurnOrdinal": 16,
+      "state": "accepted",
+      "localMessageId": "msg-1789543915425-l6t0u0i",
+      "timestamp": 1789543915425,
+      "rawDisplayText": "yes",
+      "canonicalText": "yes",
+      "images": [],
+      "contentDigest": "02002f7ce90dff20716f6833c7694fa402e25a85c7e8ec803c457e8197761d70",
+      "providerUserMessageId": "01a0a921-1fb8-7832-9ef9-9035c27ac2f5"
     }
   ]
 }
