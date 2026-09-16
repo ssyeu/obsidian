@@ -3,6 +3,8 @@
   "attachmentFolderPath": "Attachments",
   "userIgnoreFilters": [
     "TaskNotes/",
-    "TaskNotes/Views/"
+    "TaskNotes/Views/",
+    "AGENTS",
+    "README"
   ]
 }
