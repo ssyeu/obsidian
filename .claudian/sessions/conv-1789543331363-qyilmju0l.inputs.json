@@ -62,6 +62,33 @@
       "contentDigest": "7a16df09aaa1634e3696f616947d247967bea5b21427895f2cc397281be502da",
       "providerUserMessageId": "01a0a91a-6252-7f83-996f-2f59f44b504c",
       "providerAssistantMessageId": "msg_0adad63f819215ea016aaa4437590087d1a8293948a20070ff"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543530455-y2f7scm",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789543530452-i8igbo0",
+      "timestamp": 1789543530452,
+      "rawDisplayText": "taking inspiration is fine, but copying off that inspiration is not. You have to take inspiration and create something new with it, add your own flourish",
+      "canonicalText": "taking inspiration is fine, but copying off that inspiration is not. You have to take inspiration and create something new with it, add your own flourish",
+      "images": [],
+      "contentDigest": "eef7d20481c6652556e31d0005704b990582c01aee1113b6dd2016fa109bfd69",
+      "providerUserMessageId": "01a0a91b-3fea-7aa0-b663-ee92114cba06",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa446d6b3087d1b88fe02d5ef5d00b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789543581758-sd66v25",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789543581755-fe04v8y",
+      "timestamp": 1789543581755,
+      "rawDisplayText": "no, the 40 and 35 have equal power while the 25% is basically a spectator,  the 40 and 35 just need the other to vote with them to win while the 25 needs all 3 to win a vote",
+      "canonicalText": "no, the 40 and 35 have equal power while the 25% is basically a spectator,  the 40 and 35 just need the other to vote with them to win while the 25 needs all 3 to win a vote",
+      "images": [],
+      "contentDigest": "48f134de08bc05a9404e443af51de7441383d7e11a8f179c11f95619f1161f6b",
+      "providerUserMessageId": "01a0a91c-0852-7e50-8e18-2043af836a80"
     }
   ]
 }
