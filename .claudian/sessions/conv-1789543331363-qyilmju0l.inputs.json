@@ -228,7 +228,8 @@
       "canonicalText": "yes",
       "images": [],
       "contentDigest": "02002f7ce90dff20716f6833c7694fa402e25a85c7e8ec803c457e8197761d70",
-      "providerUserMessageId": "01a0a921-1fb8-7832-9ef9-9035c27ac2f5"
+      "providerUserMessageId": "01a0a921-1fb8-7832-9ef9-9035c27ac2f5",
+      "providerAssistantMessageId": "msg_0adad63f819215ea016aaa463800ac87d1b74a139d17ff9dec"
     }
   ]
 }
