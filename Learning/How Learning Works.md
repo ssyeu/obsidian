@@ -34,7 +34,7 @@ Varying conditions of practice are important, even changing the room that you ar
 
 
 https://www.cell.com/neuron/fulltext/S0896-6273(14)00804-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627314008046%3Fshowall%3Dtrue
-The study was trying to see if high or low curiosity affected learning. It did research by first screening patients, asking them to rate a variety of questions if they had low or high curiosity, then it put them in an MRI and asked questions and showed them faces between questions to test two things. First it wanted to see if the qu
+The study was trying to see if high or low curiosity affected learning. It did research by first screening patients, asking them to rate a variety of questions if they had low or high curiosity, then it put them in an MRI and asked questions and showed them faces between questions to test two things. First it wanted to see if the questions related to things that were rated as highly curious were remembered better, second it wanted to see if the higher curiosity would lead to a higher rate of incidental learning where the subject would remember the face better if it was next to a question they were curious about. It is a rather simple test but they found out that the parts of the brain assocciated with learning liit
 
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
