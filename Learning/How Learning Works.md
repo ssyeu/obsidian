@@ -34,7 +34,8 @@ Varying conditions of practice are important, even changing the room that you ar
 
 
 https://www.cell.com/neuron/fulltext/S0896-6273(14)00804-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627314008046%3Fshowall%3Dtrue
-The study was trying to see if high or low curiosity affected learning
+The study was trying to see if high or low curiosity affected learning. It did research by first screening patients, asking them to rate a variety of questions if they had low or high curiosity, then it put them in an MRI and asked questions and showed them faces between questions to test two things. First it wanted to see if the qu
+
 more reading:
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
