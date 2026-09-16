@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "userIgnoreFilters": [
+    "TaskNotes/",
+    "TaskNotes/Views/"
+  ]
 }
