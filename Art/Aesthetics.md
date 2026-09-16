@@ -5,4 +5,4 @@ I like when things are busy too, but it still has to feel like everything works 
 
 the environment you work in, defines the quality of your work. 
 
-Why did old things look better? They were more often created by single creators or a small team with a vision. They are less often creat
+Why did old things look better? They were more often created by single creators or a small team with a vision. It made them seem more high quality and like the details mattered more. There were more details in older things. There was also more color. Older things used color more expressively than newer things. They also seemed to care more about items. Items were treated as something that would last and worthy of looking nice. Modern society seems to be more used to convenience an
