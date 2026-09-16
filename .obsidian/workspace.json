@@ -132,8 +132,7 @@
               "title": "Pomodoro stats"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,10 +299,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "9da93e7dadf5f5ea",
+  "active": "5e827f9a0fb486cc",
   "lastOpenFiles": [
-    "Art/Aesthetics.md",
     "Learning/How Learning Works.md",
+    "Art/Aesthetics.md",
     "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
     "Learning/Calculus.md",
