@@ -272,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 419,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,7 +296,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "d67ff53992dccb03",
+  "active": "9da93e7dadf5f5ea",
   "lastOpenFiles": [
     "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
