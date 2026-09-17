@@ -188,6 +188,20 @@
       "contentDigest": "c96ea2decc543a3519ae243644a4261699c17d41a986ed7e9c985d15d6844501",
       "providerUserMessageId": "01a0add6-2bd8-7e10-bffa-79c031e4713f",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab7a74897487d19bd1a51957fe0d41"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622957442-nfx0ftx",
+      "userTurnOrdinal": 14,
+      "state": "accepted",
+      "localMessageId": "msg-1789622957435-3faozxd",
+      "timestamp": 1789622957435,
+      "rawDisplayText": "its asking what was if it was causation or correlation. individualism could be making people have less kids, not the other way around",
+      "canonicalText": "its asking what was if it was causation or correlation. individualism could be making people have less kids, not the other way around",
+      "images": [],
+      "contentDigest": "638360a235b42a0a40e74d68c2213ae18fae32a0688cb37d4c7fcc759413f6df",
+      "providerUserMessageId": "01a0add7-35b2-7a20-a70b-65e924855af1",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab7ab7beb887d18062d436a0477656"
     }
   ]
 }

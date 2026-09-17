@@ -154,4 +154,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Population numbers going down is bad.md]]
 - Question: An article observes that birth rates are falling while individualism is rising, then claims that having fewer children makes society more individualistic. Based on the objection in your notes, what alternative explanation should be considered, and why doesn’t observing both trends establish the article’s claim?
 - Concept/task: Question a proposed causal direction, articulate an alternative, and distinguish co-occurring trends from evidence of causation; distinct from age composition and support needs.
+- Outcome: Independent; distinguished correlation from causation and proposed the reverse causal direction as an alternative.
+
+### 10 — Watches: automatic winding
+
+- Source: [[Learning/How watches work.md]]
+- Question: Your wrist moves back and forth, but an automatic watch needs to use that motion to wind its mainspring. What must the mechanism do with those alternating movements, and why wouldn’t simply passing both directions straight through work?
+- Concept/task: Explain the functional need to convert alternating input motion into useful winding motion; distinct from gear-ratio packaging.
 - Outcome: Pending.
