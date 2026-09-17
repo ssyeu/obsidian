@@ -99,8 +99,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-view"
+              "icon": "clock",
+              "title": "Pomodoro"
             }
           },
           {
@@ -109,11 +109,12 @@
             "state": {
               "type": "tasknotes-pomodoro-stats-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-stats-view"
+              "icon": "bar-chart",
+              "title": "Pomodoro stats"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -271,7 +272,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "d67ff53992dccb03",
+  "active": "fbb8a01d0b2b103d",
   "lastOpenFiles": [
     "AGENTS.md",
     "Learning/Dieter Rams.md",

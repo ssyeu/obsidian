@@ -104,6 +104,33 @@
       "contentDigest": "c16c242d8cbccd7dcd3047d8cfae46fb012f5b88370f8555b564303acd54c619",
       "providerUserMessageId": "01a0add1-d186-7d82-a754-a117529cf29e",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab795a859087d1b124d16d60b804e3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622667785-iocxmr1",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1789622667779-jwn4rqk",
+      "timestamp": 1789622667779,
+      "rawDisplayText": "it doesn't take into account a growing older population that needs people to take care of them, also it doesn't take into account that population decline could just keep going, and it would never stabalize",
+      "canonicalText": "it doesn't take into account a growing older population that needs people to take care of them, also it doesn't take into account that population decline could just keep going, and it would never stabalize",
+      "images": [],
+      "contentDigest": "05f69d621f7cf6426e0ca0cbb75197cc282cb6ef5ab489f476e92326e021473a",
+      "providerUserMessageId": "01a0add2-ca46-7753-bc30-73edf2f63dda",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab7999291087d1884b7e0019b8922c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622704406-vla6hj0",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1789622704399-g925sjh",
+      "timestamp": 1789622704399,
+      "rawDisplayText": "a dictionary, you could assign a phone number to everyones unique username",
+      "canonicalText": "a dictionary, you could assign a phone number to everyones unique username",
+      "images": [],
+      "contentDigest": "e91b95cd85f8c6cbadaec17dec479e27a869a9ac6649b4256383cbae9072378b",
+      "providerUserMessageId": "01a0add3-5944-7f00-88c8-e0621a4c2b5d"
     }
   ]
 }

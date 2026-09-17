@@ -126,4 +126,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Population numbers going down is bad.md]]
 - Question: Someone argues, “A smaller population needs fewer resources, so population decline should automatically make life easier.” Based on your notes, what important feature of the population does that argument overlook, and how could it create pressure despite there being fewer people overall?
 - Concept/task: Evaluate an argument based on total population by explaining how population composition can affect support needs and capacity.
+- Outcome: Independent; identified older people’s care needs and explained that continued decline need not produce the assumed stabilization.
+
+### 6 — CS50: choosing a data structure for lookup
+
+- Source: [[Learning/CS50.md]]
+- Question: You’re making a contacts app that needs to retrieve a person’s phone number when given their unique username. Which data structure from your notes fits this task, and how would you organize each entry?
+- Concept/task: Select a data structure for lookup and map the scenario’s information to its organizing components; distinct from tracing stack behavior.
 - Outcome: Pending.
