@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 345.921875
   },
   "right": {
     "id": "c9f2afa9b37e87bd",
@@ -275,7 +275,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "04c9901b5c6620e3",
+  "active": "e4369796318d0499",
   "lastOpenFiles": [
     "Learning/Dieter Rams.md",
     "Daily Quiz Log.md",
