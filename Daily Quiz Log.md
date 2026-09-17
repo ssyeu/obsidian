@@ -89,7 +89,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ## 2026-09-17
 
-- Session: in progress; ten questions planned, asked one at a time.
+- Session: complete; ten questions asked. Seven completed independently, two completed with hints, and one skipped.
 - History consulted: all available history, including 2026-09-16. No entries exist for 2026-09-10 through 2026-09-15; earlier performance cannot be assessed.
 - Selection: avoid the previous session's concepts/reasoning tasks; prioritize untested material with explanation and application, without assuming mastery.
 
@@ -161,4 +161,4 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/How watches work.md]]
 - Question: Your wrist moves back and forth, but an automatic watch needs to use that motion to wind its mainspring. What must the mechanism do with those alternating movements, and why wouldn’t simply passing both directions straight through work?
 - Concept/task: Explain the functional need to convert alternating input motion into useful winding motion; distinct from gear-ratio packaging.
-- Outcome: Pending.
+- Outcome: Independent; explained the required direction conversion and why directly transmitting alternating motion would not provide consistent winding.

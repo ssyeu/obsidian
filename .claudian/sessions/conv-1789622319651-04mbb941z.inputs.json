@@ -202,6 +202,20 @@
       "contentDigest": "638360a235b42a0a40e74d68c2213ae18fae32a0688cb37d4c7fcc759413f6df",
       "providerUserMessageId": "01a0add7-35b2-7a20-a70b-65e924855af1",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab7ab7beb887d18062d436a0477656"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622999933-vkcagug",
+      "userTurnOrdinal": 15,
+      "state": "accepted",
+      "localMessageId": "msg-1789622999926-1vz06qj",
+      "timestamp": 1789622999926,
+      "rawDisplayText": "if it passed both movenets it would wind and unwind the main spring, it would need to turn that 2 way motion into one way motion",
+      "canonicalText": "if it passed both movenets it would wind and unwind the main spring, it would need to turn that 2 way motion into one way motion",
+      "images": [],
+      "contentDigest": "ddf9f3e35f931c13ca80a95a3c96877cfc0644bbf7d852172e88749cca4eb793",
+      "providerUserMessageId": "01a0add7-dbad-7062-9b90-d120cf1a9d3b",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab7ae235d487d1b41199a020cb8d8b"
     }
   ]
 }
