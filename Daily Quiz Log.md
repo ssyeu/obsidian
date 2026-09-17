@@ -133,4 +133,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/CS50.md]]
 - Question: You’re making a contacts app that needs to retrieve a person’s phone number when given their unique username. Which data structure from your notes fits this task, and how would you organize each entry?
 - Concept/task: Select a data structure for lookup and map the scenario’s information to its organizing components; distinct from tracing stack behavior.
-- Outcome: Pending.
+- Outcome: Independent; selected a dictionary and correctly associated each unique username with a phone number.
+
+### 7 — Calculus: rate and accumulation
+
+- Source: [[Learning/Calculus.md]]
+- Question: Water flows into an empty tank at 2 liters per minute for 3 minutes, then 4 liters per minute for 2 minutes. If you graph the flow rate against time, would a derivative or an integral give the total water added? Explain what that quantity represents on the graph and calculate the total.
+- Concept/task: Select the calculus operation for accumulation from a rate graph, connect it to graphical meaning, and calculate a simple piecewise-constant total; distinct from the prior limit task.
+- Outcome: Incomplete; independently selected the operation and calculated the total correctly, and distinguished the derivative’s role. Graphical interpretation not yet supplied; follow-up asks how the two time intervals could be shown as shapes on the graph. Retry pending.

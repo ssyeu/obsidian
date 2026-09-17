@@ -130,7 +130,21 @@
       "canonicalText": "a dictionary, you could assign a phone number to everyones unique username",
       "images": [],
       "contentDigest": "e91b95cd85f8c6cbadaec17dec479e27a869a9ac6649b4256383cbae9072378b",
-      "providerUserMessageId": "01a0add3-5944-7f00-88c8-e0621a4c2b5d"
+      "providerUserMessageId": "01a0add3-5944-7f00-88c8-e0621a4c2b5d",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab79c5037087d1b51897c95413e791"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622776544-jqieexl",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1789622776537-xvacc47",
+      "timestamp": 1789622776537,
+      "rawDisplayText": "integral, the derivative would give rate of change of the water being added. 14",
+      "canonicalText": "integral, the derivative would give rate of change of the water being added. 14",
+      "images": [],
+      "contentDigest": "fa15271838ad359cf46cd14507eef3f1fad1fa208e655c3ac668add95d8df9b9",
+      "providerUserMessageId": "01a0add4-7313-7692-bccc-69881c8b9a78"
     }
   ]
 }

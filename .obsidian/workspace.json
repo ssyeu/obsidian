@@ -113,8 +113,7 @@
               "title": "Pomodoro stats"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,7 +271,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "fbb8a01d0b2b103d",
+  "active": "5e827f9a0fb486cc",
   "lastOpenFiles": [
     "AGENTS.md",
     "Learning/Dieter Rams.md",
