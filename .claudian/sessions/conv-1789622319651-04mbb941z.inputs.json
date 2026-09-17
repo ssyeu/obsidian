@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789622319651-04mbb941z",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622319686-y4rv9lh",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789622319637-ni8yxhw",
+      "timestamp": 1789622319637,
+      "rawDisplayText": "hi",
+      "canonicalText": "hi",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/Dieter Rams.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
+      "providerUserMessageId": "01a0adcd-819a-7ef2-a843-c54a46eef871",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab78331c5487d1ac12d1ef5b6a0eab"
+    }
+  ]
+}

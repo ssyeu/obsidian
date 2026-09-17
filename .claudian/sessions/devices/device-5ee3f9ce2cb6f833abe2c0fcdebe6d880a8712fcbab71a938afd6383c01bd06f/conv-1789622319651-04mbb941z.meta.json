@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789622319651-04mbb941z",
+  "providerId": "codex",
+  "title": "Say hello",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789622319670,
+  "lastActivityAt": 1789622323650,
+  "sessionId": "01a0adcd-7abf-7390-8335-aeb63f01e090",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0adcd-7abf-7390-8335-aeb63f01e090",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/mgs/.codex/sessions/2026/09/17/rollout-2026-09-17T00-18-39-01a0adcd-7abf-7390-8335-aeb63f01e090.jsonl",
+    "transcriptRootPath": "/Users/mgs/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/Dieter Rams.md",
+  "usage": {
+    "inputTokens": 14052,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 14052,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}
