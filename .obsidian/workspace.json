@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Quiz Log.md",
+                "file": "Media/Manga in Theory and Practice by Hirohiko Araki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Quiz Log"
+              "title": "Manga in Theory and Practice by Hirohiko Araki"
             }
           }
         ]
@@ -277,13 +277,13 @@
   },
   "active": "04c9901b5c6620e3",
   "lastOpenFiles": [
-    "AGENTS.md",
     "Learning/Dieter Rams.md",
+    "Daily Quiz Log.md",
+    "AGENTS.md",
     "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
     "README.md",
     "Tools",
-    "Daily Quiz Log.md",
     "Untitled.md",
     "Learning/About Hermes.md",
     "Learning/How Learning Works.md",
