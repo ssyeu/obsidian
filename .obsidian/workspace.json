@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Manga in Theory and Practice by Hirohiko Araki.md",
+                "file": "Learning/Dieter Rams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manga in Theory and Practice by Hirohiko Araki"
+              "title": "Dieter Rams"
             }
           }
         ]
@@ -275,8 +275,9 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e4369796318d0499",
+  "active": "04c9901b5c6620e3",
   "lastOpenFiles": [
+    "Media/Manga in Theory and Practice by Hirohiko Araki.md",
     "Learning/Dieter Rams.md",
     "Daily Quiz Log.md",
     "AGENTS.md",
@@ -288,7 +289,6 @@
     "Learning/About Hermes.md",
     "Learning/How Learning Works.md",
     "Learning/Calculus.md",
-    "Media/Manga in Theory and Practice by Hirohiko Araki.md",
     "Final Draft",
     "Final Version",
     "Learning/Creativity.md",
