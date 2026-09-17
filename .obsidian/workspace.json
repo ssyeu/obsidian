@@ -237,8 +237,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -251,19 +251,12 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789468457556-zw16nkn",
-                      "conversationId": "conv-1789468474446-d6mcszxyg"
-                    },
-                    {
-                      "tabId": "tab-1789524068699-wp8oru4",
-                      "conversationId": "conv-1789524074382-pw67rdo7c"
-                    },
-                    {
-                      "tabId": "tab-1789543327052-4ckl9zq",
-                      "conversationId": "conv-1789543331363-qyilmju0l"
+                      "tabId": "tab-1789622010638-l8xjj5x",
+                      "conversationId": null,
+                      "draftModel": "gpt-6-astra"
                     }
                   ],
-                  "activeTabId": "tab-1789543327052-4ckl9zq"
+                  "activeTabId": "tab-1789622010638-l8xjj5x"
                 }
               },
               "icon": "bot",
