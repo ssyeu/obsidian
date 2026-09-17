@@ -140,4 +140,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Calculus.md]]
 - Question: Water flows into an empty tank at 2 liters per minute for 3 minutes, then 4 liters per minute for 2 minutes. If you graph the flow rate against time, would a derivative or an integral give the total water added? Explain what that quantity represents on the graph and calculate the total.
 - Concept/task: Select the calculus operation for accumulation from a rate graph, connect it to graphical meaning, and calculate a simple piecewise-constant total; distinct from the prior limit task.
-- Outcome: Incomplete; independently selected the operation and calculated the total correctly, and distinguished the derivative’s role. Graphical interpretation not yet supplied; follow-up asks how the two time intervals could be shown as shapes on the graph. Retry pending.
+- Outcome: Completed with hints; independently selected the operation, calculated the total, and distinguished the derivative’s role. Supplied the graphical interpretation after two prompts; physical meaning was clear earlier.
+
+### 8 — Epistemology: what a skeptical scenario establishes
+
+- Source: [[Learning/Epistemology.md]]
+- Question: Someone hears the brain-in-a-vat argument and concludes, “Then we must actually be brains in vats.” Does that conclusion follow? Explain what role the imagined scenario plays in the skeptical argument.
+- Concept/task: Distinguish using an indistinguishable possibility to challenge certainty from asserting that possibility is actual; not the prior true-belief/justification task.
+- Outcome: Pending.
