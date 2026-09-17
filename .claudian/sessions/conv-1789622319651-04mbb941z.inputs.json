@@ -20,6 +20,33 @@
       "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
       "providerUserMessageId": "01a0adcd-819a-7ef2-a843-c54a46eef871",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab78331c5487d1ac12d1ef5b6a0eab"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622352780-zjna7mr",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789622352774-83euuof",
+      "timestamp": 1789622352774,
+      "rawDisplayText": "give me my daily quiz",
+      "canonicalText": "give me my daily quiz",
+      "images": [],
+      "contentDigest": "2711553583c5c7b9ba82f5d3b896c6d5fd375b29d0afb47c6fe1d19276508cc2",
+      "providerUserMessageId": "01a0adcd-fbbb-7871-91b3-19ab04badc88",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab7870fb0487d1b25dbb89cb539b9b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622397016-f3txar4",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789622397011-tz30fwk",
+      "timestamp": 1789622397011,
+      "rawDisplayText": "skip",
+      "canonicalText": "skip",
+      "images": [],
+      "contentDigest": "f3bf2bddbe85dc03c007260dfa3f6d7ded7c251e4206823c7d75390e08d501ab",
+      "providerUserMessageId": "01a0adce-a87f-78c2-820f-0b65ec56ab66"
     }
   ]
 }

@@ -86,3 +86,23 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Question: Araki emphasizes giving readers useful information immediately, while your aesthetics notes value simplicity with depth. How could you design a comic’s opening panel to satisfy both without making it feel overloaded?
 - Concept/task: Synthesize principles from two notes into a design approach balancing information and simplicity.
 - Outcome: Independent; general strategy accepted during the quiz. A concrete panel design was not supplied or probed, so detailed application remains untested.
+
+## 2026-09-17
+
+- Session: in progress; ten questions planned, asked one at a time.
+- History consulted: all available history, including 2026-09-16. No entries exist for 2026-09-10 through 2026-09-15; earlier performance cannot be assessed.
+- Selection: avoid the previous session's concepts/reasoning tasks; prioritize untested material with explanation and application, without assuming mastery.
+
+### 1 — Frieren: heroes and selective memory
+
+- Source: [[Media/Frieren.md]]
+- Question: In your Frieren notes, you describe how heroes' failures disappear from the stories told about them. Suppose a storyteller keeps a hero's achievements but removes every failure. How might that change what the audience thinks makes someone a hero, and why would keeping a failure matter?
+- Concept/task: Explain how selective retelling changes ideals of heroism; reason about the significance of preserving imperfection, rather than character buildup or emotional payoff.
+- Outcome: Skipped at the user’s request; understanding not assessed.
+
+### 2 — CS50: stack behavior
+
+- Source: [[Learning/CS50.md]]
+- Question: An app stores each new action on a stack for its Undo feature. You type a title, insert a picture, then change the background color. If you press Undo twice, which actions should be undone, in what order, and why is a stack a good fit for this feature?
+- Concept/task: Apply last-in-first-out behavior to an action sequence and explain the match between a data structure and an interface feature.
+- Outcome: Pending.
