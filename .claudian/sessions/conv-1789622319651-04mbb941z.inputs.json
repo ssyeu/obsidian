@@ -76,6 +76,20 @@
       "contentDigest": "c33984d55dae09a6405dae4aecf5c15cf65bbb6750d383415a5ebdcd67df8b80",
       "providerUserMessageId": "01a0add0-5e98-7321-ac9e-8814584eec51",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab78f8464c87d185a7db052d04de26"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622551630-13zxsce",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789622551624-4kpzgda",
+      "timestamp": 1789622551624,
+      "rawDisplayText": "2 gears would have far too many teeth to fit to reach a desired rotation to fit in a watch",
+      "canonicalText": "2 gears would have far too many teeth to fit to reach a desired rotation to fit in a watch",
+      "images": [],
+      "contentDigest": "0893996f65d87d000e4a2fd294cea7b75cecc6a125f474a485c4b17c6d5051a7",
+      "providerUserMessageId": "01a0add1-047b-7bd3-9072-28026fb28b54",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab7920f4f487d185536de148c215ed"
     }
   ]
 }

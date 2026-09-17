@@ -119,4 +119,4 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/How watches work.md]]
 - Question: A watch designer proposes using just two gears to achieve a very large change in rotation speed. Based on your notes, why might that be impractical inside a wristwatch, and how would using several gears help?
 - Concept/task: Explain the physical packaging trade-off between a single large gear ratio and distributing the change across multiple gear stages.
-- Outcome: Pending.
+- Outcome: Incomplete; identified the size/fit problem, but has not yet explained how several gears help. Hint given to consider the change in rotation speed at each step; retry pending.
