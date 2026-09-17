@@ -112,4 +112,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Self Improvement and Toxicity.md]]
 - Question: A student says, “I believe I can improve, so whenever I miss my study target, it proves I’m not good enough as a person.” How would you challenge their conclusion without discouraging their desire to improve?
 - Concept/task: Distinguish belief in improvement from performance-contingent self-worth; apply that distinction to reframe a response to a missed goal.
+- Outcome: Independent; separated self-worth from performance and proposed achievable goals and constructive reflection without abandoning improvement.
+
+### 4 — Watches: distributing a gear ratio
+
+- Source: [[Learning/How watches work.md]]
+- Question: A watch designer proposes using just two gears to achieve a very large change in rotation speed. Based on your notes, why might that be impractical inside a wristwatch, and how would using several gears help?
+- Concept/task: Explain the physical packaging trade-off between a single large gear ratio and distributing the change across multiple gear stages.
 - Outcome: Pending.

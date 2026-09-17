@@ -62,6 +62,20 @@
       "contentDigest": "7041415fb12c381c7f5da9ed4eb62f162510cfc1f54d6c241025af6d2d9a4c70",
       "providerUserMessageId": "01a0adcf-5925-7a83-b2f4-93354923126a",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab78b6cf0c87d1bfdefb4dee624400"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622509155-2uk7clb",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789622509150-d6qixk9",
+      "timestamp": 1789622509150,
+      "rawDisplayText": "i would tell them not to tie their self worth to their performance but try to give them achievable goals and tell them to work on something and see where they went wrong if they didnt do well",
+      "canonicalText": "i would tell them not to tie their self worth to their performance but try to give them achievable goals and tell them to work on something and see where they went wrong if they didnt do well",
+      "images": [],
+      "contentDigest": "c33984d55dae09a6405dae4aecf5c15cf65bbb6750d383415a5ebdcd67df8b80",
+      "providerUserMessageId": "01a0add0-5e98-7321-ac9e-8814584eec51",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab78f8464c87d185a7db052d04de26"
     }
   ]
 }
