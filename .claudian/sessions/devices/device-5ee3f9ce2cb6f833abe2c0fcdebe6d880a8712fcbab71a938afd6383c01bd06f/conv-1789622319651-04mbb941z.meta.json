@@ -4,7 +4,7 @@
   "title": "Say hello",
   "titleGenerationStatus": "success",
   "createdAt": 1789622319670,
-  "lastActivityAt": 1789622397011,
+  "lastActivityAt": 1789622456870,
   "sessionId": "01a0adcd-7abf-7390-8335-aeb63f01e090",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "Learning/Dieter Rams.md",
   "usage": {
-    "inputTokens": 21208,
+    "inputTokens": 21998,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 20480,
+    "cacheReadInputTokens": 21504,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 21208,
-    "percentage": 8,
+    "contextTokens": 21998,
+    "percentage": 9,
     "model": "gpt-6-astra"
   }
 }

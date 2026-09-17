@@ -105,4 +105,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/CS50.md]]
 - Question: An app stores each new action on a stack for its Undo feature. You type a title, insert a picture, then change the background color. If you press Undo twice, which actions should be undone, in what order, and why is a stack a good fit for this feature?
 - Concept/task: Apply last-in-first-out behavior to an action sequence and explain the match between a data structure and an interface feature.
+- Outcome: Independent; correctly traced both undo operations and explained why the most recent action should be removed first.
+
+### 3 — Self-improvement: motivation and self-worth
+
+- Source: [[Learning/Self Improvement and Toxicity.md]]
+- Question: A student says, “I believe I can improve, so whenever I miss my study target, it proves I’m not good enough as a person.” How would you challenge their conclusion without discouraging their desire to improve?
+- Concept/task: Distinguish belief in improvement from performance-contingent self-worth; apply that distinction to reframe a response to a missed goal.
 - Outcome: Pending.

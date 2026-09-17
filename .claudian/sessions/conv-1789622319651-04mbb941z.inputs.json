@@ -46,7 +46,22 @@
       "canonicalText": "skip",
       "images": [],
       "contentDigest": "f3bf2bddbe85dc03c007260dfa3f6d7ded7c251e4206823c7d75390e08d501ab",
-      "providerUserMessageId": "01a0adce-a87f-78c2-820f-0b65ec56ab66"
+      "providerUserMessageId": "01a0adce-a87f-78c2-820f-0b65ec56ab66",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab788c041887d1b0d1ade0a5e71549"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622442232-uxjfvmc",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789622442227-6zwcoxi",
+      "timestamp": 1789622442227,
+      "rawDisplayText": "the background color, and picture, you want to undo what was most recently added to the stack",
+      "canonicalText": "the background color, and picture, you want to undo what was most recently added to the stack",
+      "images": [],
+      "contentDigest": "7041415fb12c381c7f5da9ed4eb62f162510cfc1f54d6c241025af6d2d9a4c70",
+      "providerUserMessageId": "01a0adcf-5925-7a83-b2f4-93354923126a",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab78b6cf0c87d1bfdefb4dee624400"
     }
   ]
 }
