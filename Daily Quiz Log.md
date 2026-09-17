@@ -147,4 +147,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Epistemology.md]]
 - Question: Someone hears the brain-in-a-vat argument and concludes, “Then we must actually be brains in vats.” Does that conclusion follow? Explain what role the imagined scenario plays in the skeptical argument.
 - Concept/task: Distinguish using an indistinguishable possibility to challenge certainty from asserting that possibility is actual; not the prior true-belief/justification task.
+- Outcome: Independent; clearly distinguished the skeptical challenge from asserting the imagined scenario is actual, using the inability to distinguish the experiences.
+
+### 9 — Population: causal direction
+
+- Source: [[Learning/Population numbers going down is bad.md]]
+- Question: An article observes that birth rates are falling while individualism is rising, then claims that having fewer children makes society more individualistic. Based on the objection in your notes, what alternative explanation should be considered, and why doesn’t observing both trends establish the article’s claim?
+- Concept/task: Question a proposed causal direction, articulate an alternative, and distinguish co-occurring trends from evidence of causation; distinct from age composition and support needs.
 - Outcome: Pending.
