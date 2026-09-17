@@ -90,6 +90,20 @@
       "contentDigest": "0893996f65d87d000e4a2fd294cea7b75cecc6a125f474a485c4b17c6d5051a7",
       "providerUserMessageId": "01a0add1-047b-7bd3-9072-28026fb28b54",
       "providerAssistantMessageId": "msg_0c85edc596e89261016aab7920f4f487d185536de148c215ed"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789622604122-l72enx3",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1789622604116-ztrzz6b",
+      "timestamp": 1789622604116,
+      "rawDisplayText": "smaller gears would change the rotation speed while taking far less space",
+      "canonicalText": "smaller gears would change the rotation speed while taking far less space",
+      "images": [],
+      "contentDigest": "c16c242d8cbccd7dcd3047d8cfae46fb012f5b88370f8555b564303acd54c619",
+      "providerUserMessageId": "01a0add1-d186-7d82-a754-a117529cf29e",
+      "providerAssistantMessageId": "msg_0c85edc596e89261016aab795a859087d1b124d16d60b804e3"
     }
   ]
 }

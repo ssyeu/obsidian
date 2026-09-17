@@ -119,4 +119,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/How watches work.md]]
 - Question: A watch designer proposes using just two gears to achieve a very large change in rotation speed. Based on your notes, why might that be impractical inside a wristwatch, and how would using several gears help?
 - Concept/task: Explain the physical packaging trade-off between a single large gear ratio and distributing the change across multiple gear stages.
-- Outcome: Incomplete; identified the size/fit problem, but has not yet explained how several gears help. Hint given to consider the change in rotation speed at each step; retry pending.
+- Outcome: Completed with hints; identified the fit problem and, after a prompt about intermediate speed changes, explained that smaller gears change rotation speed while using less space. Detailed explanation of how successive ratios combine was not demonstrated.
+
+### 5 — Population: total size versus age composition
+
+- Source: [[Learning/Population numbers going down is bad.md]]
+- Question: Someone argues, “A smaller population needs fewer resources, so population decline should automatically make life easier.” Based on your notes, what important feature of the population does that argument overlook, and how could it create pressure despite there being fewer people overall?
+- Concept/task: Evaluate an argument based on total population by explaining how population composition can affect support needs and capacity.
+- Outcome: Pending.
