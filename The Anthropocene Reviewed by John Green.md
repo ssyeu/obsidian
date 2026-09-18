@@ -1,2 +1,2 @@
 You'll Never Walk Alone:
-YThis chapter was written during covid I think, John talks about something going horribly wr
+YThis chapter was written during covid I think, John talks about something going horribly wrong and the end of the chapter mentioned paramedics in 2020 but it could be unrelated. It talks about a song from a play called you'll never walk alone and how it doesn't mean that you won't have sorrows but you'll walk through them. He says a core part of humanity is that they keep walking 
