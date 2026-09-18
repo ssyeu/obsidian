@@ -13,3 +13,5 @@ This chapter was heavily looking at the Great Gatsby. I like that book and I thi
 Lascaux Cave Paintings:
 I watched a youtube adaptation of this chapter, I'm excited it's a good one. I love this chapter, as I did the video of it I watched, I feel like it is a beautiful story. Of 4 teenagers finding this cave of prehistoric paintings and feeling the need to protect it during a time as dangerous as the Nazi occupation of France. Of hand stencils transcending time itself, something that hasn't changed in 17 thousand years. That we chose to close it up, to never see it to protect it from the damage we cause. It's sad and beautiful that everything that comes into contact with us starts to fall apart, but we chose to save this one from humanity, it was worthy of that. The way the paintings say "I was here, you are not new". I think its powerful. Ancient humans went through so much strife and struggle, every day every working body had to work for food, but they still made time to make art, like it was part of the human condition. What excuse do we have not to create.
 
+Scratch 'N' Sniff Stickers:
+
