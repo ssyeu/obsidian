@@ -1,0 +1,18 @@
+{
+  "id": "conv-1789711576362-9fzzhic36",
+  "providerId": "codex",
+  "title": "Check all notes for factual inaccuracies",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789711576375,
+  "lastActivityAt": 1789711576375,
+  "sessionId": "01a0b31f-7120-7c43-b035-fc4534ddb7ae",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0b31f-7120-7c43-b035-fc4534ddb7ae",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/18/rollout-2026-09-18T01-06-17-01a0b31f-7120-7c43-b035-fc4534ddb7ae.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "The Anthropocene Reviewed by John Green.md"
+}

@@ -261,8 +261,7 @@
                     },
                     {
                       "tabId": "tab-1789691484421-dzr6tdu",
-                      "conversationId": null,
-                      "draftModel": "gpt-6-astra"
+                      "conversationId": "conv-1789711576362-9fzzhic36"
                     }
                   ],
                   "activeTabId": "tab-1789691484421-dzr6tdu"
@@ -300,7 +299,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "6442896d7bcdee40",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Learning/Dieter Rams.md",
     "The Anthropocene Reviewed by John Green.md",

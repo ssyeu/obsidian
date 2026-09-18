@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789711576362-9fzzhic36",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789711576401-kvspb7k",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789711576353-vvofbyq",
+      "timestamp": 1789711576353,
+      "rawDisplayText": "can you go through all my notes and see if i have any factual inaccuracies",
+      "canonicalText": "can you go through all my notes and see if i have any factual inaccuracies",
+      "context": {
+        "linkedContent": {
+          "path": "The Anthropocene Reviewed by John Green.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "d12b6dfa5a3cc4791f71f5a6cdee43ffd6ac27752d018def163edf9fd114fe25",
+      "providerUserMessageId": "01a0b31f-7632-7343-a8ad-587b7c447ddf"
+    }
+  ]
+}
