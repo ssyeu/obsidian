@@ -259,11 +259,12 @@
                       "conversationId": "conv-1789524074382-pw67rdo7c"
                     },
                     {
-                      "tabId": "tab-1789543327052-4ckl9zq",
-                      "conversationId": "conv-1789543331363-qyilmju0l"
+                      "tabId": "tab-1789691484421-dzr6tdu",
+                      "conversationId": null,
+                      "draftModel": "gpt-6-astra"
                     }
                   ],
-                  "activeTabId": "tab-1789543327052-4ckl9zq"
+                  "activeTabId": "tab-1789691484421-dzr6tdu"
                 }
               },
               "icon": "bot",
@@ -298,7 +299,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "f1d8924ee2e5ed51",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Learning/Dieter Rams.md",
     "The Anthropocene Reviewed by John Green.md",
