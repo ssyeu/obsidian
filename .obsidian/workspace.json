@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/The Anthropocene Reviewed by John Green.md",
+                "file": "Learning/How Learning Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Anthropocene Reviewed by John Green"
+              "title": "How Learning Works"
             }
           }
         ],
@@ -299,10 +299,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e4369796318d0499",
+  "active": "f1d8924ee2e5ed51",
   "lastOpenFiles": [
-    "Learning/Dieter Rams.md",
     "Media/The Anthropocene Reviewed by John Green.md",
+    "Learning/Dieter Rams.md",
     "Learning/Bayes Theorem.md",
     "README.md",
     "Tools",
