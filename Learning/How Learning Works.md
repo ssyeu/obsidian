@@ -40,7 +40,7 @@ The study was trying to see if high or low curiosity affected learning. It did r
 https://www.aft.org/ae/spring2006/willingham
 the more you know, the easier it will be for you to learn new things. Authors might expect the reader to have a level of background knowledge that will make it easier for more educated readers.
 
-Knowing things helps you solve problems better by freeing up space in working memory. It's only really useful for problems in the area of study that you have studied. T
+Knowing things helps you solve problems better by freeing up space in working memory. It's only really useful for problems in the area of study that you have studied. Your working memory would be freed up and you can see things for what they are without having to spend time on simple things that you already know.
 
 
 https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf
