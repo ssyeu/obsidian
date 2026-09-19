@@ -38,7 +38,7 @@ The study was trying to see if high or low curiosity affected learning. It did r
 
 
 https://www.aft.org/ae/spring2006/willingham
-the more you know, the easier it will be for you to learn new things.
+the more you know, the easier it will be for you to learn new things. Authors might expect the reader to have a level of background knowledge that will make it easier for more educated readers.
 
 
 https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf
