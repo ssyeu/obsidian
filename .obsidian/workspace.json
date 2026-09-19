@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3205da4793e1f020",
+        "id": "3c43350200ac43bc",
         "type": "tabs",
         "children": [
           {
-            "id": "04c9901b5c6620e3",
+            "id": "a6761b77a0a16075",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -252,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 419,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,8 +276,9 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "d67ff53992dccb03",
+  "active": "a6761b77a0a16075",
   "lastOpenFiles": [
+    "Learning/How Learning Works.md",
     "Media/The Anthropocene Reviewed by John Green.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
     "Media/Manga in Theory and Practice by Hirohiko Araki.md",
@@ -290,7 +292,6 @@
     "Tools",
     "Untitled.md",
     "Learning/About Hermes.md",
-    "Learning/How Learning Works.md",
     "Learning/Calculus.md",
     "Final Draft",
     "Final Version",
