@@ -236,11 +236,12 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789622010638-l8xjj5x",
-                      "conversationId": "conv-1789622319651-04mbb941z"
+                      "tabId": "tab-1789847185156-vpo1t01",
+                      "conversationId": null,
+                      "draftModel": "gpt-6-astra"
                     }
                   ],
-                  "activeTabId": "tab-1789622010638-l8xjj5x"
+                  "activeTabId": "tab-1789847185156-vpo1t01"
                 }
               },
               "icon": "bot",
@@ -252,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419,
-    "collapsed": true
+    "width": 419
   },
   "left-ribbon": {
     "hiddenItems": {
