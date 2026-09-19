@@ -41,6 +41,9 @@ https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_Int
 
 
 more reading:
+https://www.aft.org/ae/spring2006/willingham
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4635443/
+
 https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01134/full
