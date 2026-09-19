@@ -237,8 +237,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1789847185156-vpo1t01",
-                      "conversationId": null,
-                      "draftModel": "gpt-6-astra"
+                      "conversationId": "conv-1789847249617-fjhu3uwr1"
                     }
                   ],
                   "activeTabId": "tab-1789847185156-vpo1t01"
@@ -276,7 +275,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "04c9901b5c6620e3",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Media/The Anthropocene Reviewed by John Green.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",

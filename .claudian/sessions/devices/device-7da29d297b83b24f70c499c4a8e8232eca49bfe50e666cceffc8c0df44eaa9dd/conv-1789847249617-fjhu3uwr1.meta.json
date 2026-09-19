@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789847249617-fjhu3uwr1",
+  "providerId": "codex",
+  "title": "Find sources on the benefits of broad learning",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789847249629,
+  "lastActivityAt": 1789847276638,
+  "sessionId": "01a0bb35-a3ff-7102-9386-aa9b5872a5f5",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0bb35-a3ff-7102-9386-aa9b5872a5f5",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/19/rollout-2026-09-19T14-47-29-01a0bb35-a3ff-7102-9386-aa9b5872a5f5.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/How Learning Works.md",
+  "usage": {
+    "inputTokens": 23699,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19584,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 23699,
+    "percentage": 9,
+    "model": "gpt-6-astra"
+  }
+}

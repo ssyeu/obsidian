@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789847249617-fjhu3uwr1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789847249652-pdaxbjx",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789847249608-asu5az6",
+      "timestamp": 1789847249608,
+      "rawDisplayText": "can you give me some sources to why learning is good, and why being more educated about random things is good for you",
+      "canonicalText": "can you give me some sources to why learning is good, and why being more educated about random things is good for you",
+      "context": {
+        "linkedContent": {
+          "path": "Learning/How Learning Works.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "148b59dd6c3c0acf855f192763885a30bc874f0dfaaf715a6dbdd1af465e4940",
+      "providerUserMessageId": "01a0bb35-ac72-7f93-a334-f2978396b376",
+      "providerAssistantMessageId": "msg_043988146438ff5d016aaee6e4259087d2bb717accbfde4fc0"
+    }
+  ]
+}
