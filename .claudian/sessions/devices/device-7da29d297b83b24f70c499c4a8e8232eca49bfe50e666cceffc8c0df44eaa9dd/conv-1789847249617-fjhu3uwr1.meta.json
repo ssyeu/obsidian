@@ -4,7 +4,7 @@
   "title": "Find sources on the benefits of broad learning",
   "titleGenerationStatus": "success",
   "createdAt": 1789847249629,
-  "lastActivityAt": 1789847276638,
+  "lastActivityAt": 1789850173663,
   "sessionId": "01a0bb35-a3ff-7102-9386-aa9b5872a5f5",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "Learning/How Learning Works.md",
   "usage": {
-    "inputTokens": 23699,
+    "inputTokens": 28866,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 19584,
+    "cacheReadInputTokens": 24576,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 23699,
-    "percentage": 9,
+    "contextTokens": 28866,
+    "percentage": 11,
     "model": "gpt-6-astra"
   }
 }
