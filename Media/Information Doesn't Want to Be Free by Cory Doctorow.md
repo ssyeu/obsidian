@@ -9,4 +9,6 @@ The one thing that this might benefit to artists though is that their work isn't
 
 Books are probably the easiest thing to steal, anybody with a keyboard and a book can type out its entire contents and release it for free, and thats the hardest way to do so. You can screenshot each page and just have a software turn it to text. But there are analogs to every piece of media, every lock will be broken. The people breaking these locks won't just sit there and guess every number which is the advertised safety that the lock companies share. Obviously they would go for the weakest part of the system and find the key there. When media is played on your screen the key has to be used and the unencrypted media has to be played. So there will always be a point in that chain where you can obtain those two things.
 
-General purpose computer blah blah,  I think this chapter was kinda meaningless. He just talked about how computers are built to do anything and how media companies would like computers that can do anything but steal the files they dont
+General purpose computer blah blah,  I think this chapter was kinda meaningless. He just talked about how computers are built to do anything and how media companies would like computers that can do anything but steal the files they don't want to steal. I guess it's necessary information for the next chapter.
+
+For the digital locks to work, it has to conceal itself from the computer and hide itself from the user while still being vigilant and strong. This is very similar to spyware, 
