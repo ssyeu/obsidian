@@ -2,4 +2,4 @@ The book is about how digital locks are bad for artists and support the middle m
 
 DVDs have regional codes which I didn't know. That is very interesting. There's no law saying you can't skip anti-piracy warnings but the people providing the DVDs can say you can't descramble this DVD unless you listen to my demands.
 
-Audiences can't easily follow from one platform to another. That dif
+Audiences can't easily follow from one platform to another. That difficulty I think is where the power lies. People can't easily bring their movies from Apple to Amazon and if someone accumulates a library in one, they won't swap to another. Small leads in their business could lead to control of a lot of me
