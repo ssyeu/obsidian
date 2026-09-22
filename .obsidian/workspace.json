@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/A Lunch in Paris by Elizabeth Band.md",
+                "file": "Learning/Self Improvement and Toxicity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Lunch in Paris by Elizabeth Band"
+              "title": "Self Improvement and Toxicity"
             }
           }
         ]
@@ -103,8 +103,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
@@ -113,8 +113,8 @@
             "state": {
               "type": "tasknotes-pomodoro-stats-view",
               "state": {},
-              "icon": "bar-chart",
-              "title": "Pomodoro stats"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
             }
           }
         ]
@@ -278,6 +278,8 @@
   },
   "active": "04c9901b5c6620e3",
   "lastOpenFiles": [
+    "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
+    "Media/A Lunch in Paris by Elizabeth Band.md",
     "Learning/Dieter Rams.md",
     "Media/The Anthropocene Reviewed by John Green.md",
     "The Anthropocene Reviewed by John Green.md",
@@ -309,8 +311,6 @@
     "Learning/cs50 - 1.md",
     "Learning/cs50 - 0.md",
     "Learning/cs50 - 6.md",
-    "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
-    "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/Frieren.md",
     "Learning/Population numbers going down is bad.md",
     "Learning/How watches work.md",
