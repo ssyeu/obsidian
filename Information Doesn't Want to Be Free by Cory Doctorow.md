@@ -3,3 +3,5 @@ The book is about how digital locks are bad for artists and support the middle m
 DVDs have regional codes which I didn't know. That is very interesting. There's no law saying you can't skip anti-piracy warnings but the people providing the DVDs can say you can't descramble this DVD unless you listen to my demands.
 
 Audiences can't easily follow from one platform to another. That difficulty I think is where the power lies. People can't easily bring their movies from Apple to Amazon and if someone accumulates a library in one, they won't swap to another. Small leads in their business could lead to control of a lot of media, and artist's cant easily swap because the audience can't easily follow. They have their ecosystem and won't swap to a different one. If Walmart said you could only read their books on their chair under their lamp, you wouldn't be able to swap over to another ecosystem without paying for everything new and wasting everything you had. How does that benefit artists? That gives all the power to the people giving the locks. 
+
+The one thing that this d
