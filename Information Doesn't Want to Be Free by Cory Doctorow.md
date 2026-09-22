@@ -1,0 +1,1 @@
+The book is about how digital locks are bad for artists and support the middle men who spread the ingo. At first it seems like digitcal locks are good for artists since they decide how to monetize it and they can in new ways. 
