@@ -11,4 +11,4 @@ Books are probably the easiest thing to steal, anybody with a keyboard and a boo
 
 General purpose computer blah blah,  I think this chapter was kinda meaningless. He just talked about how computers are built to do anything and how media companies would like computers that can do anything but steal the files they don't want to steal. I guess it's necessary information for the next chapter.
 
-For the digital locks to work, it has to conceal itself from the computer and hide itself from the user while still being vigilant and strong. This is very similar to spyware, 
+For the digital locks to work, it has to conceal itself from the computer and hide itself from the user while still being vigilant and strong. This is very similar to spyware, information being held from your computer and manipulating its tasks. Sony had a rootkit that hid any files with $sys$ in it. (there are $ signs next to sys) This was so that it could stop pir
