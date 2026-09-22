@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
+                "file": "Learning/Aesthetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information Doesn't Want to Be Free by Cory Doctorow"
+              "title": "Aesthetics"
             }
           }
         ]
@@ -278,13 +278,14 @@
   },
   "active": "e99bd193efb0c922",
   "lastOpenFiles": [
-    "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
+    "Learning/Dieter Rams.md",
+    "Learning/CS50.md",
     "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
+    "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
     "Learning/How Learning Works.md",
     "Learning/Epistemology.md",
     "Learning/Self Improvement and Toxicity.md",
     "Media/A Lunch in Paris by Elizabeth Band.md",
-    "Learning/Dieter Rams.md",
     "Media/The Anthropocene Reviewed by John Green.md",
     "The Anthropocene Reviewed by John Green.md",
     "Media/Manga in Theory and Practice by Hirohiko Araki.md",
@@ -307,7 +308,6 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
-    "Learning/CS50.md",
     "Learning/cs50 - 5.md",
     "Learning/cs50 - 1.md",
     "Learning/cs50 - 0.md",
