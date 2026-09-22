@@ -1,3 +1,5 @@
-The book is about how digital locks are bad for artists and support the middle men who spread the ingo. At first it seems like digitcal locks are good for artists since they decide how to monetize it and they can in new ways. But it consolidates power into the distributers.
+The book is about how digital locks are bad for artists and support the middle men who spread the info. At first it seems like digital locks are good for artists since they decide how to monetize it and they can in new ways. But it consolidates power into the distributers.
 
-DVDs have regional codes which I didn't know. That is very interesting. There's no law saying you can't skip antipiracy warnings but the people providing th 
+DVDs have regional codes which I didn't know. That is very interesting. There's no law saying you can't skip anti-piracy warnings but the people providing the DVDs can say you can't descramble this DVD unless you listen to my demands.
+
+Audiences can't easily follow from one platform to another. That dif
