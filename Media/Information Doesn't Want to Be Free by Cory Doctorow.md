@@ -1,3 +1,4 @@
+[[media]]
 The book is about how digital locks are bad for artists and support the middle men who spread the info. At first it seems like digital locks are good for artists since they decide how to monetize it and they can in new ways. But it consolidates power into the distributers.
 
 DVDs have regional codes which I didn't know. That is very interesting. There's no law saying you can't skip anti-piracy warnings but the people providing the DVDs can say you can't descramble this DVD unless you listen to my demands.
@@ -6,4 +7,4 @@ Audiences can't easily follow from one platform to another. That difficulty I th
 
 The one thing that this might benefit to artists though is that their work isn't stolen. At least the digital locks stop their work from being copied and shared for free, but as we can obviously tell this doesn't work. You can find any piece of media on the planet for entirely free. And once these copies are out there, they are out there forever, theres no coming back. Digital locks always brake but the importance they provide is friction. Unless you are the most honest user in the planet, you would simply take the free option to watch a movie. But that friction of having to go online and find a reputable site and deal with ads and maybe have a chance of installing a virus and needing to be tech savvy enough for it to work deters a lot of people.
 
-Books are probably the easiest thing
+Books are probably the easiest thing to steal, anybody with a keyboard and a book can type out its entire contents and release it for free, and thats the hardest way to do so. 
