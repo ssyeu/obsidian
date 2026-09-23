@@ -1,1 +1,2 @@
 https://www.youtube.com/watch?v=fXW-QjBsruE
+ontology is the philosophy of existence, ordinary objects are plain things that we interact with every day. The more we try to specify what and where they are, th
