@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The King in Yellow by Robert W. Chambers.md",
+                "file": "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The King in Yellow by Robert W. Chambers"
+              "title": "Information Doesn't Want to Be Free by Cory Doctorow"
             }
           }
         ],
@@ -307,8 +307,8 @@
   },
   "active": "0d717d90a5eba3a0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "The King in Yellow by Robert W. Chambers.md",
+    "conflict-files-obsidian-git.md",
     "AGENTS.md",
     "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
     "Media/The Anthropocene Reviewed by John Green.md",
