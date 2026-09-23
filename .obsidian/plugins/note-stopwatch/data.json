@@ -1,23 +1,23 @@
 {
   "version": 2,
-  "sessionMs": 2559000,
+  "sessionMs": 2621000,
   "sessionNotes": {
-    "Ontology.md": 2559000
+    "Ontology.md": 2621000
   },
   "allNotes": {
     "Learning/Aesthetics.md": 1767,
     "Learning/Calculus.md": 25096,
     "Learning/Creativity.md": 2553,
-    "Ontology.md": 2559000
+    "Ontology.md": 2621000
   },
   "calendar": {
     "dayKey": "2026-09-23",
     "dayNotes": {
-      "Ontology.md": 2559000
+      "Ontology.md": 2621000
     },
     "weekKey": "2026-09-21",
     "weekNotes": {
-      "Ontology.md": 2559000
+      "Ontology.md": 2621000
     }
   }
 }
