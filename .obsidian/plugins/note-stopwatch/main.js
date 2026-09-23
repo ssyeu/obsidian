@@ -304,10 +304,6 @@ class StopwatchView extends ItemView {
     this.contentEl.empty();
     this.contentEl.addClass("note-stopwatch");
     this.rows.clear();
-    const top = this.contentEl.createDiv({ cls: "ns-heading" });
-    top.createSpan({ text: "STOPWATCH" });
-    this.stateEl = top.createSpan({ cls: "ns-state" });
-
     const dial = this.contentEl.createDiv({ cls: "ns-dial" });
     dial.createDiv({ text: "THIS SESSION", cls: "ns-eyebrow" });
     this.timeEl = dial.createDiv({ text: "00:00:00", cls: "ns-time" });
@@ -358,8 +354,6 @@ class StopwatchView extends ItemView {
     setTextIfChanged(this.timeEl, formatTime(clock.sessionMs));
     const path = clock.activePath;
     if (force) {
-      setTextIfChanged(this.stateEl, clock.running ? "Running" : clock.sessionMs > 0 ? "Stopped" : "Ready");
-      this.contentEl.classList.toggle("is-running", clock.running);
       this.stopButton.disabled = !clock.running;
       this.resumeButton.disabled = clock.running;
       this.resetButton.disabled = clock.sessionMs === 0 && !clock.running;

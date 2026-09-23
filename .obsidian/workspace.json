@@ -96,19 +96,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "06b7fb9740d00129",
-            "type": "leaf",
-            "state": {
-              "type": "note-stopwatch-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Stopwatch"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,7 +258,7 @@
       "note-stopwatch:Open stopwatch": false
     }
   },
-  "active": "06b7fb9740d00129",
+  "active": "5e827f9a0fb486cc",
   "lastOpenFiles": [
     "Learning/Calculus.md",
     "Learning/Creativity.md",
