@@ -66,12 +66,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/python.md",
+                "file": "Notes/past the thing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python"
+              "title": "past the thing"
             }
           }
         ],
@@ -307,7 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,9 +333,11 @@
   },
   "active": "138fe1fbe40ea876",
   "lastOpenFiles": [
+    "Notes/learning.md",
+    "Notes/past the thing.md",
+    "Notes/python.md",
     "Notes/python_2.md",
     "Notes/python_1.md",
-    "Notes/python.md",
     "Untitled.md",
     "Notes",
     "Learning/Epistemology.md",
@@ -359,8 +361,6 @@
     "Learning/Bayes Theorem.md",
     "Media/README.md",
     "Tools",
-    "Learning/About Hermes.md",
-    "Learning/Calculus.md",
     "Final Draft",
     "Final Version",
     "TaskNotes/Views/pomodoro-stats.base",
