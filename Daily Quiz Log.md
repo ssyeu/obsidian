@@ -162,3 +162,16 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Question: Your wrist moves back and forth, but an automatic watch needs to use that motion to wind its mainspring. What must the mechanism do with those alternating movements, and why wouldn’t simply passing both directions straight through work?
 - Concept/task: Explain the functional need to convert alternating input motion into useful winding motion; distinct from gear-ratio packaging.
 - Outcome: Independent; explained the required direction conversion and why directly transmitting alternating motion would not provide consistent winding.
+
+## 2026-09-23
+
+- Session: in progress; ten questions planned, asked one at a time.
+- History consulted: all available history (2026-09-16 and 2026-09-17), including prior performance observations. No entries exist for 2026-09-18 through 2026-09-22; no missing sessions inferred.
+- Selection: prioritize untested concepts across Learning and Media, beginning with the linked political science note. Use application and explanation for new material without presuming mastery; avoid substantially equivalent recent tasks.
+
+### 1 — Political science: economic change and political concessions
+
+- Source: [[Learning/Political Science.md]]
+- Question: A country becomes wealthier, but political power stays with hereditary elites. Based on your political science notes, why wouldn’t economic growth alone guarantee democratization, and what could make those elites willing to share power?
+- Concept/task: Distinguish economic change from political decision-making; explain incentives for political concessions in a hypothetical situation.
+- Outcome: Pending.
