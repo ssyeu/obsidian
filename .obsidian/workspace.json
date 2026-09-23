@@ -33,6 +33,7 @@
       {
         "id": "1e9066e18acc4251",
         "type": "tabs",
+        "dimension": 51.41129032258065,
         "children": [
           {
             "id": "e4369796318d0499",
@@ -84,6 +85,7 @@
       {
         "id": "d99deb74c062cda7",
         "type": "tabs",
+        "dimension": 48.58870967741936,
         "children": [
           {
             "id": "5e827f9a0fb486cc",
@@ -94,8 +96,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "b8978bf25cc936a3",
+            "type": "leaf",
+            "state": {
+              "type": "note-stopwatch-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Stopwatch"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,7 +269,7 @@
       "note-stopwatch:Open stopwatch": false
     }
   },
-  "active": "5e827f9a0fb486cc",
+  "active": "b8978bf25cc936a3",
   "lastOpenFiles": [
     "Learning/Calculus.md",
     "Learning/Aesthetics.md",

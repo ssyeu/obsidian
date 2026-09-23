@@ -23,19 +23,17 @@
 }
 .note-stopwatch.is-running .ns-state { color: var(--text-accent); }
 .note-stopwatch .ns-dial {
-  border: 2px solid var(--background-modifier-border);
-  border-radius: 50%;
-  width: min(100%, 210px);
-  aspect-ratio: 1;
+  border: none;
+  border-radius: 0;
+  width: 100%;
+  aspect-ratio: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 20px auto 18px;
-  gap: 10px;
-  transition: border-color .2s;
+  margin: 12px 0;
+  gap: 4px;
 }
-.note-stopwatch.is-running .ns-dial { border-color: var(--ns-accent); }
 .note-stopwatch .ns-eyebrow {
   font-size: 9px;
   font-weight: 600;
