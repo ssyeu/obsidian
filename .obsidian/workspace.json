@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e76bfa435b2a8f6",
+        "id": "3205da4793e1f020",
         "type": "tabs",
         "children": [
           {
-            "id": "785e48db003d14bb",
+            "id": "e99bd193efb0c922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Epistemology.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Epistemology"
             }
           }
         ]
@@ -232,11 +236,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789847185156-vpo1t01",
-                      "conversationId": "conv-1789847249617-fjhu3uwr1"
+                      "tabId": "tab-1789622010638-l8xjj5x",
+                      "conversationId": "conv-1789622319651-04mbb941z"
                     }
                   ],
-                  "activeTabId": "tab-1789847185156-vpo1t01"
+                  "activeTabId": "tab-1789622010638-l8xjj5x"
                 }
               },
               "icon": "bot",
@@ -272,32 +276,33 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "785e48db003d14bb",
+  "active": "e99bd193efb0c922",
   "lastOpenFiles": [
-    "Learning/Political Science.md",
     "Media/The King in Yellow by Robert W. Chambers.md",
+    "Learning/Political Science.md",
+    "Learning/Aesthetics.md",
+    "Learning/Dieter Rams.md",
+    "Learning/CS50.md",
     "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
-    "conflict-files-obsidian-git.md",
-    "AGENTS.md",
-    "Media/The Anthropocene Reviewed by John Green.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
     "Learning/How Learning Works.md",
-    "Media/README.md",
-    "Media/Manga in Theory and Practice by Hirohiko Araki.md",
-    "Learning/Dieter Rams.md",
+    "Learning/Epistemology.md",
+    "Learning/Self Improvement and Toxicity.md",
+    "Media/A Lunch in Paris by Elizabeth Band.md",
+    "Media/The Anthropocene Reviewed by John Green.md",
     "The Anthropocene Reviewed by John Green.md",
+    "Media/Manga in Theory and Practice by Hirohiko Araki.md",
     "Daily Quiz Log.md",
+    "AGENTS.md",
     "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
-    "README.md",
+    "Media/README.md",
     "Tools",
     "Learning/About Hermes.md",
     "Learning/Calculus.md",
     "Final Draft",
     "Final Version",
     "Learning/Creativity.md",
-    "Learning/Aesthetics.md",
-    "Learning/Epistemology.md",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
@@ -305,7 +310,6 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
-    "Learning/CS50.md",
     "Learning/cs50 - 5.md",
     "Learning/cs50 - 1.md",
     "Learning/cs50 - 0.md",
