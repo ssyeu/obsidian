@@ -1,8 +1,27 @@
 const { Plugin, Notice, ItemView } = require("obsidian");
 
 module.exports = class NoteStopwatch extends Plugin {
-  onload() {
-    new Notice("Note Stopwatch loaded!");
+    onload() {
+    this.registerView(
+      "note-stopwatch-view",
+      (leaf) => new StopwatchView(leaf)
+    );
+
+    this.addRibbonIcon("timer", "Open stopwatch", async () => {
+      let leaf = this.app.workspace
+        .getLeavesOfType("note-stopwatch-view")[0];
+
+      if (!leaf) {
+        leaf = this.app.workspace.getLeftLeaf(true);
+        if (!leaf) return;
+
+        await leaf.setViewState({
+          type: "note-stopwatch-view"
+        });
+      }
+
+      await this.app.workspace.revealLeaf(leaf);
+    });
   }
 };
 
