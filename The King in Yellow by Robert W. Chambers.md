@@ -1,1 +1,1 @@
-What is this book trying to say? Consolidation of power is bad. It shows a military focused 
+What is this book trying to say? Consolidation of power is bad. It shows a military focused state where suicide chambers are built by the government and the people who want to die should be removed from society to make it better. Mental healt
