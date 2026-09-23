@@ -29,6 +29,7 @@
       {
         "id": "1e9066e18acc4251",
         "type": "tabs",
+        "dimension": 62.15943491422805,
         "children": [
           {
             "id": "e4369796318d0499",
@@ -80,6 +81,7 @@
       {
         "id": "d99deb74c062cda7",
         "type": "tabs",
+        "dimension": 37.84056508577195,
         "children": [
           {
             "id": "5e827f9a0fb486cc",
@@ -110,14 +112,7 @@
               "icon": "lucide-ghost",
               "title": "tasknotes-pomodoro-stats-view"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "63705e7941ffcb51",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "2270a7b0979438f4",
             "type": "leaf",
@@ -128,7 +123,8 @@
               "title": "Stopwatch"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -289,7 +285,7 @@
       "note-stopwatch:Open stopwatch": false
     }
   },
-  "active": "6442896d7bcdee40",
+  "active": "2270a7b0979438f4",
   "lastOpenFiles": [
     "Notes/2026-09-23.md",
     "Notes/wow.md",
