@@ -228,8 +228,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1790143186475-yki2y8d",
-                      "conversationId": null,
-                      "draftModel": "gpt-6-astra"
+                      "conversationId": "conv-1790205562741-w3jy5zhln"
                     }
                   ],
                   "activeTabId": "tab-1790143186475-yki2y8d"
@@ -269,7 +268,7 @@
       "note-stopwatch:Open stopwatch": false
     }
   },
-  "active": "2cf9354916d1fb7b",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Daily Quiz Log.md",
     "Ontology.md",
