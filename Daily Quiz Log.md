@@ -165,7 +165,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ## 2026-09-23
 
-- Session: in progress; ten questions planned, asked one at a time.
+- Session: ended early at the user’s request. Six questions completed; question 7 skipped. Questions 8–10 were not asked.
 - History consulted: all available history (2026-09-16 and 2026-09-17), including prior performance observations. No entries exist for 2026-09-18 through 2026-09-22; no missing sessions inferred.
 - Selection: prioritize untested concepts across Learning and Media, beginning with the linked political science note. Use application and explanation for new material without presuming mastery; avoid substantially equivalent recent tasks.
 
@@ -216,4 +216,4 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Political Science.md]]
 - Question: Your notes connect the House of Commons’ opposing benches with its adversarial style. Suppose the benches were rearranged into a circle, but the same politicians and questioning rules remained. What might change about debate, and why might the seating change alone have limited effects?
 - Concept/task: Apply the relationship between physical institutional design and political interaction; distinguish the possible influence of layout from that of unchanged participants and procedures. Untested concept; distinct from economic growth and concessions.
-- Outcome: Pending.
+- Outcome: Skipped; user requested ending the quiz early before answering. Understanding not assessed.
