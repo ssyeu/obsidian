@@ -207,6 +207,13 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 ### 6 — Epistemology: assessing grounds before the outcome
 
 - Source: [[Learning/Epistemology.md]]
-- Question: Two people predict that a sealed box contains a blue marble. One chose blue on a whim; the other watched the box being packed and has no reason to suspect it was changed. Before opening it, how would you compare the grounds for their beliefs? If the marble turns out to be blue, would that make their original grounds equally good? Explain.
+- Question: Two people believe a sealed box contains a blue marble. One guessed; the other watched it being packed and has no reason to suspect it was changed. Before opening it, how would you compare the grounds for their beliefs? If the marble turns out to be blue, would that make their original grounds equally good? Explain.
 - Concept/task: Compare the quality of two bases for belief before and after outcome information; supported revisit of the true-belief/justification weakness from 2026-09-16 using comparative, prospective reasoning rather than classifying a stopped-clock case.
+- Outcome: Completed with hints; independently distinguished the initial grounds. After a reminder to address the second part, correctly assessed the original basis after the outcome was revealed. Brief explanation; no substantive conceptual hint was needed.
+
+### 7 — Political science: institutional design and behavior
+
+- Source: [[Learning/Political Science.md]]
+- Question: Your notes connect the House of Commons’ opposing benches with its adversarial style. Suppose the benches were rearranged into a circle, but the same politicians and questioning rules remained. What might change about debate, and why might the seating change alone have limited effects?
+- Concept/task: Apply the relationship between physical institutional design and political interaction; distinguish the possible influence of layout from that of unchanged participants and procedures. Untested concept; distinct from economic growth and concessions.
 - Outcome: Pending.
