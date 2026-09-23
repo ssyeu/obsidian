@@ -4,78 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "873750d6ef230c70",
+        "id": "3205da4793e1f020",
         "type": "tabs",
         "children": [
           {
-            "id": "3211489d1ac4518e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "aeac190f4c8bcb01",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/syeu/Documents/Obsidian Vault/obsidian",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "profileSourceId": "linuxIntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "sh"
-            }
-          },
-          {
-            "id": "b913c20b579d3f53",
+            "id": "e99bd193efb0c922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/python.md",
+                "file": "Learning/Epistemology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python"
+              "title": "Epistemology"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,12 +236,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1790143186475-yki2y8d",
-                      "conversationId": null,
-                      "draftModel": "gpt-6-astra"
+                      "tabId": "tab-1789622010638-l8xjj5x",
+                      "conversationId": "conv-1789622319651-04mbb941z"
                     }
                   ],
-                  "activeTabId": "tab-1790143186475-yki2y8d"
+                  "activeTabId": "tab-1789622010638-l8xjj5x"
                 }
               },
               "icon": "bot",
@@ -307,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 419,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,16 +273,13 @@
       "tasknotes:Open Kanban board": false,
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false,
-      "terminal:Open terminal": false
+      "tasknotes:Create new task": false
     }
   },
-  "active": "b913c20b579d3f53",
+  "active": "e99bd193efb0c922",
   "lastOpenFiles": [
-    "Untitled.md",
     "Notes/python.md",
     "Notes",
-    "Learning/Epistemology.md",
     "README.md",
     "Media/The King in Yellow by Robert W. Chambers.md",
     "Learning/Political Science.md",
@@ -346,6 +289,7 @@
     "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
     "Learning/How Learning Works.md",
+    "Learning/Epistemology.md",
     "Learning/Self Improvement and Toxicity.md",
     "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/The Anthropocene Reviewed by John Green.md",
@@ -369,6 +313,7 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/agenda-default.base",
     "Learning/cs50 - 5.md",
+    "Learning/cs50 - 1.md",
     "Attachments/Pasted image 20260913113851.png",
     "Attachments/Pasted image 20260913113546.png",
     "Attachments/Pasted image 20260913113540.png"
