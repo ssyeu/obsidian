@@ -112,19 +112,9 @@
               "icon": "lucide-ghost",
               "title": "tasknotes-pomodoro-stats-view"
             }
-          },
-          {
-            "id": "2270a7b0979438f4",
-            "type": "leaf",
-            "state": {
-              "type": "note-stopwatch-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Stopwatch"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,11 +271,10 @@
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
       "tasknotes:Create new task": false,
-      "terminal:Open terminal": false,
-      "note-stopwatch:Open stopwatch": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "2270a7b0979438f4",
+  "active": "6442896d7bcdee40",
   "lastOpenFiles": [
     "Notes/2026-09-23.md",
     "Notes/wow.md",
