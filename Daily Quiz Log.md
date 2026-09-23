@@ -202,4 +202,4 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/CS50.md]]
 - Question: You want a program to check every number in a list and display only those greater than 10. Write simple pseudocode for this, then explain the different jobs of the loop and the conditional in your solution.
 - Concept/task: Construct a short algorithm combining iteration with selection and explain each control structure’s role; distinct from stacks and dictionary lookup.
-- Outcome: Pending.
+- Outcome: Incomplete; retry invited. Used iteration and a relevant condition, with collection followed by printing. The requested explanation of the two control structures is still missing; dictionary storage details were not specified. Treat as pseudocode rather than assess language syntax.
