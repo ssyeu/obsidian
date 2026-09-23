@@ -5,4 +5,4 @@ Crane example, there's an origami crane and a piece of paper. At first the two s
 
 ontological reductionism is the belief that ordinary objects exist and are made of smaller things. wholes are nothing more than their parts. The crane is contrary to that, there is a difference between being something and being made of something.
 
-Existing seems to be up to the person defining the word, we can say that dragons exist if we are talking about the creature in stories but they don't exist if we're talking about real fire breathing dragons in real life.
+Existing seems to be up to the person defining the word, we can say that dragons exist if we are talking about the creature in stories but they don't exist if we're talking about real fire breathing dragons in real life. Properties tell us what things are like.
