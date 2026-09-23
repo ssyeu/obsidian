@@ -4,7 +4,7 @@
   "title": "Take the daily learning quiz",
   "titleGenerationStatus": "success",
   "createdAt": 1790141415642,
-  "lastActivityAt": 1790141451066,
+  "lastActivityAt": 1790141534328,
   "sessionId": "01a0ccbe-4207-7182-bbae-d129fdf47f3a",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "Learning/Political Science.md",
   "usage": {
-    "inputTokens": 21725,
+    "inputTokens": 22740,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 21120,
+    "cacheReadInputTokens": 22272,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 21725,
-    "percentage": 8,
+    "contextTokens": 22740,
+    "percentage": 9,
     "model": "gpt-6-astra"
   }
 }

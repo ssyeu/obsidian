@@ -174,4 +174,4 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Political Science.md]]
 - Question: A country becomes wealthier, but political power stays with hereditary elites. Based on your political science notes, why wouldn’t economic growth alone guarantee democratization, and what could make those elites willing to share power?
 - Concept/task: Distinguish economic change from political decision-making; explain incentives for political concessions in a hypothetical situation.
-- Outcome: Pending.
+- Outcome: Incomplete; retry invited. Independently explained a cost-based incentive for concessions, but assumed economic gains must benefit only existing elites and framed the incentive as the only possible route. Prompted to reconsider the economic assumption using the note’s merchants as context.
