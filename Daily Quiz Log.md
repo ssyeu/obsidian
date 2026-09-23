@@ -174,4 +174,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Political Science.md]]
 - Question: A country becomes wealthier, but political power stays with hereditary elites. Based on your political science notes, why wouldn’t economic growth alone guarantee democratization, and what could make those elites willing to share power?
 - Concept/task: Distinguish economic change from political decision-making; explain incentives for political concessions in a hypothetical situation.
-- Outcome: Incomplete; retry invited. Independently explained a cost-based incentive for concessions, but assumed economic gains must benefit only existing elites and framed the incentive as the only possible route. Prompted to reconsider the economic assumption using the note’s merchants as context.
+- Outcome: Completed with hints. Independently explained a cost-based incentive for concessions. After a prompt challenging the assumption that gains must benefit only existing elites, distinguished economic influence from political power. Other possible routes to concessions were not assessed.
+
+### 2 — Learning: background knowledge and working memory
+
+- Source: [[Learning/How Learning Works.md]]
+- Question: Two students tackle an unfamiliar biology problem. One knows the relevant basic concepts well; the other must keep looking them up. Based on your learning notes, how could that difference affect their ability to reason through the problem, and why might the advantage not carry over to an unfamiliar history problem?
+- Concept/task: Explain how background knowledge affects working-memory demands during problem-solving and reason about the domain-specific limits of that advantage; distinct from judging immediate performance versus retention.
+- Outcome: Pending.
