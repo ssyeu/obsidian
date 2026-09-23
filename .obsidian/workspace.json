@@ -94,19 +94,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "25f8636a5a09f3fe",
-            "type": "leaf",
-            "state": {
-              "type": "note-stopwatch-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Stopwatch"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,8 +256,9 @@
       "note-stopwatch:Open stopwatch": false
     }
   },
-  "active": "3211489d1ac4518e",
+  "active": "5e827f9a0fb486cc",
   "lastOpenFiles": [
+    "Learning/Calculus.md",
     "Learning/Aesthetics.md",
     "Notes/2026-09-23.md",
     "Notes/wow.md",
@@ -295,7 +285,6 @@
     "Media/Manga in Theory and Practice by Hirohiko Araki.md",
     "Daily Quiz Log.md",
     "AGENTS.md",
-    "TaskNotes/Start Here.md",
     "Tools",
     "Final Draft",
     "Final Version",
