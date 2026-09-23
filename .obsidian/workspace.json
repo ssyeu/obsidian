@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Political Science"
             }
+          },
+          {
+            "id": "b007e7c06ee631b6",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-release-notes",
+              "state": {},
+              "icon": "book-open",
+              "title": "What's new in TaskNotes 4.13.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,7 +301,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e4369796318d0499",
+  "active": "b007e7c06ee631b6",
   "lastOpenFiles": [
     "Media/The King in Yellow by Robert W. Chambers.md",
     "Learning/Political Science.md",
