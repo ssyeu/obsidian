@@ -223,49 +223,6 @@
             }
           },
           {
-            "id": "cbae784489ddd0fc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/syeu/Documents/Obsidian Vault/obsidian",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "profileSourceId": "linuxIntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "sh"
-            }
-          },
-          {
             "id": "d67ff53992dccb03",
             "type": "leaf",
             "state": {
@@ -316,7 +273,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cbae784489ddd0fc",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
     "Notes/2026-09-23.md",
     "Notes/wow.md",
