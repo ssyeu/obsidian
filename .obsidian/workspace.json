@@ -59,23 +59,9 @@
               "icon": "terminal",
               "title": "sh"
             }
-          },
-          {
-            "id": "318fa174ad79b8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2026-09-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-23"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,7 +317,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "318fa174ad79b8b4",
+  "active": "e4369796318d0499",
   "lastOpenFiles": [
     "Notes/2026-09-23.md",
     "Notes/wow.md",
