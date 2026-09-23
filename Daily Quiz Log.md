@@ -202,4 +202,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/CS50.md]]
 - Question: You want a program to check every number in a list and display only those greater than 10. Write simple pseudocode for this, then explain the different jobs of the loop and the conditional in your solution.
 - Concept/task: Construct a short algorithm combining iteration with selection and explain each control structure’s role; distinct from stacks and dictionary lookup.
-- Outcome: Incomplete; retry invited. Used iteration and a relevant condition, with collection followed by printing. The requested explanation of the two control structures is still missing; dictionary storage details were not specified. Treat as pseudocode rather than assess language syntax.
+- Outcome: Completed with hints. Initially supplied a loop and relevant condition but omitted the requested explanation. After a follow-up, explained both roles and proposed a simpler output approach. Exact programming-language syntax was not assessed.
+
+### 6 — Epistemology: assessing grounds before the outcome
+
+- Source: [[Learning/Epistemology.md]]
+- Question: Two people predict that a sealed box contains a blue marble. One chose blue on a whim; the other watched the box being packed and has no reason to suspect it was changed. Before opening it, how would you compare the grounds for their beliefs? If the marble turns out to be blue, would that make their original grounds equally good? Explain.
+- Concept/task: Compare the quality of two bases for belief before and after outcome information; supported revisit of the true-belief/justification weakness from 2026-09-16 using comparative, prospective reasoning rather than classifying a stopped-clock case.
+- Outcome: Pending.
