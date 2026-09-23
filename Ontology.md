@@ -3,4 +3,4 @@ ontology is the philosophy of existence, ordinary objects are plain things that 
 
 Crane example, there's an origami crane and a piece of paper. At first the two seem to be the same but the paper can survive being unfolded while the crane can not. Constitution is a one to one relationship where one things constitutes another. The thing that matter is ultimately composed of are simples. They are the simplest building blocks that can't be broken down any further. It's possible there are no simples and things can just be broken down and down forever, this is called a gunky reality. If everything can always be bigger and there is no final step where we finally have one thing that is everything, that's called a junky universe.
 
-ontological reductionism is the b
+ontological reductionism is the belief that ordinary objects exist and are made of smaller things. wholes are nothing more than their parts. The crane is contrary to that, there is a difference between being something and being made of something.
