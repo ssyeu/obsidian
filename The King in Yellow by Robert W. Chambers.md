@@ -1,0 +1,1 @@
+What is this book trying to say? Consolidation of power is bad. It shows a military focused 
