@@ -15,4 +15,4 @@ For the digital locks to work, it has to conceal itself from the computer and hi
 
 Digital locks are worse than nothing. It turns legitimate buyers into people that pirate and those people stay on the pirating sites even if restrictions are removed. The friction and frustration drives people to other solutions. Digital locks also reduce security as explained in the previous chapter. Hiding something from the user so they can't understand it leads to people being able to abuse that lack of understanding.
 
-Obsc
+Obscurity is a far greater threat to artists than piracy. Your art can be as profitable as possible but it will still make 0 dollars if nobody knows about it. On the other hand fame itself can't pay for anything. You have to monetize it. You need both to be successful, buut the book says fame is more important to g
