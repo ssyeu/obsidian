@@ -49,7 +49,6 @@
   color: var(--text-normal);
   letter-spacing: -.03em;
 }
-.note-stopwatch .ns-hint { color: var(--text-muted); font-size: 10px; }
 .note-stopwatch .ns-controls { display: flex; gap: 7px; margin-bottom: 8px; }
 .note-stopwatch .ns-controls button {
   flex: 1;

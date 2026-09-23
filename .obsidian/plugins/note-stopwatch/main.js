@@ -13,6 +13,15 @@ function formatTime(ms) {
     .map(number => String(number).padStart(2, "0")).join(":");
 }
 
+function setTextIfChanged(element, text) {
+  if (element.textContent !== text) element.setText(text);
+}
+
+function localDateKey(date) {
+  return [date.getFullYear(), String(date.getMonth() + 1).padStart(2, "0"),
+    String(date.getDate()).padStart(2, "0")].join("-");
+}
+
 // Timing lives outside the panel, so closing or moving the panel loses no time.
 class Stopwatch {
   constructor(saved = {}, now = () => Date.now()) {
@@ -20,13 +29,58 @@ class Stopwatch {
     this.sessionMs = validMs(saved.sessionMs);
     this.sessionNotes = cleanMap(saved.sessionNotes);
     this.allNotes = cleanMap(saved.allNotes);
+    const calendar = saved.calendar || {};
+    this.dayKey = calendar.dayKey;
+    this.weekKey = calendar.weekKey;
+    this.dayNotes = cleanMap(calendar.dayNotes);
+    this.weekNotes = cleanMap(calendar.weekNotes);
+    this.periodVersion = 0;
+    this.unassignedMs = Math.max(0, this.sessionMs -
+      Object.values(this.sessionNotes).reduce((sum, ms) => sum + ms, 0));
     this.running = false; // Never count time while Obsidian was closed.
     this.activePath = null;
     this.lastAt = now();
+    this.ensurePeriods(this.lastAt);
+  }
+
+  ensurePeriods(timestamp, force = false) {
+    if (!force && timestamp >= this.dayStartAt && timestamp < this.dayEndAt) return;
+    const day = new Date(timestamp);
+    day.setHours(0, 0, 0, 0);
+    const end = new Date(day);
+    end.setDate(end.getDate() + 1); // Calendar arithmetic handles 23/25-hour DST days.
+    const monday = new Date(day);
+    monday.setDate(monday.getDate() - (monday.getDay() + 6) % 7);
+    const dayKey = localDateKey(day);
+    const weekKey = localDateKey(monday);
+    if (dayKey !== this.dayKey) { this.dayKey = dayKey; this.dayNotes = {}; this.periodVersion++; }
+    if (weekKey !== this.weekKey) { this.weekKey = weekKey; this.weekNotes = {}; this.periodVersion++; }
+    this.dayStartAt = day.getTime();
+    this.dayEndAt = end.getTime();
+  }
+
+  addCalendarTime(path, start, end) {
+    // Split even delayed callbacks at local midnight, including Sunday/Monday.
+    let cursor = start;
+    while (cursor < end) {
+      this.ensurePeriods(cursor);
+      const next = Math.min(end, this.dayEndAt);
+      for (const map of [this.dayNotes, this.weekNotes]) {
+        map[path] = (map[path] || 0) + next - cursor;
+      }
+      cursor = next;
+    }
+  }
+
+  notesFor(scope) {
+    if (scope === "day") return this.dayNotes;
+    if (scope === "week") return this.weekNotes;
+    return scope === "session" ? this.sessionNotes : this.allNotes;
   }
 
   commit() {
     const now = this.now();
+    const start = this.lastAt;
     const delta = this.running ? Math.max(0, now - this.lastAt) : 0;
     this.lastAt = now;
     this.sessionMs += delta;
@@ -34,7 +88,11 @@ class Stopwatch {
       for (const map of [this.sessionNotes, this.allNotes]) {
         map[this.activePath] = (map[this.activePath] || 0) + delta;
       }
+      this.addCalendarTime(this.activePath, start, now);
+    } else {
+      this.unassignedMs += delta;
     }
+    this.ensurePeriods(now);
   }
 
   resume() { this.commit(); this.running = true; }
@@ -43,13 +101,14 @@ class Stopwatch {
     this.stop();
     this.sessionMs = 0;
     this.sessionNotes = {};
+    this.unassignedMs = 0;
   }
   setNote(path) { this.commit(); this.activePath = path; }
 
   rename(oldPath, newPath) {
     this.commit();
     const matches = path => path === oldPath || path.startsWith(oldPath + "/");
-    for (const map of [this.sessionNotes, this.allNotes]) {
+    for (const map of [this.sessionNotes, this.allNotes, this.dayNotes, this.weekNotes]) {
       for (const path of Object.keys(map)) {
         if (!matches(path)) continue;
         const renamed = newPath + path.slice(oldPath.length);
@@ -65,10 +124,14 @@ class Stopwatch {
   snapshot() {
     this.commit();
     return {
-      version: 1,
+      version: 2,
       sessionMs: this.sessionMs,
       sessionNotes: { ...this.sessionNotes },
-      allNotes: { ...this.allNotes }
+      allNotes: { ...this.allNotes },
+      calendar: {
+        dayKey: this.dayKey, dayNotes: { ...this.dayNotes },
+        weekKey: this.weekKey, weekNotes: { ...this.weekNotes }
+      }
     };
   }
 }
@@ -83,7 +146,7 @@ module.exports = class NoteStopwatch extends Plugin {
     this.registerView(VIEW, leaf => new StopwatchView(leaf, this));
     this.addRibbonIcon("timer", "Open stopwatch", () => this.openPanel());
     this.addCommand({ id: "open", name: "Open stopwatch", callback: () => this.openPanel() });
-    for (const [id, name] of [["resume", "Resume"], ["stop", "Stop"], ["reset", "Reset session"]]) {
+    for (const [id, name] of [["resume", "Start"], ["stop", "Stop"], ["reset", "Reset session"]]) {
       this.addCommand({ id, name, callback: () => this.control(id) });
     }
 
@@ -102,16 +165,17 @@ module.exports = class NoteStopwatch extends Plugin {
       this.paint(true);
       void this.persist();
     }));
-    this.registerInterval(window.setInterval(() => {
-      this.clock.commit();
-      this.paint();
-    }, 250));
-    this.registerInterval(window.setInterval(() => {
-      if (this.clock.running) void this.persist();
-    }, 2000));
     this.registerDomEvent(window, "beforeunload", () => {
       this.clock.stop();
+      this.updateHeartbeat();
+      this.clearCalendarWakeup();
       void this.persist();
+    });
+    this.registerDomEvent(window, "focus", () => {
+      this.clock.commit();
+      this.clock.ensurePeriods(this.clock.now(), true);
+      this.paint(true);
+      this.updateCalendarWakeup();
     });
     this.app.workspace.onLayoutReady(() => {
       this.syncNote();
@@ -129,19 +193,58 @@ module.exports = class NoteStopwatch extends Plugin {
     if (this.clock.activePath !== path) {
       this.clock.setNote(path);
       this.paint(true);
-      void this.persist();
+      if (this.clock.running) void this.persist();
     }
   }
 
   control(action) {
     this.syncNote();
     this.clock[action]();
+    this.updateHeartbeat();
     this.paint(true);
+    this.updateCalendarWakeup();
     void this.persist();
   }
 
   paint(force = false) {
     for (const view of this.views) view.refresh(force);
+  }
+
+  updateHeartbeat() {
+    if (!this.clock.running) {
+      if (this.heartbeatId != null) window.clearInterval(this.heartbeatId);
+      this.heartbeatId = null;
+      return;
+    }
+    if (this.heartbeatId != null) return;
+    this.lastPeriodicSaveAt = this.clock.now();
+    // One timer while running; no scheduled work at all while stopped.
+    this.heartbeatId = window.setInterval(() => {
+      this.clock.commit();
+      this.paint();
+      if (this.clock.now() - this.lastPeriodicSaveAt >= 2000) {
+        this.lastPeriodicSaveAt = this.clock.now();
+        void this.persist();
+      }
+    }, 1000);
+  }
+
+  clearCalendarWakeup() {
+    if (this.calendarTimeout != null) window.clearTimeout(this.calendarTimeout);
+    this.calendarTimeout = null;
+  }
+
+  updateCalendarWakeup() {
+    this.clearCalendarWakeup();
+    if (this.unloading || this.clock.running ||
+      ![...this.views].some(view => view.scope === "day" || view.scope === "week")) return;
+    // No stopped polling: a calendar pane needs just one wakeup at midnight.
+    this.calendarTimeout = window.setTimeout(() => {
+      this.calendarTimeout = null;
+      this.clock.commit();
+      this.paint(true);
+      this.updateCalendarWakeup();
+    }, Math.max(1, this.clock.dayEndAt - this.clock.now() + 10));
   }
 
   persist() {
@@ -176,8 +279,11 @@ module.exports = class NoteStopwatch extends Plugin {
   }
 
   onunload() {
+    this.unloading = true;
+    this.clearCalendarWakeup();
     if (this.clock) {
       this.clock.stop();
+      this.updateHeartbeat();
       void this.persist();
     }
   }
@@ -205,13 +311,12 @@ class StopwatchView extends ItemView {
     const dial = this.contentEl.createDiv({ cls: "ns-dial" });
     dial.createDiv({ text: "THIS SESSION", cls: "ns-eyebrow" });
     this.timeEl = dial.createDiv({ text: "00:00:00", cls: "ns-time" });
-    this.hintEl = dial.createDiv({ cls: "ns-hint" });
 
     const controls = this.contentEl.createDiv({ cls: "ns-controls" });
     this.stopButton = controls.createEl("button", { text: "Stop" });
-    this.resumeButton = controls.createEl("button", { text: "Resume", cls: "mod-cta" });
+    this.resumeButton = controls.createEl("button", { text: "Start", cls: "mod-cta" });
     this.resetButton = controls.createEl("button", { text: "Reset" });
-    this.resetButton.title = "Reset this session and stop. All-time note totals are kept.";
+    this.resetButton.title = "Reset this session and stop. Today, this week, and all-time totals are kept.";
     this.stopButton.onclick = () => this.plugin.control("stop");
     this.resumeButton.onclick = () => this.plugin.control("resume");
     this.resetButton.onclick = () => this.plugin.control("reset");
@@ -225,41 +330,78 @@ class StopwatchView extends ItemView {
     heading.createSpan({ text: "Time by note" });
     this.scopeEl = heading.createEl("select", { attr: { "aria-label": "Note time period" } });
     this.scopeEl.createEl("option", { text: "This session", value: "session" });
+    this.scopeEl.createEl("option", { text: "Today", value: "day" });
+    this.scopeEl.createEl("option", { text: "This week", value: "week" });
     this.scopeEl.createEl("option", { text: "All time", value: "all" });
     this.scopeEl.value = this.scope;
     this.scopeEl.onchange = () => {
       this.scope = this.scopeEl.value;
       this.refresh(true);
+      this.plugin.updateCalendarWakeup();
     };
     this.listEl = this.contentEl.createDiv({ cls: "ns-notes" });
     this.emptyEl = this.contentEl.createDiv({ cls: "ns-empty" });
     this.footerEl = this.contentEl.createDiv({ cls: "ns-footer" });
     this.plugin.views.add(this);
     this.refresh(true);
+    this.plugin.updateCalendarWakeup();
   }
 
   refresh(force = false) {
     const clock = this.plugin.clock;
-    this.timeEl.setText(formatTime(clock.sessionMs));
-    this.stateEl.setText(clock.running ? "Running" : clock.sessionMs > 0 ? "Stopped" : "Ready");
-    this.contentEl.classList.toggle("is-running", clock.running);
-    this.stopButton.disabled = !clock.running;
-    this.resumeButton.disabled = clock.running;
-    this.resetButton.disabled = clock.sessionMs === 0 && !clock.running;
-    this.hintEl.setText(clock.running ? "One thing at a time." : "Your time, at your pace.");
-
-    const path = clock.activePath;
-    this.noteEl.setText(path ? path.split("/").pop().replace(/\.md$/, "") : "No note selected");
-    this.noteEl.title = path || "Open a Markdown note to track time on it.";
-    this.noteTimeEl.setText(path
-      ? `${formatTime(clock.sessionNotes[path] || 0)} session · ${formatTime(clock.allNotes[path] || 0)} all time`
-      : "The session timer still works without a note.");
-
+    clock.commit();
+    if (this.lastPeriodVersion !== clock.periodVersion) force = true;
+    this.lastPeriodVersion = clock.periodVersion;
     const second = Math.floor(clock.sessionMs / 1000);
     if (!force && this.lastSecond === second) return;
     this.lastSecond = second;
-    const map = this.scope === "session" ? clock.sessionNotes : clock.allNotes;
+    setTextIfChanged(this.timeEl, formatTime(clock.sessionMs));
+    const path = clock.activePath;
+    if (force) {
+      setTextIfChanged(this.stateEl, clock.running ? "Running" : clock.sessionMs > 0 ? "Stopped" : "Ready");
+      this.contentEl.classList.toggle("is-running", clock.running);
+      this.stopButton.disabled = !clock.running;
+      this.resumeButton.disabled = clock.running;
+      this.resetButton.disabled = clock.sessionMs === 0 && !clock.running;
+      setTextIfChanged(this.noteEl, path ? path.split("/").pop().replace(/\.md$/, "") : "No note selected");
+      this.noteEl.title = path || "Open a Markdown note to track time on it.";
+    }
+    setTextIfChanged(this.noteTimeEl, path
+      ? `${formatTime(clock.sessionNotes[path] || 0)} session · ${formatTime(clock.allNotes[path] || 0)} all time`
+      : "The session timer still works without a note.");
+    const map = clock.notesFor(this.scope);
+    if (force || (path && map[path] > 0 && !this.rows.has(path))) {
+      this.rebuildRows(map, path);
+    } else if (path && this.rows.has(path)) {
+      // Only this note's total changes during a normal tick. Move it upward
+      // if it overtakes another note, without sorting or scanning all notes.
+      setTextIfChanged(this.rows.get(path).time, formatTime(map[path]));
+      let index = this.positions.get(path);
+      while (index > 0 && map[path] > map[this.rankedPaths[index - 1]]) {
+        const previous = this.rankedPaths[index - 1];
+        this.rankedPaths[index] = previous;
+        this.positions.set(previous, index);
+        this.rows.get(previous).el.style.order = String(index);
+        index -= 1;
+      }
+      if (index !== this.positions.get(path)) {
+        this.rankedPaths[index] = path;
+        this.positions.set(path, index);
+        this.rows.get(path).el.style.order = String(index);
+      }
+    }
+    const footer = this.scope === "day" ? "Today · Local time · Reset keeps these totals"
+      : this.scope === "week" ? "Monday–Sunday · Local time · Reset keeps these totals"
+      : this.scope === "session" && clock.unassignedMs >= 1000
+      ? `${formatTime(clock.unassignedMs)} without a note · Reset keeps all-time totals`
+      : "Saved automatically · Reset keeps all-time totals";
+    setTextIfChanged(this.footerEl, footer);
+  }
+
+  rebuildRows(map, path) {
     const entries = Object.entries(map).filter(([, ms]) => ms > 0).sort((a, b) => b[1] - a[1]);
+    this.rankedPaths = entries.map(([name]) => name);
+    this.positions = new Map(this.rankedPaths.map((name, index) => [name, index]));
     const keep = new Set(entries.map(([name]) => name));
     for (const [name, row] of this.rows) {
       if (!keep.has(name)) { row.el.remove(); this.rows.delete(name); }
@@ -285,20 +427,16 @@ class StopwatchView extends ItemView {
       const exists = this.app.vault.getAbstractFileByPath(name) instanceof TFile;
       row.button.disabled = !exists;
       row.button.title = exists ? name : `${name} (deleted or unavailable; saved time retained)`;
-      row.time.setText(formatTime(ms));
+      setTextIfChanged(row.time, formatTime(ms));
     });
     this.emptyEl.hidden = entries.length > 0;
-    this.emptyEl.setText("Open a note and press Resume to start tracking.");
-    const assigned = Object.values(clock.sessionNotes).reduce((sum, ms) => sum + ms, 0);
-    const unassigned = Math.max(0, clock.sessionMs - assigned);
-    this.footerEl.setText(this.scope === "session" && unassigned >= 1000
-      ? `${formatTime(unassigned)} without a note · Reset keeps all-time totals`
-      : "Saved automatically · Reset keeps all-time totals");
+    setTextIfChanged(this.emptyEl, "Open a note and press Start.");
   }
 
   async onClose() {
     this.plugin.views.delete(this);
     this.contentEl.empty();
     this.rows.clear();
+    this.plugin.updateCalendarWakeup();
   }
 }
