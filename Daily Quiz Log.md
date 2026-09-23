@@ -181,4 +181,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/How Learning Works.md]]
 - Question: Two students tackle an unfamiliar biology problem. One knows the relevant basic concepts well; the other must keep looking them up. Based on your learning notes, how could that difference affect their ability to reason through the problem, and why might the advantage not carry over to an unfamiliar history problem?
 - Concept/task: Explain how background knowledge affects working-memory demands during problem-solving and reason about the domain-specific limits of that advantage; distinct from judging immediate performance versus retention.
+- Outcome: Independent; clearly explained the reasoning advantage and its limits across subjects, including a relevant qualification about overlapping knowledge.
+
+### 3 — Araki: integrating theme across a story
+
+- Source: [[Media/Manga in Theory and Practice by Hirohiko Araki.md]]
+- Question: A writer says their comic’s theme is “trust,” but expresses it only through a speech at the end. Based on your Araki notes, suggest one change to the characters and one to the setting that would make trust matter throughout the comic. How would those changes reinforce each other?
+- Concept/task: Apply thematic consistency across characters and setting; synthesize two concrete design choices and explain their interaction. Distinct from opening-panel information, imitation, and emotional buildup.
 - Outcome: Pending.
