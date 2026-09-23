@@ -13,4 +13,6 @@ General purpose computer blah blah,  I think this chapter was kinda meaningless.
 
 For the digital locks to work, it has to conceal itself from the computer and hide itself from the user while still being vigilant and strong. This is very similar to spyware, information being held from your computer and manipulating its tasks. Sony had a rootkit that hid any files with $sys$ in it. (there are $ signs next to sys) This was so that it could stop piracy apps from stealing its media. In doing so it acted the same way as a virus would, maliciously closing apps and controlling your computer. Malicious actors also started adding $sys$ to their files to hide from this system and anyone that has used a Sony disc was now vulnerable to it. Forcing programs onto users like that is akin to spyware.
 
-Digital locks are worse than nothing. It turns legitmate buyers into people that pirate and those people stay on the pirating sites even if restricctions are removed. The friction and frustration drives people to other solutions. Digital locks also reduce security as explained
+Digital locks are worse than nothing. It turns legitimate buyers into people that pirate and those people stay on the pirating sites even if restrictions are removed. The friction and frustration drives people to other solutions. Digital locks also reduce security as explained in the previous chapter. Hiding something from the user so they can't understand it leads to people being able to abuse that lack of understanding.
+
+Obsc
