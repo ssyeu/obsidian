@@ -49,7 +49,7 @@
         {
           "model": "gpt-6-astra",
           "displayName": "GPT-6-Astra",
-          "description": "Our most capable model for complex, demanding work.",
+          "description": "Frontier intelligence for the most demanding work.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -94,7 +94,7 @@
         {
           "model": "gpt-5.6-sol",
           "displayName": "GPT-5.6-Sol",
-          "description": "Reliable agentic workhorse for everyday tasks.",
+          "description": "Older coding model for complex work.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -139,7 +139,7 @@
         {
           "model": "gpt-5.6-terra",
           "displayName": "GPT-5.6-Terra",
-          "description": "Balanced agentic coding model for everyday work.",
+          "description": "Older balanced model for straightforward work.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -184,7 +184,7 @@
         {
           "model": "gpt-5.6-luna",
           "displayName": "GPT-5.6-Luna",
-          "description": "Fast and affordable agentic coding model.",
+          "description": "Older fast and efficient model.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -225,7 +225,7 @@
         {
           "model": "gpt-5.5",
           "displayName": "GPT-5.5",
-          "description": "Proven previous-generation model for coding and general work.",
+          "description": "Legacy coding model.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -263,14 +263,14 @@
       "modelAliases": {},
       "visibleModels": null,
       "enableUltraEffort": false,
+      "responseStyle": "pragmatic",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "runtime-input:v1:ed54f4f5238abeec7f65a5da1e468c9a639e157a7d1c7753b53f54ba1196e8a0",
-      "catalogTimestamp": 1789847187025,
+      "catalogTimestamp": 1790141373296,
       "catalogFingerprint": "2:9c111f381fee7ebcb21d74417215f1ac9536e17e53c19c46b9b3797ae2bb2de6",
       "installationMethodsByHost": {},
-      "wslDistroOverridesByHost": {},
-      "responseStyle": "pragmatic"
+      "wslDistroOverridesByHost": {}
     },
     "grok": {
       "catalogsByHost": {},

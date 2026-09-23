@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Epistemology.md",
+                "file": "Learning/Political Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epistemology"
+              "title": "Political Science"
             }
           }
         ]
@@ -236,11 +236,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789622010638-l8xjj5x",
-                      "conversationId": "conv-1789622319651-04mbb941z"
+                      "tabId": "tab-1790141371341-7v6xf5q",
+                      "conversationId": "conv-1790141415631-j1wlp1077"
                     }
                   ],
-                  "activeTabId": "tab-1789622010638-l8xjj5x"
+                  "activeTabId": "tab-1790141371341-7v6xf5q"
                 }
               },
               "icon": "bot",
@@ -252,8 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419,
-    "collapsed": true
+    "width": 419
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,17 +275,18 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e99bd193efb0c922",
+  "active": "d67ff53992dccb03",
   "lastOpenFiles": [
+    "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
+    "README.md",
     "Media/The King in Yellow by Robert W. Chambers.md",
+    "Learning/Epistemology.md",
     "Learning/Political Science.md",
     "Learning/Aesthetics.md",
     "Learning/Dieter Rams.md",
     "Learning/CS50.md",
-    "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
     "Learning/How Learning Works.md",
-    "Learning/Epistemology.md",
     "Learning/Self Improvement and Toxicity.md",
     "Media/A Lunch in Paris by Elizabeth Band.md",
     "Media/The Anthropocene Reviewed by John Green.md",
@@ -296,7 +296,6 @@
     "AGENTS.md",
     "TaskNotes/Start Here.md",
     "Learning/Bayes Theorem.md",
-    "Media/README.md",
     "Tools",
     "Learning/About Hermes.md",
     "Learning/Calculus.md",
