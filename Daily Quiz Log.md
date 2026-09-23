@@ -195,4 +195,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Calculus.md]]
 - Question: Two curves both pass through (2, 5). At that point, one slopes upward and the other slopes downward. A student says, “Their derivatives at x = 2 must be equal because their values there are equal.” Is that right? Explain what you can tell about each derivative without knowing the curves’ formulas.
 - Concept/task: Distinguish a function’s value from its local slope and infer derivative signs from graphical behavior; distinct from limits and accumulation.
+- Outcome: Independent; correctly rejected the claim and distinguished the derivatives using the given slope directions.
+
+### 5 — CS50: combining loops and conditionals
+
+- Source: [[Learning/CS50.md]]
+- Question: You want a program to check every number in a list and display only those greater than 10. Write simple pseudocode for this, then explain the different jobs of the loop and the conditional in your solution.
+- Concept/task: Construct a short algorithm combining iteration with selection and explain each control structure’s role; distinct from stacks and dictionary lookup.
 - Outcome: Pending.
