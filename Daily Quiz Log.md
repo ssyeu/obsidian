@@ -188,4 +188,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Media/Manga in Theory and Practice by Hirohiko Araki.md]]
 - Question: A writer says their comic’s theme is “trust,” but expresses it only through a speech at the end. Based on your Araki notes, suggest one change to the characters and one to the setting that would make trust matter throughout the comic. How would those changes reinforce each other?
 - Concept/task: Apply thematic consistency across characters and setting; synthesize two concrete design choices and explain their interaction. Distinct from opening-panel information, imitation, and emotional buildup.
+- Outcome: Independent; supplied concrete character and setting choices and explained how their interaction would express the theme through actions and consequences.
+
+### 4 — Calculus: value versus instantaneous change
+
+- Source: [[Learning/Calculus.md]]
+- Question: Two curves both pass through (2, 5). At that point, one slopes upward and the other slopes downward. A student says, “Their derivatives at x = 2 must be equal because their values there are equal.” Is that right? Explain what you can tell about each derivative without knowing the curves’ formulas.
+- Concept/task: Distinguish a function’s value from its local slope and infer derivative signs from graphical behavior; distinct from limits and accumulation.
 - Outcome: Pending.
