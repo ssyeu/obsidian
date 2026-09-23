@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "sessionMs": 18992,
+  "sessionMs": 30103,
   "sessionNotes": {
     "Learning/Aesthetics.md": 1767,
-    "Learning/Calculus.md": 13315
+    "Learning/Calculus.md": 21873,
+    "Learning/Creativity.md": 2553
   },
   "allNotes": {
     "Learning/Aesthetics.md": 1767,
-    "Learning/Calculus.md": 13315
+    "Learning/Calculus.md": 21873,
+    "Learning/Creativity.md": 2553
   }
 }

@@ -1,6 +1,6 @@
 .note-stopwatch {
   --ns-accent: var(--interactive-accent);
-  padding: 18px 16px !important;
+  padding: 10px 16px !important;
   overflow-y: auto;
   font-family: var(--font-interface);
 }
@@ -31,8 +31,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 12px 0;
-  gap: 4px;
+  margin: 6px 0;
+  gap: 2px;
 }
 .note-stopwatch .ns-eyebrow {
   font-size: 9px;
@@ -41,7 +41,8 @@
   color: var(--text-muted);
 }
 .note-stopwatch .ns-time {
-  font-size: clamp(23px, 2.4vw, 32px);
+  font-size: 42px;
+  line-height: 1.05;
   font-variant-numeric: tabular-nums;
   font-family: var(--font-monospace);
   font-weight: 600;
@@ -49,7 +50,7 @@
   letter-spacing: -.03em;
 }
 .note-stopwatch .ns-hint { color: var(--text-muted); font-size: 10px; }
-.note-stopwatch .ns-controls { display: flex; gap: 7px; margin-bottom: 18px; }
+.note-stopwatch .ns-controls { display: flex; gap: 7px; margin-bottom: 8px; }
 .note-stopwatch .ns-controls button {
   flex: 1;
   min-width: 0;
@@ -62,13 +63,13 @@
   background: var(--background-secondary);
   border: 1px solid var(--background-modifier-border);
   border-radius: 9px;
-  padding: 12px;
-  margin-bottom: 20px;
+  padding: 8px 12px;
+  margin-bottom: 8px;
 }
 .note-stopwatch .ns-note-name {
   font-size: 13px;
   font-weight: 600;
-  margin: 7px 0;
+  margin: 4px 0;
   overflow-wrap: anywhere;
 }
 .note-stopwatch .ns-note-time {
@@ -85,7 +86,7 @@
   gap: 8px;
   font-size: 12px;
   font-weight: 600;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 .note-stopwatch .ns-breakdown-heading select {
   font-size: 10px;
@@ -97,7 +98,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 8px 0;
+  padding: 4px 0;
   border-bottom: 1px solid var(--background-modifier-border);
 }
 .note-stopwatch .ns-note-link {
@@ -122,6 +123,6 @@
 .note-stopwatch .ns-row-time { font-size: 11px; font-variant-numeric: tabular-nums; flex-shrink: 0; }
 .note-stopwatch .ns-empty,
 .note-stopwatch .ns-footer { font-size: 10px; line-height: 1.6; color: var(--text-faint); }
-.note-stopwatch .ns-empty { padding: 12px 0; }
-.note-stopwatch .ns-footer { padding-top: 14px; }
+.note-stopwatch .ns-empty { padding: 6px 0; }
+.note-stopwatch .ns-footer { padding-top: 6px; }
 .note-stopwatch [hidden] { display: none !important; }
