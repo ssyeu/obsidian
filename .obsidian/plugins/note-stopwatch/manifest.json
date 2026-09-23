@@ -1,0 +1,9 @@
+{
+  "id": "note-stopwatch",
+  "name": "Note Stopwatch",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "A stopwatch that tracks time spent on notes.",
+  "author": "Neel",
+  "isDesktopOnly": true
+}
