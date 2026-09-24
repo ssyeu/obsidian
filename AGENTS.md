@@ -8,8 +8,7 @@ When the user asks for sources, provide credible links with brief, neutral descr
 
 When the user asks for their daily quiz:
 
-- Read relevant notes in the Vault's `Learning/` and `Media/` folders and base the quiz on what the user has written, to check retention of what they have learned.
-- For `Media/` notes, focus on big-picture ideas: important concepts, themes, arguments, implications, and connections or applications beyond the work. Do not ask standalone plot-recall or trivia questions; use plot details only as context for exploring those ideas. Keep questions grounded in the user's notes.
+- Read relevant notes only in the Vault's `Learning/` folder and base the quiz on what the user has written, to check retention of what they have learned. Exclude `Media/` notes from the daily quiz.
 - Give exactly ten questions for the daily quiz, covering a mix of topics when possible.
 - Ask only one question at a time and wait for the user's response before continuing. Hints and retries do not count as additional quiz questions.
 - Never reveal an answer unless the user explicitly asks for it, including in feedback, explanations, or a final recap.
