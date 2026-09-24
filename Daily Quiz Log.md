@@ -217,3 +217,72 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Question: Your notes connect the House of Commons’ opposing benches with its adversarial style. Suppose the benches were rearranged into a circle, but the same politicians and questioning rules remained. What might change about debate, and why might the seating change alone have limited effects?
 - Concept/task: Apply the relationship between physical institutional design and political interaction; distinguish the possible influence of layout from that of unchanged participants and procedures. Untested concept; distinct from economic growth and concessions.
 - Outcome: Skipped; user requested ending the quiz early before answering. Understanding not assessed.
+
+### Additional session — 2026-09-23
+
+- Session: ended at the user's request. Eight questions completed: five independently and three with hints or follow-up prompts. Question 9 skipped, unanswered.
+- History consulted: all available entries for September 16–23, including earlier performance. No missing sessions inferred.
+- Selection: Learning/ notes only; exclude Media/ and the linked root-level Ontology note. Prioritize distinct, untested concepts with application questions; continue until the user chooses to stop.
+
+### Additional session, 1 — Watches: controlled energy release
+
+- Source: [[Learning/How watches work.md]]
+- Question: A mechanical watch has a wound mainspring and connected gears, but its pallet fork no longer stops the escape wheel. Why would stored energy and gears alone not be enough for the watch to keep time properly?
+- Concept/task: Diagnose a failure of controlled energy release; distinguish powering and transmitting movement from regulating it. Distinct from gear-ratio packaging and automatic winding; regulation has not previously been assessed.
+- Outcome: Independent; correctly predicted the consequence of the stated failure and explained why the remaining components would not maintain proper timing.
+
+### Additional session, 2 — CS50: interpreting bits
+
+- Source: [[Learning/CS50.md]]
+- Question: Two programs read exactly the same sequence of bits. One displays a number; the other displays a color. Does that necessarily mean one program has a bug? Explain how the same bits could produce these different outputs.
+- Concept/task: Distinguish stored bits from their interpretation; evaluate whether different representations imply an error. Untested concept, distinct from control flow, stacks, and dictionary lookup.
+- Outcome: Independent; clearly distinguished interpretations of the same stored data and supplied a relevant illustrative comparison.
+
+### Additional session, 3 — Aesthetics: expected lifespan and design priorities
+
+- Source: [[Learning/Aesthetics.md]]
+- Question: Your aesthetics notes connect how long people expect to keep an object with how it is designed. If a company starts treating a lamp as something people will keep for decades rather than replace next year, how might its visual design priorities change? Give one concrete example beyond simply making it more durable.
+- Concept/task: Apply the relationship between expected lifespan, care, and aesthetic investment to a concrete product decision. Distinct from cohesion versus clutter and balancing simplicity with information; this relationship has not previously been assessed.
+- Outcome: Completed with hints; independently explained the general priority and, after a prompt for a concrete choice, proposed a specific visual direction with attention to materials and craftsmanship. Follow-up supported specificity rather than correcting the concept.
+
+### Additional session, 4 — Bayes: evidence that does not distinguish groups
+
+- Source: [[Learning/Bayes Theorem.md]]
+- Question: A club has more painters than musicians, and 30% of each group wears glasses. You randomly select a member, then learn that they wear glasses. Should this new information change your estimate of whether they are a painter? Explain without calculating exact probabilities; assume everyone belongs to exactly one group.
+- Concept/task: Judge whether evidence shared equally often by two groups changes their relative probabilities, with unequal initial group sizes. Advances the independently completed September 16 numerical base-rate task to qualitative reasoning about the informativeness of evidence, after the seven-day minimum interval.
+- Outcome: Completed with hints; initially confused identifying the more likely group with assessing a change in probability. Needed a before/after hint, concrete group sizes, and a final interpretation prompt. Correctly calculated the comparison and then revised the conclusion. Independent qualitative explanation remains unassessed; revisit with support after the minimum interval.
+
+### Additional session, 5 — Self-improvement: expectations across generations
+
+- Source: [[Learning/Self Improvement and Toxicity.md]]
+- Question: Suppose each generation of parents expects their children to exceed what they themselves achieved. Based on your notes, how could this create increasing pressure even if each generation meets its goals, and where could someone interrupt that cycle?
+- Concept/task: Trace an intergenerational cycle of expectations and identify a possible intervention. Distinct from the September 17 task about responding to an individual's missed goal and performance-contingent self-worth; this social mechanism has not previously been assessed.
+- Outcome: Independent; explained how expectations escalate across successful generations and identified a relevant point for interrupting the cycle. Intervention was general rather than a detailed plan, which was not requested.
+
+### Additional session, 6 — Epistemology: scope of skeptical doubt
+
+- Source: [[Learning/Epistemology.md]]
+- Question: One person doubts a particular weather forecast because its source is unreliable. Another doubts whether any of their experiences can establish knowledge of the outside world. Which illustrates local skepticism and which illustrates global skepticism, and why wouldn't resolving the first person's concern necessarily resolve the second person's concern?
+- Concept/task: Classify skeptical concerns by scope and explain why addressing a specific source's reliability may not address a broader challenge. Distinct from assessing grounds for a true belief and distinguishing a skeptical possibility from an assertion of actuality; scope has not previously been assessed.
+- Outcome: Independent; correctly classified both concerns and explained why the broader challenge also questions the evidence offered to address it. Whether such skepticism is ultimately resolvable was not assessed.
+
+### Additional session, 7 — Calculus: changing a value at one point
+
+- Source: [[Learning/Calculus.md]]
+- Question: Two functions match everywhere except at x = 3. One is undefined there; the other equals 20. If the first function has a limit of 6 as x approaches 3, what is the second function's limit, and why?
+- Concept/task: Explain whether altering a function at a single point changes its limit by comparing two functions with matching nearby behavior. Supported revisit of the September 16 incomplete conceptual explanation after the seven-day minimum interval; replaces algebraic calculation with a comparison that directly probes the unassessed distinction.
+- Outcome: Completed with hints; independently supplied the correct numerical response and, after a reminder to explain, connected the matching nearby behavior with the limit despite the isolated differing value. No substantive conceptual hint was needed. Informal geometric wording; formal definitions were not assessed.
+
+### Additional session, 8 — Learning: constructing a self-explanation prompt
+
+- Source: [[Learning/How Learning Works.md]]
+- Question: Your notes describe self-explanation as a study strategy. Choose one idea from today's quiz and write a self-explanation question about it, rather than a question that only asks you to recall a fact. What would answering your question make you think through?
+- Concept/task: Construct a study prompt that elicits explanation and identify the thinking it requires, using a previously discussed idea as material rather than retesting that idea. Distinct from diagnosing retention, working-memory demands, and interpreting the curiosity experiment; prompt construction has not previously been assessed.
+- Outcome: Independent; supplied a mechanism-focused prompt and explained how answering it requires relating components and concepts rather than retrieving an isolated fact.
+
+### Additional session, 9 — Creativity: turning ideas into a working process
+
+- Source: [[Learning/Creativity.md]]
+- Question: A creator knows what they like and has plenty of inspiration, but their projects repeatedly stall halfway through. Based on your creativity notes, what else might they need, and what is one concrete change they could make to how they work?
+- Concept/task: Diagnose a possible gap between taste/inspiration and execution, then propose a concrete workflow change. Organization and process have not previously been assessed directly; distinct from distinguishing inspiration from imitation or explaining the value of constraints.
+- Outcome: Skipped; user needed to leave and requested ending the quiz before answering. Understanding not assessed.

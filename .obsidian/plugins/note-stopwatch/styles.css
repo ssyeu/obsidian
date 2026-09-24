@@ -1,0 +1,108 @@
+.note-stopwatch {
+  padding: 10px 16px !important;
+  overflow-y: auto;
+  font-family: var(--font-interface);
+}
+.note-stopwatch .ns-dial {
+  border: none;
+  border-radius: 0;
+  width: 100%;
+  aspect-ratio: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 6px 0;
+  gap: 2px;
+}
+.note-stopwatch .ns-eyebrow {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: .12em;
+  color: var(--text-muted);
+}
+.note-stopwatch .ns-time {
+  font-size: 42px;
+  line-height: 1.05;
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-monospace);
+  font-weight: 600;
+  color: var(--text-normal);
+  letter-spacing: -.03em;
+}
+.note-stopwatch .ns-controls { display: flex; gap: 7px; margin-bottom: 8px; }
+.note-stopwatch .ns-controls button {
+  flex: 1;
+  min-width: 0;
+  padding: 6px;
+  font-size: 12px;
+  border-radius: 7px;
+}
+.note-stopwatch button:disabled { opacity: .4; cursor: default; }
+.note-stopwatch .ns-current {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 9px;
+  padding: 8px 12px;
+  margin-bottom: 8px;
+}
+.note-stopwatch .ns-note-name {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 4px 0;
+  overflow-wrap: anywhere;
+}
+.note-stopwatch .ns-note-time {
+  color: var(--text-muted);
+  font-size: 10px;
+  line-height: 1.6;
+  font-variant-numeric: tabular-nums;
+}
+.note-stopwatch .ns-breakdown-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.note-stopwatch .ns-breakdown-heading select {
+  font-size: 10px;
+  max-width: 120px;
+  height: 26px;
+}
+.note-stopwatch .ns-notes { display: flex; flex-direction: column; }
+.note-stopwatch .ns-note-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.note-stopwatch .ns-note-link {
+  display: block;
+  flex: 1;
+  height: auto;
+  min-width: 0;
+  background: none;
+  box-shadow: none;
+  border: none;
+  padding: 2px 0;
+  text-align: left;
+  font-size: 11px;
+  color: var(--text-muted);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.note-stopwatch .ns-note-link:hover,
+.note-stopwatch .ns-note-row.is-current .ns-note-link { color: var(--text-accent); }
+.note-stopwatch .ns-row-time { font-size: 11px; font-variant-numeric: tabular-nums; flex-shrink: 0; }
+.note-stopwatch .ns-empty,
+.note-stopwatch .ns-footer { font-size: 10px; line-height: 1.6; color: var(--text-faint); }
+.note-stopwatch .ns-empty { padding: 6px 0; }
+.note-stopwatch .ns-footer { padding-top: 6px; }
+.note-stopwatch [hidden] { display: none !important; }

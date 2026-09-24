@@ -1,0 +1,28 @@
+{
+  "id": "conv-1790205562741-w3jy5zhln",
+  "providerId": "codex",
+  "title": "Explain deflationism in mereology",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790205562752,
+  "lastActivityAt": 1790205579792,
+  "sessionId": "01a0d091-140b-7272-b0dc-4604aaf5dda6",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a0d091-140b-7272-b0dc-4604aaf5dda6",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/09/23/rollout-2026-09-23T18-19-23-01a0d091-140b-7272-b0dc-4604aaf5dda6.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Ontology.md",
+  "usage": {
+    "inputTokens": 16942,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 11904,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16942,
+    "percentage": 7,
+    "model": "gpt-6-astra"
+  }
+}
