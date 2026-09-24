@@ -235,4 +235,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/CS50.md]]
 - Question: Two programs read exactly the same sequence of bits. One displays a number; the other displays a color. Does that necessarily mean one program has a bug? Explain how the same bits could produce these different outputs.
 - Concept/task: Distinguish stored bits from their interpretation; evaluate whether different representations imply an error. Untested concept, distinct from control flow, stacks, and dictionary lookup.
+- Outcome: Independent; clearly distinguished interpretations of the same stored data and supplied a relevant illustrative comparison.
+
+### Additional session, 3 — Aesthetics: expected lifespan and design priorities
+
+- Source: [[Learning/Aesthetics.md]]
+- Question: Your aesthetics notes connect how long people expect to keep an object with how it is designed. If a company starts treating a lamp as something people will keep for decades rather than replace next year, how might its visual design priorities change? Give one concrete example beyond simply making it more durable.
+- Concept/task: Apply the relationship between expected lifespan, care, and aesthetic investment to a concrete product decision. Distinct from cohesion versus clutter and balancing simplicity with information; this relationship has not previously been assessed.
 - Outcome: Pending.
