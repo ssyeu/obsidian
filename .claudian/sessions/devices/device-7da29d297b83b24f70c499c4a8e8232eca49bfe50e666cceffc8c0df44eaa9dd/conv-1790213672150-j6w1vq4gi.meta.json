@@ -4,7 +4,7 @@
   "title": "Limit daily quiz to Learning notes",
   "titleGenerationStatus": "success",
   "createdAt": 1790213672152,
-  "lastActivityAt": 1790213772261,
+  "lastActivityAt": 1790213786022,
   "sessionId": "01a0d10c-ce0e-7451-bae5-1117393ff6eb",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,12 +16,12 @@
   },
   "linkedContentPath": "Ontology.md",
   "usage": {
-    "inputTokens": 26659,
+    "inputTokens": 26775,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 21120,
+    "cacheReadInputTokens": 26496,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 26659,
+    "contextTokens": 26775,
     "percentage": 10,
     "model": "gpt-6-astra"
   }

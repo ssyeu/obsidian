@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "gpt-6-astra",
   "thinkingBudget": "off",
-  "effortLevel": "medium",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -316,7 +316,7 @@
   },
   "savedProviderEffort": {
     "claude": "high",
-    "codex": "medium"
+    "codex": "high"
   },
   "savedProviderServiceTier": {
     "codex": "default"

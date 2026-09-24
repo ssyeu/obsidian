@@ -217,3 +217,15 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Question: Your notes connect the House of Commons’ opposing benches with its adversarial style. Suppose the benches were rearranged into a circle, but the same politicians and questioning rules remained. What might change about debate, and why might the seating change alone have limited effects?
 - Concept/task: Apply the relationship between physical institutional design and political interaction; distinguish the possible influence of layout from that of unchanged participants and procedures. Untested concept; distinct from economic growth and concessions.
 - Outcome: Skipped; user requested ending the quiz early before answering. Understanding not assessed.
+
+### Additional session — 2026-09-23
+
+- History consulted: all available entries for September 16–23, including earlier performance. No missing sessions inferred.
+- Selection: Learning/ notes only; exclude Media/ and the linked root-level Ontology note. Prioritize distinct, untested concepts with application questions; continue until the user chooses to stop.
+
+### Additional session, 1 — Watches: controlled energy release
+
+- Source: [[Learning/How watches work.md]]
+- Question: A mechanical watch has a wound mainspring and connected gears, but its pallet fork no longer stops the escape wheel. Why would stored energy and gears alone not be enough for the watch to keep time properly?
+- Concept/task: Diagnose a failure of controlled energy release; distinguish powering and transmitting movement from regulating it. Distinct from gear-ratio packaging and automatic winding; regulation has not previously been assessed.
+- Outcome: Pending.

@@ -229,9 +229,13 @@
                     {
                       "tabId": "tab-1790213657697-8qs4jq3",
                       "conversationId": "conv-1790213672150-j6w1vq4gi"
+                    },
+                    {
+                      "tabId": "tab-1790213785912-uelyjec",
+                      "conversationId": "conv-1790213789468-wq2sda1hn"
                     }
                   ],
-                  "activeTabId": "tab-1790213657697-8qs4jq3"
+                  "activeTabId": "tab-1790213785912-uelyjec"
                 }
               },
               "icon": "bot",
