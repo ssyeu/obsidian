@@ -277,4 +277,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/How Learning Works.md]]
 - Question: Your notes describe self-explanation as a study strategy. Choose one idea from today's quiz and write a self-explanation question about it, rather than a question that only asks you to recall a fact. What would answering your question make you think through?
 - Concept/task: Construct a study prompt that elicits explanation and identify the thinking it requires, using a previously discussed idea as material rather than retesting that idea. Distinct from diagnosing retention, working-memory demands, and interpreting the curiosity experiment; prompt construction has not previously been assessed.
+- Outcome: Independent; supplied a mechanism-focused prompt and explained how answering it requires relating components and concepts rather than retrieving an isolated fact.
+
+### Additional session, 9 — Creativity: turning ideas into a working process
+
+- Source: [[Learning/Creativity.md]]
+- Question: A creator knows what they like and has plenty of inspiration, but their projects repeatedly stall halfway through. Based on your creativity notes, what else might they need, and what is one concrete change they could make to how they work?
+- Concept/task: Diagnose a possible gap between taste/inspiration and execution, then propose a concrete workflow change. Organization and process have not previously been assessed directly; distinct from distinguishing inspiration from imitation or explaining the value of constraints.
 - Outcome: Pending.
