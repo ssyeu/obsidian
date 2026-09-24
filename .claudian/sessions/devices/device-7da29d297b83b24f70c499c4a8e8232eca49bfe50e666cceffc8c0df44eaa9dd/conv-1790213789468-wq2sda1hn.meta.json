@@ -4,7 +4,7 @@
   "title": "Start daily learning quiz",
   "titleGenerationStatus": "success",
   "createdAt": 1790213789468,
-  "lastActivityAt": 1790213817696,
+  "lastActivityAt": 1790213860442,
   "sessionId": "01a0d10e-984f-7112-a05c-77495aa417e5",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "Ontology.md",
   "usage": {
-    "inputTokens": 18040,
+    "inputTokens": 19503,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 17536,
+    "cacheReadInputTokens": 19072,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 18040,
-    "percentage": 7,
+    "contextTokens": 19503,
+    "percentage": 8,
     "model": "gpt-6-astra"
   }
 }

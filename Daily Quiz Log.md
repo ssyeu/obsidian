@@ -228,4 +228,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/How watches work.md]]
 - Question: A mechanical watch has a wound mainspring and connected gears, but its pallet fork no longer stops the escape wheel. Why would stored energy and gears alone not be enough for the watch to keep time properly?
 - Concept/task: Diagnose a failure of controlled energy release; distinguish powering and transmitting movement from regulating it. Distinct from gear-ratio packaging and automatic winding; regulation has not previously been assessed.
+- Outcome: Independent; correctly predicted the consequence of the stated failure and explained why the remaining components would not maintain proper timing.
+
+### Additional session, 2 — CS50: interpreting bits
+
+- Source: [[Learning/CS50.md]]
+- Question: Two programs read exactly the same sequence of bits. One displays a number; the other displays a color. Does that necessarily mean one program has a bug? Explain how the same bits could produce these different outputs.
+- Concept/task: Distinguish stored bits from their interpretation; evaluate whether different representations imply an error. Untested concept, distinct from control flow, stacks, and dictionary lookup.
 - Outcome: Pending.
