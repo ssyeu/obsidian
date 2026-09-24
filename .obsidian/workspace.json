@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2026-09-23.md",
+                "file": "Learning/Aesthetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-23"
+              "title": "Aesthetics"
             }
           }
         ]
@@ -274,9 +274,9 @@
   },
   "active": "2cf9354916d1fb7b",
   "lastOpenFiles": [
+    "Notes/2026-09-23.md",
     "Ontology.md",
     "Daily Quiz Log.md",
-    "Notes/2026-09-23.md",
     "Learning/Bayes Theorem.md",
     "Learning/About Hermes.md",
     "Learning/Calculus.md",
