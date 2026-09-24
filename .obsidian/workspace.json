@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
+                "file": "Learning/Ontology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information Doesn't Want to Be Free by Cory Doctorow"
+              "title": "Ontology"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "1e9066e18acc4251",
         "type": "tabs",
-        "dimension": 62.15943491422805,
+        "dimension": 60.08403361344538,
         "children": [
           {
             "id": "e4369796318d0499",
@@ -85,7 +85,7 @@
       {
         "id": "d99deb74c062cda7",
         "type": "tabs",
-        "dimension": 37.84056508577195,
+        "dimension": 39.91596638655462,
         "children": [
           {
             "id": "5e827f9a0fb486cc",
@@ -95,6 +95,16 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "a2c9425b32f8fb50",
+            "type": "leaf",
+            "state": {
+              "type": "note-stopwatch-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Stopwatch"
             }
           },
           {
@@ -273,11 +283,14 @@
       "tasknotes:Open Kanban board": false,
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "obsidian-git:Open Git source control": false,
+      "note-stopwatch:Open stopwatch": false
     }
   },
   "active": "e99bd193efb0c922",
   "lastOpenFiles": [
+    "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
     "Media/The Anthropocene Reviewed by John Green.md",
     "Media/The King in Yellow by Robert W. Chambers.md",
     "Learning/Epistemology.md",
@@ -288,7 +301,6 @@
     "Learning/Aesthetics.md",
     "Learning/Dieter Rams.md",
     "Learning/CS50.md",
-    "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
     "Media/A Mathematician Reads the Newspaper by John Allen Paulos.md",
     "Learning/How Learning Works.md",
     "Learning/Self Improvement and Toxicity.md",
