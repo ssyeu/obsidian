@@ -270,4 +270,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Calculus.md]]
 - Question: Two functions match everywhere except at x = 3. One is undefined there; the other equals 20. If the first function has a limit of 6 as x approaches 3, what is the second function's limit, and why?
 - Concept/task: Explain whether altering a function at a single point changes its limit by comparing two functions with matching nearby behavior. Supported revisit of the September 16 incomplete conceptual explanation after the seven-day minimum interval; replaces algebraic calculation with a comparison that directly probes the unassessed distinction.
-- Outcome: Incomplete; independently supplied the correct numerical response, but the requested conceptual explanation remains unassessed. Follow-up asks why the differing value at the point does not change the proposed limit; awaiting response.
+- Outcome: Completed with hints; independently supplied the correct numerical response and, after a reminder to explain, connected the matching nearby behavior with the limit despite the isolated differing value. No substantive conceptual hint was needed. Informal geometric wording; formal definitions were not assessed.
+
+### Additional session, 8 — Learning: constructing a self-explanation prompt
+
+- Source: [[Learning/How Learning Works.md]]
+- Question: Your notes describe self-explanation as a study strategy. Choose one idea from today's quiz and write a self-explanation question about it, rather than a question that only asks you to recall a fact. What would answering your question make you think through?
+- Concept/task: Construct a study prompt that elicits explanation and identify the thinking it requires, using a previously discussed idea as material rather than retesting that idea. Distinct from diagnosing retention, working-memory demands, and interpreting the curiosity experiment; prompt construction has not previously been assessed.
+- Outcome: Pending.
