@@ -263,4 +263,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Epistemology.md]]
 - Question: One person doubts a particular weather forecast because its source is unreliable. Another doubts whether any of their experiences can establish knowledge of the outside world. Which illustrates local skepticism and which illustrates global skepticism, and why wouldn't resolving the first person's concern necessarily resolve the second person's concern?
 - Concept/task: Classify skeptical concerns by scope and explain why addressing a specific source's reliability may not address a broader challenge. Distinct from assessing grounds for a true belief and distinguishing a skeptical possibility from an assertion of actuality; scope has not previously been assessed.
+- Outcome: Independent; correctly classified both concerns and explained why the broader challenge also questions the evidence offered to address it. Whether such skepticism is ultimately resolvable was not assessed.
+
+### Additional session, 7 — Calculus: changing a value at one point
+
+- Source: [[Learning/Calculus.md]]
+- Question: Two functions match everywhere except at x = 3. One is undefined there; the other equals 20. If the first function has a limit of 6 as x approaches 3, what is the second function's limit, and why?
+- Concept/task: Explain whether altering a function at a single point changes its limit by comparing two functions with matching nearby behavior. Supported revisit of the September 16 incomplete conceptual explanation after the seven-day minimum interval; replaces algebraic calculation with a comparison that directly probes the unassessed distinction.
 - Outcome: Pending.
