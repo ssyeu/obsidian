@@ -249,4 +249,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Bayes Theorem.md]]
 - Question: A club has more painters than musicians, and 30% of each group wears glasses. You randomly select a member, then learn that they wear glasses. Should this new information change your estimate of whether they are a painter? Explain without calculating exact probabilities; assume everyone belongs to exactly one group.
 - Concept/task: Judge whether evidence shared equally often by two groups changes their relative probabilities, with unequal initial group sizes. Advances the independently completed September 16 numerical base-rate task to qualitative reasoning about the informativeness of evidence, after the seven-day minimum interval.
-- Outcome: Incomplete; recognized the relevance of unequal group sizes, but compared the resulting estimate with equal odds rather than with the estimate before receiving the new information. After a before/after comparison hint, continued to explain which group was more likely without assessing the change. Second hint supplies group sizes (20 painters, 10 musicians) and asks the user to compare proportions before and after the information; awaiting retry.
+- Outcome: Completed with hints; initially confused identifying the more likely group with assessing a change in probability. Needed a before/after hint, concrete group sizes, and a final interpretation prompt. Correctly calculated the comparison and then revised the conclusion. Independent qualitative explanation remains unassessed; revisit with support after the minimum interval.
+
+### Additional session, 5 — Self-improvement: expectations across generations
+
+- Source: [[Learning/Self Improvement and Toxicity.md]]
+- Question: Suppose each generation of parents expects their children to exceed what they themselves achieved. Based on your notes, how could this create increasing pressure even if each generation meets its goals, and where could someone interrupt that cycle?
+- Concept/task: Trace an intergenerational cycle of expectations and identify a possible intervention. Distinct from the September 17 task about responding to an individual's missed goal and performance-contingent self-worth; this social mechanism has not previously been assessed.
+- Outcome: Pending.
