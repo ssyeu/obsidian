@@ -242,4 +242,11 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 - Source: [[Learning/Aesthetics.md]]
 - Question: Your aesthetics notes connect how long people expect to keep an object with how it is designed. If a company starts treating a lamp as something people will keep for decades rather than replace next year, how might its visual design priorities change? Give one concrete example beyond simply making it more durable.
 - Concept/task: Apply the relationship between expected lifespan, care, and aesthetic investment to a concrete product decision. Distinct from cohesion versus clutter and balancing simplicity with information; this relationship has not previously been assessed.
+- Outcome: Completed with hints; independently explained the general priority and, after a prompt for a concrete choice, proposed a specific visual direction with attention to materials and craftsmanship. Follow-up supported specificity rather than correcting the concept.
+
+### Additional session, 4 — Bayes: evidence that does not distinguish groups
+
+- Source: [[Learning/Bayes Theorem.md]]
+- Question: A club has more painters than musicians, and 30% of each group wears glasses. You randomly select a member, then learn that they wear glasses. Should this new information change your estimate of whether they are a painter? Explain without calculating exact probabilities; assume everyone belongs to exactly one group.
+- Concept/task: Judge whether evidence shared equally often by two groups changes their relative probabilities, with unequal initial group sizes. Advances the independently completed September 16 numerical base-rate task to qualitative reasoning about the informativeness of evidence, after the seven-day minimum interval.
 - Outcome: Pending.
