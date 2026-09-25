@@ -135,28 +135,9 @@
               "icon": "timer",
               "title": "Stopwatch"
             }
-          },
-          {
-            "id": "6442896d7bcdee40",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-view"
-            }
-          },
-          {
-            "id": "fbb8a01d0b2b103d",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-stats-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-stats-view"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -316,17 +297,17 @@
       "note-stopwatch:Open stopwatch": false
     }
   },
-  "active": "cb755dfcb1230e8e",
+  "active": "a2c9425b32f8fb50",
   "lastOpenFiles": [
+    "Notes/python.md",
+    "Learning/Political Science.md",
     "Media/Teaching in the Age of AI - Jane Street.md",
     "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
     "Learning/Leetcode explanations.md",
-    "Learning/Political Science.md",
     "Learning/Ontology.md",
     "Media/The Anthropocene Reviewed by John Green.md",
     "Media/The King in Yellow by Robert W. Chambers.md",
     "Learning/Epistemology.md",
-    "Notes/python.md",
     "Notes",
     "README.md",
     "Learning/Aesthetics.md",
