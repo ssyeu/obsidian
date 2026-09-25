@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teaching in the Age of AI - Jane Street.md",
+                "file": "Learning/Political Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teaching in the Age of AI - Jane Street"
+              "title": "Political Science"
             }
           }
         ],
@@ -319,8 +319,8 @@
   },
   "active": "cb755dfcb1230e8e",
   "lastOpenFiles": [
+    "Media/Teaching in the Age of AI - Jane Street.md",
     "Media/Information Doesn't Want to Be Free by Cory Doctorow.md",
-    "Teaching in the Age of AI - Jane Street.md",
     "Learning/Leetcode explanations.md",
     "Learning/Political Science.md",
     "Learning/Ontology.md",
