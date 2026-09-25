@@ -5,4 +5,4 @@ The UK had a gradual process. House of commons was the oldest democratic space. 
 
 Starting to see elements od femocracy starting to slip in some countries thought to be solid democracies. Elements of curroption are, or well a list of things: Elections, the rule of law, corruiption, checks and balances, judiciary, media, and civil society.
 
-US: Decolonization and gradual democratization. Colonists wanted to be citizens not subjects. Citizens had
+US: Decolonization and gradual democratization. Colonists wanted to be citizens not subjects. Citizens had more rights than subjects. Taxation without representation thing. English tradition of the rule of law and the Enlightenment was in Americans. Finished the French and Indian War. Brits spent a lot of money on the war and wanted the colony to pay for it.
