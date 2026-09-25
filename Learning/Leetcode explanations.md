@@ -1,0 +1,5 @@
+[[comp sci]]
+Set is a data type that can't have duplicates! Useful thing to know. Can check len of a set vs the original to see if there are duplicates.
+Missing number: given a set between 0 and n find the missing number. Clever solution, you can add the list of number together and compare the expected sum, the difference is the number. This is neat! 
+Find all missing numbers: same as last problem but with multiple missing numbers and duplicates. We can make a set to get every unique number and check if set(x) + 1 = set(x+1) and if it doesn't, (x) + 1 would be a missing number. Ah he uses the length of the set to see what the max number would be. for i in range (1, len(nums) + 1): and he adds the missing numbers to a diff set.
+Two Sum: we could go through each number individually and find the sum and see if it's a target. We can also subtract a number from the target and check the list for that num. He talks about hashmaps but I hve no clue what he is talking about.
