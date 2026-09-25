@@ -18,3 +18,5 @@ Digital locks are worse than nothing. It turns legitimate buyers into people tha
 Obscurity is a far greater threat to artists than piracy. Your art can be as profitable as possible but it will still make 0 dollars if nobody knows about it. On the other hand fame itself can't pay for anything. You have to monetize it. You need both to be successful, but the book says fame is more important to get. You have to be known to monetize. You can monetize as a no name all you want and it won't matter.
 
 It's impossible to stop the internet from spreading copies. It has to make copies to do anything. I think this point is kind of arbritrary, like it's similar to saying you have to make a copy of something in your head before you wriet it down. Like I guess it's technically true but really?
+
+Now is the time where creators have the most opportunity to get seen by audiences. There are so many competitve platforms that digital intermeediaries don't have the power to block and make whoever
