@@ -1,2 +1,2 @@
 [[comp sci]]
-Think on paper and what programs mean and what does it evaluate. Don't just change things randomly until it wor
+Think on paper and what programs mean and what does it evaluate. Don't just change things randomly until it works, think about it and how it should work. Think on paper. Getting feedback is essential to learning. Mastery learning is showing mastery before moving on. Trying something until you master it. LLMs can give good feedback but it can also lead people astray. Teachers should have a variety of experiences. THey shouldn't just be stuck in one corn
