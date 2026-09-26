@@ -102,7 +102,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 2 — CS50: stack behavior
 
-- Source: [[Learning/CS50.md]]
+- Source: [[CS50]]
 - Question: An app stores each new action on a stack for its Undo feature. You type a title, insert a picture, then change the background color. If you press Undo twice, which actions should be undone, in what order, and why is a stack a good fit for this feature?
 - Concept/task: Apply last-in-first-out behavior to an action sequence and explain the match between a data structure and an interface feature.
 - Outcome: Independent; correctly traced both undo operations and explained why the most recent action should be removed first.
@@ -130,7 +130,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 6 — CS50: choosing a data structure for lookup
 
-- Source: [[Learning/CS50.md]]
+- Source: [[CS50]]
 - Question: You’re making a contacts app that needs to retrieve a person’s phone number when given their unique username. Which data structure from your notes fits this task, and how would you organize each entry?
 - Concept/task: Select a data structure for lookup and map the scenario’s information to its organizing components; distinct from tracing stack behavior.
 - Outcome: Independent; selected a dictionary and correctly associated each unique username with a phone number.
@@ -199,7 +199,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 5 — CS50: combining loops and conditionals
 
-- Source: [[Learning/CS50.md]]
+- Source: [[CS50]]
 - Question: You want a program to check every number in a list and display only those greater than 10. Write simple pseudocode for this, then explain the different jobs of the loop and the conditional in your solution.
 - Concept/task: Construct a short algorithm combining iteration with selection and explain each control structure’s role; distinct from stacks and dictionary lookup.
 - Outcome: Completed with hints. Initially supplied a loop and relevant condition but omitted the requested explanation. After a follow-up, explained both roles and proposed a simpler output approach. Exact programming-language syntax was not assessed.
@@ -233,7 +233,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### Additional session, 2 — CS50: interpreting bits
 
-- Source: [[Learning/CS50.md]]
+- Source: [[CS50]]
 - Question: Two programs read exactly the same sequence of bits. One displays a number; the other displays a color. Does that necessarily mean one program has a bug? Explain how the same bits could produce these different outputs.
 - Concept/task: Distinguish stored bits from their interpretation; evaluate whether different representations imply an error. Untested concept, distinct from control flow, stacks, and dictionary lookup.
 - Outcome: Independent; clearly distinguished interpretations of the same stored data and supplied a relevant illustrative comparison.
