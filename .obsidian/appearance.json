@@ -4,5 +4,6 @@
   "textFontFamily": "Times New Roman,Helvetica",
   "interfaceFontFamily": "Helvetica",
   "monospaceFontFamily": "Helvetica",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 10
 }
