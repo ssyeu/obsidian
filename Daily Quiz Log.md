@@ -54,7 +54,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 6 — Calculus: a limit at an undefined point
 
-- Source: [[Learning/Calculus.md]]
+- Source: [[2. Calculus]]
 - Question: For f(x) = (x² − 4)/(x − 2), a student says, “The function is undefined at x = 2, so its limit there cannot exist.” How would you evaluate that claim and find the limit?
 - Concept/task: Calculate a limit and explain the distinction between behavior at a point and nearby behavior.
 - Outcome: Incomplete; numerical response was correct, but the user skipped the requested conceptual explanation after a hint. Do not mark the explanation as demonstrated or incorrect. Revisit explanatory reasoning after the minimum interval.
@@ -137,7 +137,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 7 — Calculus: rate and accumulation
 
-- Source: [[Learning/Calculus.md]]
+- Source: [[2. Calculus]]
 - Question: Water flows into an empty tank at 2 liters per minute for 3 minutes, then 4 liters per minute for 2 minutes. If you graph the flow rate against time, would a derivative or an integral give the total water added? Explain what that quantity represents on the graph and calculate the total.
 - Concept/task: Select the calculus operation for accumulation from a rate graph, connect it to graphical meaning, and calculate a simple piecewise-constant total; distinct from the prior limit task.
 - Outcome: Completed with hints; independently selected the operation, calculated the total, and distinguished the derivative’s role. Supplied the graphical interpretation after two prompts; physical meaning was clear earlier.
@@ -192,7 +192,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 4 — Calculus: value versus instantaneous change
 
-- Source: [[Learning/Calculus.md]]
+- Source: [[2. Calculus]]
 - Question: Two curves both pass through (2, 5). At that point, one slopes upward and the other slopes downward. A student says, “Their derivatives at x = 2 must be equal because their values there are equal.” Is that right? Explain what you can tell about each derivative without knowing the curves’ formulas.
 - Concept/task: Distinguish a function’s value from its local slope and infer derivative signs from graphical behavior; distinct from limits and accumulation.
 - Outcome: Independent; correctly rejected the claim and distinguished the derivatives using the given slope directions.
@@ -268,7 +268,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### Additional session, 7 — Calculus: changing a value at one point
 
-- Source: [[Learning/Calculus.md]]
+- Source: [[2. Calculus]]
 - Question: Two functions match everywhere except at x = 3. One is undefined there; the other equals 20. If the first function has a limit of 6 as x approaches 3, what is the second function's limit, and why?
 - Concept/task: Explain whether altering a function at a single point changes its limit by comparing two functions with matching nearby behavior. Supported revisit of the September 16 incomplete conceptual explanation after the seven-day minimum interval; replaces algebraic calculation with a comparison that directly probes the unassessed distinction.
 - Outcome: Completed with hints; independently supplied the correct numerical response and, after a reminder to explain, connected the matching nearby behavior with the limit despite the isolated differing value. No substantive conceptual hint was needed. Informal geometric wording; formal definitions were not assessed.
