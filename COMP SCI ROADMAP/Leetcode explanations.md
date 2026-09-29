@@ -11,4 +11,4 @@ Check to see if there are elements you already added to a list before you check 
 
 How many numbers smaller than current number: if we do a sorted list we could just check len of nums in front of it to see how many are smaller. Enumerate gives an index and value, we can sort the list, use enumerate to find the value and index and the index will be the number of numbers in front of it. We add it to a set so same values get the same answer. Then we look through the original nums and compare it with the dic and put it in a list and return it. Trick: sorting gives the index which tells how many numbers are smaller than it with enumberate. Dicts let us use that to assign values in the original order using the original list of nums.
 
-Minimum Time 
+Minimum time visiting all points. we need to move a by 1 to c and b by 1 to do except if either equals their parter and at every iteration we do n += 1 for time. The difference between the partners the greater one is the 
