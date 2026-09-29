@@ -4,4 +4,4 @@ Linguistics is the study of how humans create and understand language even if th
 
 Levels of structure from smallest to largest:
 
-Phonetics: the study of speech sounds and their physiological production and acoustic qualities. MY first impression is not all languages have the same phonetics. Ariculatory - how the body makes the sound. 
+Phonetics: the study of speech sounds and their physiological production and acoustic qualities. MY first impression is not all languages have the same phonetics. Articulatory - how the body makes the sound. Acoustic - the physics of the sound wave. Auditory - how the ear and brain take it in. Basic things have so much depth. Where does the air to make noises come from? 
