@@ -2,4 +2,6 @@ https://www.youtube.com/watch?v=KBcnw7PR_rw&t=436s
 
 Linguistics is the study of how humans create and understand language even if they have never head of the exact phrases used before. Linguists see what people do and derive from that, not impose the rules. If native speakers say something its data, not an error. Language is arbitrary, no link between word and meanings and its productive, infinite new sentences from finite parts. Its discrete, built from a small set of discrete and combinable units. Duality of patterning, meaningless sound units combine to meaningful ones. Displacement, you can talk about things not here and now which most animals can't do. Evidence comes from native speakers, large bodies of recorded speech and text, working out systems of language from scratch with a native speaker, and experiments.
 
-Levels of structure
+Levels of structure from smallest to largest:
+
+Phonetics: the study of speech sounds and their physiological production and acoustic qualities. MY first impression is not all languages have the same phonetics. Ariculatory - how the body makes the sound. 
