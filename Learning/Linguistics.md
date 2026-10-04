@@ -19,4 +19,4 @@ Pragmatics: The study of how context contributes to meaning. We communicate beyo
 
 Overview of structures: Phonetics, sounds, build into phonology, systems, build into morphology, words, build into syntax, sentences, that have meaning, semantics, used in context, pragmatics. 
 
-Typology classifies languages by structural features like word order,
+Typology classifies languages by structural features like word order. Very few universals are hard truths and defining them and how true they are and why is one of the fields most lively debates.
