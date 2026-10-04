@@ -17,5 +17,6 @@ Semantics: the study of linguistic meaning, how meaning composes, how a sentence
 
 Pragmatics: The study of how context contributes to meaning. We communicate beyond the words. Deixis, the use of words or phrases to refer to a particular time, place, or person relative to the context of the utterance. Words actually mean something, saying you are now married creates a marriage, it doesn't just say it does. Sentences have 3 acts, Locutionary Act: the word themselves, Illoctuionary Act: The act you're performing by saying them, Perlocutionary Act: the effect it has on the listener. Can you pass the salt doesn't just ask if your arms can physically move the salt or not, its a request and people instantly treat it as one. Speakers take turns with gaps of about 2/3 of a second, and listeners must be projecting the end of the speakers turn before they get there to start processing the next sentences.
 
-Overview of structures: Phonetics, sounds, build into phonology, systems, build into morphology, words, build into syntax, sentences, that have meaning, semantics, used in context, pragmatics.``
-```
+Overview of structures: Phonetics, sounds, build into phonology, systems, build into morphology, words, build into syntax, sentences, that have meaning, semantics, used in context, pragmatics. 
+
+Typology classifies languages by structural features like word order,
