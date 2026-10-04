@@ -171,7 +171,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 1 — Political science: economic change and political concessions
 
-- Source: [[Learning/Political Science.md]]
+- Source: [[Comparative Politics]]
 - Question: A country becomes wealthier, but political power stays with hereditary elites. Based on your political science notes, why wouldn’t economic growth alone guarantee democratization, and what could make those elites willing to share power?
 - Concept/task: Distinguish economic change from political decision-making; explain incentives for political concessions in a hypothetical situation.
 - Outcome: Completed with hints. Independently explained a cost-based incentive for concessions. After a prompt challenging the assumption that gains must benefit only existing elites, distinguished economic influence from political power. Other possible routes to concessions were not assessed.
@@ -213,7 +213,7 @@ Persistent history for daily quizzes. Read alongside [[AGENTS.md]] before select
 
 ### 7 — Political science: institutional design and behavior
 
-- Source: [[Learning/Political Science.md]]
+- Source: [[Comparative Politics]]
 - Question: Your notes connect the House of Commons’ opposing benches with its adversarial style. Suppose the benches were rearranged into a circle, but the same politicians and questioning rules remained. What might change about debate, and why might the seating change alone have limited effects?
 - Concept/task: Apply the relationship between physical institutional design and political interaction; distinguish the possible influence of layout from that of unchanged participants and procedures. Untested concept; distinct from economic growth and concessions.
 - Outcome: Skipped; user requested ending the quiz early before answering. Understanding not assessed.
