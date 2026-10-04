@@ -4,7 +4,7 @@
   "title": "Explain Grimm's law",
   "titleGenerationStatus": "success",
   "createdAt": 1791078767173,
-  "lastActivityAt": 1791079186328,
+  "lastActivityAt": 1791079217572,
   "sessionId": "01a1049d-1c2c-7d20-be5c-d483623d11a4",
   "selectedModel": "gpt-6-astra",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "Learning/Linguistics.md",
   "usage": {
-    "inputTokens": 15177,
+    "inputTokens": 28290,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 13568,
+    "cacheReadInputTokens": 24576,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 15177,
-    "percentage": 6,
+    "contextTokens": 28290,
+    "percentage": 11,
     "model": "gpt-6-astra"
   }
 }
