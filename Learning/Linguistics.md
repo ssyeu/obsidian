@@ -13,4 +13,4 @@ Morphology: the study of how words are formed and how they relate to one another
 
 Syntax: the study of how words and morphemes combine to form well-formed larger units such as phrases and sentences. Sentences have hidden hierarchical structure instead of being flat and plain. Phrases group with phrases within groups of phrases like nested boxes. Syntax can also be recursive and create an infinite loop. Finite words can create infinite sentences. Syntax and meaning are different. You can have a sentence with propers syntax while it's completely meaningless. Words that are related to each other don't have to be right next to each other, there can be distance between them in a sentence. Words fit together in sentences the way morphemes fit together in words.
 
-Semantics: the study of linguistic meaning, how meaning composes, how a sentence com
+Semantics: the study of linguistic meaning, how meaning composes, how a sentence composes meaning from its part. There is entailment, one sentence could imply another sentence is true. Have you stopped smoking implies that you used to smoke.
