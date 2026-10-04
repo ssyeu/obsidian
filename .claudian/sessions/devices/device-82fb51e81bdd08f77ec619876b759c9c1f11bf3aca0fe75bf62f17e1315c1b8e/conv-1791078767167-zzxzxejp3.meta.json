@@ -1,0 +1,28 @@
+{
+  "id": "conv-1791078767167-zzxzxejp3",
+  "providerId": "codex",
+  "title": "Explain Grimm's law",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791078767173,
+  "lastActivityAt": 1791078781246,
+  "sessionId": "01a1049d-1c2c-7d20-be5c-d483623d11a4",
+  "selectedModel": "gpt-6-astra",
+  "providerState": {
+    "threadId": "01a1049d-1c2c-7d20-be5c-d483623d11a4",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/home/syeu/.codex/sessions/2026/10/03/rollout-2026-10-03T20-52-47-01a1049d-1c2c-7d20-be5c-d483623d11a4.jsonl",
+    "transcriptRootPath": "/home/syeu/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Learning/Linguistics.md",
+  "usage": {
+    "inputTokens": 13717,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12032,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 13717,
+    "percentage": 5,
+    "model": "gpt-6-astra"
+  }
+}
