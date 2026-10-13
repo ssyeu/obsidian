@@ -1,0 +1,1 @@
+I like the aspect ratio, it feels retro but close and personal while still having space. Hand held shots mixed with the super nice looking ones, that variety that was mentioned earlier. Variety is a friend. Mixed in some chill kind of unrelated footage but it shows him as human too. It t
