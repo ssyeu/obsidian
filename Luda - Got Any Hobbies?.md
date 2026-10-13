@@ -1,1 +1,1 @@
-I think this video was super well made, it's short and sweet and conveys its message really well, its a story and it conveys that well too. 
+I think this video was super well made, it's short and sweet and conveys its message really well, its a story and it conveys that well too. It's more than the sum of it's parts and it offers more to the viewer than just telling that the creator wasn't into something and was into it. It's also super well shot and incorporates other people into it really well. It makes it feel like this person is a part of 
