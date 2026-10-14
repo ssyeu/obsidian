@@ -18,4 +18,7 @@ Most people don't understand how anything around them works:
 * Do you know how the simple things around you work?
 * Do I know that?
 We should learn more about the things around us:
-* 
+* Learning about the world around us helps us understand it better
+* It let's us interpret more things around us easier
+Starting is the most important part no matter what you do:
+* Just start, even if you suck at learn
