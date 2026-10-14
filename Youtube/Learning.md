@@ -21,4 +21,8 @@ We should learn more about the things around us:
 * Learning about the world around us helps us understand it better
 * It let's us interpret more things around us easier
 Starting is the most important part no matter what you do:
-* Just start, even if you suck at learn
+* Just start, even if you suck at learning starting puts you ahead of the 99% that don't
+Learning doesn't mean purely academic learning:
+* You should be more curious about the things that you like
+* Learn about something that you enjoy
+* It doesn't 
