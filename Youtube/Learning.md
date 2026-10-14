@@ -8,4 +8,6 @@ Things I want to communicate:
 * Most people don't understand how anything around them works
 * We should learn more about the things around us
 * Starting is the most important part no matter what you do
-* Being curious about things should be t
+* You should be curious about things around you like
+* Learning doesn't mean purely academic learning
+* 
