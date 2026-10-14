@@ -3,4 +3,9 @@ Learning in a world where we know and understand less and less: I think this con
 
 Critiques: this sounds overly formal, it doesn't sound like me but like a caricature of what I would sound like. It doesn't feel like me that would say this it also feels overly scripted. I think I need to freestyle it a bit more? Maybe I do more on the spot to make it feel like I'm more on the spot because I am, but I need to be very familiar with my topic and what I want to learn then. Maybe I just start with a bullet list of things I want to say and the energy I want to say them with.
 
-**
+
+Things I want to communicate:
+* Most people don't understand how anything around them works
+* We should learn more about the things around us
+* Starting is the most important part no matter what you do
+* Being curious about things should be t
