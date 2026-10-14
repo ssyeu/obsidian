@@ -10,4 +10,6 @@ Things I want to communicate:
 * Starting is the most important part no matter what you do
 * You should be curious about things around you like
 * Learning doesn't mean purely academic learning
-* 
+* Have fun
+
+How can i communicate these things in my voice but effectively and in an engaging way? I think I just have to be myself, there's no shortcut or way I 
