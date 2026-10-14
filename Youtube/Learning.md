@@ -12,4 +12,4 @@ Things I want to communicate:
 * Learning doesn't mean purely academic learning
 * Have fun
 
-How can i communicate these things in my voice but effectively and in an engaging way? I think I just have to be myself, there's no shortcut or way I 
+How can i communicate these things in my voice but effectively and in an engaging way? I think I just have to be myself, there's no shortcut or way I can script I think I just have to be my pure spontaneous self and just know the material enough to be on the spot about it.
