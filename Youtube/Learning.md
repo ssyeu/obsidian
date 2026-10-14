@@ -16,4 +16,6 @@ How can i communicate these things in my voice but effectively and in an engagin
 
 Most people don't understand how anything around them works:
 * Do you know how the simple things around you work?
+* Do I know that?
+We should learn more about the things around us:
 * 
