@@ -29,3 +29,5 @@ Learning doesn't mean purely academic learning:
 Have fun:
 * Do it in a way where you can enjoy yourself, theres no point if you dont
 * You won't be consistent if you don't enjoy yourself
+
+I think I have to understand these to their core as good as I can, I should be deeply invested in them and I think I can just by writing more and more about it and understanding it the best I can.
