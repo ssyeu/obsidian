@@ -1,1 +1,2 @@
 [[script]]
+Learning in a world where we know and understand less and less: I think this concept is really good but how do I share it. The world changes everyday and we see newer and newer things everyday, but how does it all work? How does a spacebar get stabalized, how does my lamp turn off and on, how does my computer let me talk to my p
