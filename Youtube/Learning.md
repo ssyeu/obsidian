@@ -25,4 +25,7 @@ Starting is the most important part no matter what you do:
 Learning doesn't mean purely academic learning:
 * You should be more curious about the things that you like
 * Learn about something that you enjoy
-* It doesn't 
+* It doesn't have to be purely academic like math or science but it usually gets there.
+Have fun:
+* Do it in a way where you can enjoy yourself, theres no point if you dont
+* You won't be consistent if you don't enjoy yourself
