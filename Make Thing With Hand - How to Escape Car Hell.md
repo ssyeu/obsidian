@@ -1,0 +1,1 @@
+This video doesn't have an obvious deeper meaning but it has enough information to make up for it. It's not as engaging as the toher vids I really like but it's okay. It has enough information to be okay and the idea of it is nice. Bik
