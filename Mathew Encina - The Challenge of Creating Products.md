@@ -1,1 +1,0 @@
-Very informative, calm and well shot and cleanly edited. I really like Encina's videos, they are very informative on how his creative process works and how he execute

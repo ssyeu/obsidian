@@ -1,0 +1,2 @@
+[[art]]
+Very informative, calm and well shot and cleanly edited. I really like Encina's videos, they are very informative on how his creative process works and how he executes them. The video doesn't deliver a deeper meaning but it has so much info and is put together very well. I don't think that's the kind of video I can or want to make. I don't think I have the expertise to make a vid like this. Insight into someones process is a great video idea though.
