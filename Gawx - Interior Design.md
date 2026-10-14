@@ -1,0 +1,2 @@
+[[youtube]] [[art]]
+These videos I like are less of how to's and more of a story. I don't thin kthe learning vid will accomplish what I like in a video, it's too simple, too one dimensional. I want more depth if I make something, something that will actually stick with you. There has to be a s
