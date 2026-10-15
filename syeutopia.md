@@ -1,1 +1,1 @@
-welcome to my digital garden!
+welcome to my digital garden! This is where i learn and write about things i watch or read and where I attempt to write!
