@@ -1,0 +1,1 @@
+I think this video was a little informative but not very, it seems pretty surface level wikipedia search kind of thing but put in a format that most people can just chi
