@@ -1,1 +1,1 @@
-I actually really like this video, I think its an unadulterated view of someones perspective and what they think about a topic, there is less of this filter of the video, it just feels like someone is explaining something to me in person
+I actually really like this video, I think its an unadulterated view of someones perspective and what they think about a topic, there is less of this filter of the video, it just feels like someone is explaining something to me in person. I think it's really nice! It feels very simple but that's its strength, its just chill.
