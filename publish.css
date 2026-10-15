@@ -1,0 +1,208 @@
+/* ==========================================================
+   "Terrazzo" — a publish.css for Obsidian Publish
+   Warm clay paper, muted teal ink, terracotta accents,
+   rounded-mono type. Inspired by Monkeytype's terrazzo theme.
+   Put this file in the ROOT of your vault and publish it.
+   ========================================================== */
+
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;500;600;700&family=Roboto+Mono:ital,wght@0,400;0,500;0,700;1,400&display=swap");
+
+/* ---------- Shared tokens ---------- */
+body {
+  /* Swap --font-text-theme to "Lexend Deca" if you'd rather read
+     long notes in a sans-serif instead of mono. */
+  --font-text-theme: "Roboto Mono", ui-monospace, Menlo, monospace;
+  --font-interface-theme: "Roboto Mono", ui-monospace, Menlo, monospace;
+  --font-monospace-theme: "Roboto Mono", ui-monospace, Menlo, monospace;
+  --font-display: "Lexend Deca", system-ui, sans-serif;
+
+  --font-text-size: 16px;
+  --line-height-normal: 1.75;
+  --radius-s: 4px;
+  --radius-m: 10px;
+}
+
+/* ---------- Light: terrazzo ---------- */
+.theme-light {
+  --clay: #f1e2d7;        /* page background */
+  --clay-panel: #e7d3c5;  /* the darker pill/panel color */
+  --pine: #0b3d36;        /* deep green, like the logo */
+  --teal: #4a7a76;        /* body text (darkened slightly for readability) */
+  --teal-soft: #6f9a96;   /* muted text */
+  --terracotta: #e07a52;  /* the orange accent */
+  --walnut: #a3836b;      /* brown secondary */
+
+  --background-primary: var(--clay);
+  --background-primary-alt: var(--clay-panel);
+  --background-secondary: var(--clay);
+  --background-modifier-border: #e0c9b9;
+  --text-normal: var(--teal);
+  --text-muted: var(--teal-soft);
+  --text-faint: #9db3ae;
+  --text-accent: var(--terracotta);
+  --text-accent-hover: var(--pine);
+  --interactive-accent: var(--terracotta);
+  --link-color: var(--pine);
+  --link-color-hover: var(--terracotta);
+  --link-external-color: var(--walnut);
+  --text-highlight-bg: rgba(224, 122, 82, 0.25);
+  --text-selection: rgba(224, 122, 82, 0.22);
+  --blockquote-border-color: var(--terracotta);
+  --code-background: var(--clay-panel);
+  --code-normal: var(--pine);
+  --hr-color: #e0c9b9;
+  --tag-background: var(--clay-panel);
+  --tag-color: var(--teal);
+  --checkbox-color: var(--terracotta);
+}
+
+/* ---------- Dark: terrazzo after hours ---------- */
+.theme-dark {
+  --clay: #1d2624;
+  --clay-panel: #27332f;
+  --pine: #f1e2d7;        /* headings flip to warm clay */
+  --teal: #a9c6c2;
+  --teal-soft: #7f9e9a;
+  --terracotta: #ec8b63;
+  --walnut: #c4a48c;
+
+  --background-primary: var(--clay);
+  --background-primary-alt: var(--clay-panel);
+  --background-secondary: var(--clay);
+  --background-modifier-border: #33413d;
+  --text-normal: var(--teal);
+  --text-muted: var(--teal-soft);
+  --text-faint: #5f7774;
+  --text-accent: var(--terracotta);
+  --text-accent-hover: var(--pine);
+  --interactive-accent: var(--terracotta);
+  --link-color: var(--pine);
+  --link-color-hover: var(--terracotta);
+  --link-external-color: var(--walnut);
+  --text-highlight-bg: rgba(236, 139, 99, 0.25);
+  --text-selection: rgba(236, 139, 99, 0.25);
+  --blockquote-border-color: var(--terracotta);
+  --code-background: var(--clay-panel);
+  --code-normal: var(--terracotta);
+  --hr-color: #33413d;
+  --tag-background: var(--clay-panel);
+  --tag-color: var(--teal);
+  --checkbox-color: var(--terracotta);
+}
+
+/* ---------- Headings: chunky rounded sans in deep pine ---------- */
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.page-header,
+.site-header-text {
+  font-family: var(--font-display);
+  color: var(--pine);
+  letter-spacing: -0.015em;
+}
+
+.page-header,
+.markdown-rendered h1 {
+  font-size: 2.3em;
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+.markdown-rendered h2 { font-size: 1.6em; font-weight: 600; }
+.markdown-rendered h3 { font-size: 1.25em; font-weight: 500; color: var(--terracotta); }
+.markdown-rendered h4 { font-size: 1.05em; font-weight: 500; color: var(--walnut); }
+
+.site-header-text {
+  font-weight: 600;
+  font-size: 1.6em;
+}
+
+/* ---------- Links ---------- */
+.markdown-rendered a.internal-link,
+.markdown-rendered a.external-link {
+  text-decoration: underline;
+  text-decoration-color: var(--terracotta);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.external-link:hover {
+  color: var(--terracotta);
+}
+
+.markdown-rendered mark {
+  color: inherit;
+  padding: 0 0.2em;
+  border-radius: var(--radius-s);
+}
+
+/* ---------- Inline code looks like the little key badges ---------- */
+.markdown-rendered :not(pre) > code {
+  background: var(--teal-soft);
+  color: var(--clay);
+  border-radius: var(--radius-s);
+  padding: 0.1em 0.45em;
+  font-size: 0.82em;
+}
+
+.markdown-rendered pre {
+  background: var(--clay-panel);
+  border: none;
+  border-radius: var(--radius-m);
+}
+
+/* ---------- Quotes: a terracotta "caret" on the left ---------- */
+.markdown-rendered blockquote {
+  border-left: 3px solid var(--terracotta);
+  background: transparent;
+  padding: 0.2em 1em;
+  color: var(--teal-soft);
+}
+
+/* ---------- Callouts & tags: soft panels like the config bar ---------- */
+.markdown-rendered .callout {
+  background: var(--clay-panel);
+  border: none;
+  border-radius: var(--radius-m);
+  mix-blend-mode: normal;
+}
+
+.markdown-rendered .callout-title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--pine);
+}
+
+.markdown-rendered .callout-icon {
+  color: var(--terracotta);
+}
+
+.markdown-rendered a.tag {
+  border-radius: 6px;
+  padding: 0.15em 0.6em;
+  font-size: 0.8em;
+}
+
+.markdown-rendered a.tag:hover {
+  color: var(--terracotta);
+}
+
+/* ---------- Sidebar navigation ---------- */
+.nav-view .tree-item-self {
+  border-radius: 6px;
+}
+
+.nav-view .tree-item-self.is-active {
+  background: var(--clay-panel);
+  color: var(--terracotta);
+  font-weight: 500;
+}
+
+/* ---------- Accessibility ---------- */
+a:focus-visible {
+  outline: 2px solid var(--terracotta);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
