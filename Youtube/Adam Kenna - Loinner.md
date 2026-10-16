@@ -1,2 +1,5 @@
+---
+dg-publish: true
+---
 [[low]] 
 This vid is nice but it's a lot slower, more calm and chill. It's alright I guess, the topic of the vid is good I think but the vid doesn't do it justice. Theres not that energy to it but maybe the creator is just chill like that. But for me it also end sup being a little one note and boring. This is what the learning vid would have ended up like if I don't try to dive deeper.
