@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[math]]
 
 https://www.youtube.com/watch?v=HZGCoVF3YvM

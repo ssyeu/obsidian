@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[society]]
 How are countries democratic? Initial assumptions were that the wealthier you get the more democratic it gets, but it is a choice made by specific people. 
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[art]]
 clean and simple, a genius values simplicity while an idiot values complexity. I feel like things have to look simple on the surface but still have depth to it, that's the most optimal thing that makes things feel simple and clean but have depth.
 

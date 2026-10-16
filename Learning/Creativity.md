@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[art]]
 its always better to create something bad than something good
 you need to know your taste to create something you like
