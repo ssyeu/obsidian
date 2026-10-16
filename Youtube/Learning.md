@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[script]]
 Learning in a world where we know and understand less and less: I think this concept is really good but how do I share it. The world changes everyday and we see newer and newer things everyday, but how does it all work? How does a spacebar get stabilized, how does my lamp turn off and on, how does my computer let me talk to my puter friends, and a why does anything exist at all? Maybe a bit too far. But are't you a little curious how the things around you work. Maybe we should know more or at least a little more than we do. There's so much in the world, so many things and events and chaos, where do we even get started! You start by well starting, it doesn't matter what you learn about or how bad your study strategies are, if you start you are better than 99% of people. The thing is we should know more about the world around us, decipher that chaos a bit, and we shouldn't just see other people's interpretations, we should make our own. Go see original sources yourself, go have you own ideas and opinions about it instead of just regurgitating someone elses. I think more people be more curious about more things even if it's for the selfish reason of like, it making you look smart. 
 

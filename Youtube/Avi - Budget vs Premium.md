@@ -1,2 +1,5 @@
+---
+dg-publish: true
+---
 [[high]] [[art]]
 I like the aspect ratio, it feels retro but close and personal while still having space. Hand held shots mixed with the super nice looking ones, that variety that was mentioned earlier. Variety is a friend. Mixed in some chill kind of unrelated footage but it shows him as human too. It tries to get to something deeper through the keyboard. The music adds so much momentum and the people invited to speak adds so much, idk, like more meaning to it, like more credibility. It feels like there's an entire arc to this short 10 min video. He expresses himself really well too. Lands on this intention that defines quality. The lighting and color grading also feel so nice but natural and colorful. The music choices are really good too.

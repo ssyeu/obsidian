@@ -1,2 +1,5 @@
+---
+dg-publish: true
+---
 [[high]] [[art]]
 These videos I like are less of how to's and more of a story. I don't think the learning vid will accomplish what I like in a video, it's too simple, too one dimensional. I want more depth if I make something, something that will actually stick with you. There has to be a story to it, not just a how to. The color grading, lighting, audio, shots, everything in this video is artistically done. It all leads to something more. Topic -> something deeper -> back to topic. The movement in shots is well done here too. I can and should make the vid about learning I just need to tie it to something deeper. What is that something. Finding passion, looking at things past a surface level? Maybe the world around us is less and less understood by us, like our curiosity has been sapped away.
