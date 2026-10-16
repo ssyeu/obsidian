@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[society]]
 is population numbers going down bad? I was thinking about it and if the population decreases wouldn't the needs of the general population also decrease since there's less people? Why would it really matter. From an initial search it seems like its because a shrinking young population would have to deal with an increasing older population but that's only temporary right? It would pass once the old people die and things would normalize. I guess it wouldn't normalize if the population just kept shrinking. 
 

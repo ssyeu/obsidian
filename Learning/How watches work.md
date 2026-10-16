@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[watches]]
 im curious how watches work since im getting into them more and i want to get more into the nitty gritty.
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[media]]
 The book is about how digital locks are bad for artists and support the middle men who spread the info. At first it seems like digital locks are good for artists since they decide how to monetize it and they can in new ways. But it consolidates power into the distributers.
 

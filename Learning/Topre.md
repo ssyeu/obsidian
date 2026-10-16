@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 https://www.topre.co.jp/80th/history/
 https://www.topre.co.jp/company/history.html
 https://en.wikipedia.org/wiki/Topre

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[society]]
 https://www.youtube.com/watch?v=KBcnw7PR_rw&t=436s
 
