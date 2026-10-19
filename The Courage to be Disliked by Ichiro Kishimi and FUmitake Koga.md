@@ -1,2 +1,3 @@
 The first chapter seems interesting enough, it sets the premise for the book, there is a philosopher and a young man and the book is their conversations, the philosopher thinks that the world is simple and everyone can change and be happy while the young man disagrees. There's this weird moment when the young man says that people of old could be happy because religion held sway in their lives? I think that is a little odd... is the book trying to be pro religion? It just seemed like a strange line to me thats all.
 
+The second chapter is an introduction to 
