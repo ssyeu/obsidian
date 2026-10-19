@@ -2,4 +2,4 @@ The first chapter seems interesting enough, it sets the premise for the book, th
 
 The second chapter is an introduction to the first major part of the book. The philosopher talks about hwo he believes in a psychologist named Alfred Adler and his individual psychology and he names a bunch of super popular dad tech bro books that reference it or seem very similar to it. 
 
-Second chapter talks about how we can't focus on the past and how only the present matters. If we think that the effects of the present are in the
+Second chapter talks about how we can't focus on the past and how only the present matters. If we think that the effects of the present are in the past we end up with determinism and that our present and future are decided which they both disagree on. Then the philosopher talks about how people have 
