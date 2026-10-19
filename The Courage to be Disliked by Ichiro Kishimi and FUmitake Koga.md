@@ -1,0 +1,1 @@
+The first chapter seems interesting enough, it sets the premise for the book, there is a philosopher and a young man and the book is th
