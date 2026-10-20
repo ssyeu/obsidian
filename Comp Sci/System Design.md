@@ -1,0 +1,1 @@
+Computer architecture: decoder that only understands binary, 
