@@ -1,1 +1,1 @@
-Computer architecture: decoder that only understands binary, disk storage stores primary data, its non volatile so it can maintain data without power. Ram is the primary data holder for 
+Computer architecture: decoder that only understands binary, disk storage stores primary data, its non volatile so it can maintain data without power. Ram is the primary data holder for data that is in use, when a program runs it uses ram to quickly read and write. It's volatile so it needs power to keep its memory. Cache 
