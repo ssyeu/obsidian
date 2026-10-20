@@ -1,1 +1,1 @@
-Computer architecture: decoder that only understands binary, 
+Computer architecture: decoder that only understands binary, disk storage stores primary data, its non volatile so it can maintain data without power. Ram is the primary data holder for 
