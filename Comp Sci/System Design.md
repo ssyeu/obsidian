@@ -14,4 +14,4 @@ Networking basics is how computers communicate with each other, IP addresses is 
 
 
 
-One server and database won't scale with increased 
+One server and database won't scale with increased user inputs, distributed systems are far more desirable and better to work with. They are easier to scale, vertical scaling is when we upgrade existing hardware and horizontal is when we add more hardware.
