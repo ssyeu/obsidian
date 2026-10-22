@@ -9,3 +9,9 @@ CAP theorem, balances between three key aspects, consistency, availability, and 
 Availability is measured by what percent of time the server is up with 99.999% being the goal which means theres only 5 minutes of downtime a year. To achieve this we could implement things to degrade gracefully or use backups. To measure how this is done we use reliability, fault tolerance, and redundancy. Reliability is how consistent the system is, fault tolerance is how resiliant a system is to unexpected faulures, redundancy is making sure that things still work with backups even if things go wrong. Speed is measured through throughput and latency. Throughput is how many inputs a server can take at a single time or how many queries can be taken a second or bytes that can be taken per second. Latency is how long it takes to get a response per request. Optimizing for throughput can increase latency and reducing latency can lead to less throughput. These things are hard to build but even harder to change as things go on and things scale, so it is very important to make sure that everything has a solid foundation with all these concepts to reduce the chance of a rebuild being necessary and lead to a healthy system that can thrive.
 
 Networking basics is how computers communicate with each other, IP addresses is how they realize which computer is which. Internet protocol is a set of rules that defines how data is sent and received. Application layer is data that is related to the application is stored, and the layer on the receiving device is what interprets it. Transport layer is what delivers the data reliability and makes sure the data is correct. Networking infrastructure, ip addresses can be public or private with public being unique to the computer while private is unique to the network, local area networks can directly connect with each other. Protected with firewall.
+
+
+
+
+
+One server and database won't scale with increased 
