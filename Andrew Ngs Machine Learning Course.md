@@ -1,1 +1,1 @@
-supervised learning vs unsu
+supervised learning vs unsupervised learning
