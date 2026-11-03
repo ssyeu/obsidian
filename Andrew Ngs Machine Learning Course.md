@@ -1,2 +1,2 @@
 supervised learning vs unsupervised learning
-supervised learning is giving it input A and wanting output B while giving it examples to learn from. Learn from being given the right answer. It learns to take just the input and gives a reasonably accurate prediction. An example would be a spam filter that is trained by being shown spam and not spam that is accu
+supervised learning is giving it input A and wanting output B while giving it examples to learn from. Learn from being given the right answer. It learns to take just the input and gives a reasonably accurate prediction. An example would be a spam filter that is trained by being shown spam and not spam that is accurately labeled so that it will learn what to identify as spam.
