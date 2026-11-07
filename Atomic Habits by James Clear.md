@@ -1,1 +1,1 @@
-This book was solidly okay, it had some decent advice and some advice that wasn't that decent. I
+This book was solidly okay, it had some decent advice and some advice that wasn't that decent. I think it was a book written for the ordinary person with little struggle in their lives other than wanting to make some better habits. It seems a little out of touch with the problems of regular life and seems to not even understand that some of the things he recommends might be difficult for someone, it's very strange.
