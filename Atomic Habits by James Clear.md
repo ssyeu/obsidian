@@ -1,0 +1,1 @@
+This book was solidly okay, it had some decent advice and some advice that wasn't that decent. I
