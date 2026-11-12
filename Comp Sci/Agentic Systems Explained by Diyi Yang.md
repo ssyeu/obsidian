@@ -1,1 +1,1 @@
-agent: laten, one who acts. Agent environment loop, agents take actions in the environment and then the action leads to a reward
+agent: laten, one who acts. Agent environment loop, agents take actions in the environment and then the action leads to a reward or punishment that leads to the agent taking another action. Deep Q Network or DQN is an agent that was trained to beat games. Large Language Models
