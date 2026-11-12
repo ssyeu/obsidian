@@ -1,1 +1,1 @@
-agent: laten, one who acts.
+agent: laten, one who acts. Agent environment loop, agents take actions in the environment and then the action leads to a reward
